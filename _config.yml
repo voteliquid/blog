@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Liquid Democracy"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Bringing Liquid Democracy to the United States
 
-email: a-mail@mail.mail
+email: info@liquid.vote
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
@@ -20,10 +20,10 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://jekyll.liquid.vote" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@liquid_vote'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -31,8 +31,8 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/liquid_vote
+    desc: Follow us on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -45,15 +45,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/liquidvote
+    desc:	Join us on GitHub
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
