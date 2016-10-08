@@ -4,8 +4,8 @@ title: "Upgrading Democracy"
 date: 2016-07-04 14:34:25
 categories: mediator feature
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
+image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 ---
 # Upgrading Democracy
 
@@ -15,7 +15,7 @@ We start from the following principle: **An ideal government represents and is a
 
 In order to better realize this ideal government, we have set out to make voting more trustable, efficient, and accessible.
 
-![American flag](/)
+![](/assets/article_images/2016-07-04-upgrading-democracy/flag.jpeg)
 
 We believe modern technology, like digital devices and distributed ledgers, can help us more closely embody the democratic promise of the United States of America.
 
