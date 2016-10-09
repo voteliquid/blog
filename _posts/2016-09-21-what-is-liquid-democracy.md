@@ -84,4 +84,11 @@ Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coene
 
 For more, read:
 
-<div class="graf graf--mixtapeEmbed graf-after--p graf--last"><a href="https://blog.liquid.vote/the-internet-party-200a3b2497ce#.vi6pbygum" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://blog.liquid.vote/the-internet-party-200a3b2497ce#.vi6pbygum"><strong class="markup--strong markup--mixtapeEmbed-strong">The Internet Party</strong><br><em class="markup--em markup--mixtapeEmbed-em">How technology can disrupt politics and re-invent government</em>blog.liquid.vote</a><a href="https://blog.liquid.vote/the-internet-party-200a3b2497ce#.vi6pbygum" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-thumbnail-img-id="0*F1MzmRf5FZCvavto." style="background-image: url(https://cdn-images-1.medium.com/fit/c/320/320/0*F1MzmRf5FZCvavto.);"></a></div>
+<div class="cross-link">
+  <a href="{% post_url 2016-08-09-the-internet-party %}" title="The Internet Party" class="container">
+    <strong>The Internet Party</strong><br>
+    <em>How technology can disrupt politics and re-invent government</em>
+    blog.liquid.vote
+    <span class="thumbnail" style="background-image: url(https://cdn-images-1.medium.com/fit/c/320/320/0*F1MzmRf5FZCvavto.)" />
+  </a>
+</div>
