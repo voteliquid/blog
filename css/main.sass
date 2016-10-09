@@ -444,39 +444,38 @@ body
       list-style-type: decimal
     .cross-link
       font-family: $font-sans
-      letter-spacing: 0
       margin-bottom: 30px
+      display: flex
       a.container
-        display: block
         height: 110px
+        flex-grow: 1
+        box-sizing: border-box
+        padding: 15px
         border: 1px solid rgb(231, 231, 231)
-        padding-left: 13px
-        font-size: 11px
-        color: #868686
+        display: flex
+        flex-direction: column
+        justify-content: space-between
         text-decoration: none
-        position: relative
+        letter-spacing: 0
         strong
-          display: block
-          color: black
           font-size: 15px
           font-weight: 500
-          margin-top: 20px
+          color: black
         em
-          display: block
-          font-style: normal
           font-size: 13px
-          margin-top: -8px
-          margin-bottom: 7px
           color: #2e2e2e
-        .thumbnail
-          width: 110px
-          height: 110px
-          background-size: contain
-          background-repeat: no-repeat
-          position: absolute
-          bottom: -1px
-          right: -1px
-          border: 1px solid rgb(231, 231, 231)
+          font-style: normal
+        span
+          font-size: 11px
+          color: #868686
+      .thumbnail
+        width: 110px
+        height: 110px
+        box-sizing: border-box
+        background-size: contain
+        background-repeat: no-repeat
+        background-position-y: center
+        border: 1px solid rgb(231, 231, 231)
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans

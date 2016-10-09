@@ -86,9 +86,9 @@ For more, read:
 
 <div class="cross-link">
   <a href="{% post_url 2016-08-09-the-internet-party %}" title="The Internet Party" class="container">
-    <strong>The Internet Party</strong><br>
+    <strong>The Internet Party</strong>
     <em>How technology can disrupt politics and re-invent government</em>
-    blog.liquid.vote
-    <span class="thumbnail" style="background-image: url(https://cdn-images-1.medium.com/fit/c/320/320/0*F1MzmRf5FZCvavto.)" />
+    <span>blog.liquid.vote</span>
   </a>
+  <a class="thumbnail" style="background-image: url(https://cdn-images-1.medium.com/fit/c/320/320/0*F1MzmRf5FZCvavto.)"> </a>
 </div>
