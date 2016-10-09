@@ -78,16 +78,6 @@
             </section>
           </div>
           {{/post}}
-          <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
-            <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
-              <div class="inner">
-                <section class="copyright">Content copyright <a href="{{@blog.url}}/">{{ author.name }}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
-              </div>
-            </footer>
-          </div>
         </div>
         {%if site.disqus %}
         <div id="disqus_thread"></div>
