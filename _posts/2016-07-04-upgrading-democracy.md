@@ -50,5 +50,3 @@ Sign up for more information at [https://join.liquid.vote](https://join.liquid.v
 #### Signatories:
 
 [David Ernst](https://twitter.com/dsernst), [Rohan Dixit](https://www.facebook.com/rdixit108), & [Jared Scheib](https://www.facebook.com/jared.scheib)
-
-Contact us to add your name.
