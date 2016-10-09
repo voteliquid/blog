@@ -7,6 +7,7 @@ date: 2016-08-09 14:34:25
 tags: Politics, Democracy, Networks, Liquid Democracy, San Francisco
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
 image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
+excerpt: "Today just 19% of Americans say they trust government. Only one in ten Americans approve of Congress — the lowest level in American history."
 thanks:
   - JaredScheib
 ---

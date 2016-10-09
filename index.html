@@ -42,10 +42,12 @@ layout: default
             </section>
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+              <h3>{{ post.subtitle | strip_html | truncatewords: 50 }}</h3>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.subtitle | strip_html | truncatewords: 50 }}</p>
+              <p>{{ post.excerpt | truncatewords: 50 }}</p>
             </section>
+            <a class="read-more" href="{{ post.url }}">Read more...</a>
           </div>
         </article>
       {% endfor %}

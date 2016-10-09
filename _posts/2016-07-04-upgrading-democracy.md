@@ -7,6 +7,7 @@ date: 2016-07-04 14:34:25
 tags: Politics, Voting, America, Technology, Democracy
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
 image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
+excerpt: "We start from the following principle: <strong>An ideal government represents and is accountable to all its people equally.</strong>"
 ---
 # Upgrading Democracy
 
