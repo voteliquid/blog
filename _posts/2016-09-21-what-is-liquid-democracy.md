@@ -50,7 +50,7 @@ Delegation passes transitively, from one person to the next. So if you entrust y
 
 This is the key to Liquid Democracy. Networks of trust allow it to flourish at scale, where Direct Democracy fails.
 
-![Play with this vote delegation simulator: https://demo.liquid.vote](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)
+[![Play with this vote delegation simulator: https://demo.liquid.vote](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.vote)
 
 #### Representation & Accountability
 
