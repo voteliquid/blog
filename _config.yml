@@ -15,6 +15,7 @@ logo: "/assets/images/icon-reduced-300.png"
 cover: "/assets/images/typewriter_cover.jpg"
 
 paginate:	5
+permalink: pretty # remove .html from post urls
 
 url: "https://jekyll.liquid.vote" # the base hostname & protocol for your site
 baseurl: ""
