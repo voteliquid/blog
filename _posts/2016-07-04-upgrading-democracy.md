@@ -2,8 +2,7 @@
 layout: post
 title: "Upgrading Democracy"
 date: 2016-07-04 14:34:25
-categories: mediator feature
-tags: featured
+tags: Politics, Voting, America, Technology, Democracy
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
 image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 ---

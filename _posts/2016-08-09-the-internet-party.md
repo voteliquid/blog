@@ -2,7 +2,6 @@
 layout: post
 title: "The Internet Party"
 date: 2016-08-09 14:34:25
-categories: feature
 tags: Politics, Democracy, Networks, Liquid Democracy, San Francisco
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
 image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
