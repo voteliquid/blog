@@ -3,7 +3,7 @@ blog
 
 A repo dedicated to the Liquid Democracy blog
 
-![screenshot](/assets/images/screenshot1.png)
+<img src="/assets/images/screenshot2.png" title="screenshot" width="1027px" />
 
 Features
 -------
