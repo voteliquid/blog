@@ -32,15 +32,20 @@ layout: default
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
+            {% assign author = site.data.authors[post.author] %}
+            <section class="author">
+              <div class="author-image" style="background-image: url({{ author.image }})">author</div>
+              <div class="author-name">{{ author.name }}</div>
+              <div class="post-meta">
+                <time datetime="{{ post.date | date: "%F %R" }}">{{ post.date | date: "%b %-d" }}</time>
+              </div>
+            </section>
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.subtitle | strip_html | truncatewords: 50 }}</p>
             </section>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-            </div>
           </div>
         </article>
       {% endfor %}
