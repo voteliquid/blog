@@ -14,10 +14,6 @@ logo: "/assets/images/icon-reduced-300.png"
 # blog cover
 cover: "/assets/images/typewriter_cover.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
-
 paginate:	5
 
 url: "https://jekyll.liquid.vote" # the base hostname & protocol for your site
