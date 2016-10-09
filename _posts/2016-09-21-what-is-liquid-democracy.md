@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What is Liquid Democracy and why is it so great?"
+title: What is Liquid Democracy?
+subtitle: And why is it so great?
 date: 2016-09-21 14:34:25
 tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG

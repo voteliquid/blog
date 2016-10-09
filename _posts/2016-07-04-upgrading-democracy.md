@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Upgrading Democracy"
+title: Upgrading Democracy
+subtitle: How Voting Could Work Now, 240 Years Later
 date: 2016-07-04 14:34:25
 tags: Politics, Voting, America, Technology, Democracy
 image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
