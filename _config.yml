@@ -17,7 +17,7 @@ cover: "/assets/images/typewriter_cover.jpg"
 paginate:	5
 permalink: pretty # remove .html from post urls
 
-url: "https://jekyll.liquid.vote" # the base hostname & protocol for your site
+url: "https://blog.liquid.vote" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@liquid_vote'
