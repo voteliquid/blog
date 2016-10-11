@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: 404.html
+title: "404: Page not found"
 ---
 
 <div class="teaserimage">
@@ -29,49 +30,7 @@ permalink: 404.html
 
 <main class="content" role="main">
 
-    <div class="cf frame">
-      {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-
-            {% assign author = site.data.authors[post.author] %}
-            <section class="author">
-              <div class="author-image" style="background-image: url({{ author.image }})">author</div>
-              <div class="author-name">{{ author.name }}</div>
-              <div class="post-meta">
-                <time datetime="{{ post.date | date: "%F %R" }}">{{ post.date | date: "%b %-d" }}</time>
-              </div>
-            </section>
-
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-              <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.excerpt | truncatewords: 50 }}</p>
-            </section>
-            <a class="read-more" href="{{ post.url }}">Read more...</a>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
-
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
+    <h2>Sorry, page not found.</h2>
+    <h3><a href="/">&#8626; Head back home</a>.</h3>
 
 </main>
