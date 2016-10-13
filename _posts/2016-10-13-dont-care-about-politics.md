@@ -15,7 +15,7 @@ excerpt: "There are all sorts of reasons how Liquid Democracy can improve your l
 
 You could sort Americans into two types: people who pay attention to politics, and those who don't. It seems like 9 out of 10 are in the second group.
 
-There are all sorts of reasons how Liquid Democracy can improve your life if you care about politics, but it's important to also show how it makes things easier for those who just aren't all that interested.
+There are all sorts of reasons how [Liquid Democracy](/2016/09/21/what-is-liquid-democracy/) can improve your life if you care about politics, but it's important to also show how it makes things easier for those who just aren't all that interested.
 
 ### Rock The Vote
 
