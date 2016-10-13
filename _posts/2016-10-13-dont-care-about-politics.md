@@ -25,7 +25,7 @@ In our current world, citizens are expected to go to the polling booth at least 
 
 ### Liquid Democracy does away with this idea.
 
-The first big difference is that there aren't once-every-4-year elections. Once you've found someone you like, you can stick with them as long as you like.
+The first big difference is that there aren't once-every-4-year elections. Once you've found someone you respect, you can stick with them as long as you like.
 
 More importantly, Liquid Democracy isn't winner-take-all, so there's no pressure to stop a bad candidate from taking office and representing the entire district.
 
