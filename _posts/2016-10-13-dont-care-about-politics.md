@@ -21,7 +21,7 @@ There are all sorts of reasons how Liquid Democracy can improve your life if you
 
 In our current world, citizens are expected to go to the polling booth at least every 4 years, and really every 2. And for each election, it's your "civic duty" to research the candidates to make the best choice. After all, you're going to be stuck with that lawmaker for the next few years. And even if you don't vote, they still "represent" you.
 
-!["Civic duty"](/assets/article_images/2016-10-13-dont-care-about-politics/bad-politicians-elected-by-not-voting.png)
+<img src="/assets/article_images/2016-10-13-dont-care-about-politics/bad-politicians-elected-by-not-voting.png" alt="&quot;Civic duty&quot;" width="300" />
 
 ### Liquid Democracy does away with this idea.
 
