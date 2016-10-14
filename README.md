@@ -16,8 +16,8 @@ Features
 
 Getting Started
 ---
-- Fork the repository
-- Clone it: `git clone https://github.com/YOUR-USER/mediator`
+- Fork this repository
+- Clone it: `git clone https://github.com/YOUR-USER/blog`
 - Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
 - Run the jekyll server: `bundle exec jekyll serve`
 
