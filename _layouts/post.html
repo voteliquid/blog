@@ -98,7 +98,10 @@
     </main>
     <div class="subscribe-cta">
       <label>Subscribe for Democracy</label>
-      <input type="text" placeholder="Email Address" id="voter-email" /><input type="submit" value="Subscribe" id="btn-subscribe" onclick="subscribeButton()" />
+      <div id="subscribe-inputs">
+        <input type="text" placeholder="Email Address" id="voter-email" /><input type="submit" value="Subscribe" id="btn-subscribe" onclick="subscribeButton()" />
+      </div>
+      <p id="subscribe-confirmation" style="display: none"> &#10004; Subscribed</p>
       <script>
         function subscribeButton () {
           return $.ajax({
@@ -109,13 +112,14 @@
             data: JSON.stringify({
               email: document.getElementById('voter-email').value
             }),
-            dataType: 'json',
             processData: false,
-            success: function(res) {
-              console.log('res', res)
+            success: function(response) {
+              console.log('subscribe response', response)
+              document.getElementById("subscribe-inputs").style.display = 'none'
+              document.getElementById("subscribe-confirmation").style.display = 'block'
             },
-            error: function(err) {
-              console.log('err', err)
+            error: function(error) {
+              console.log('subscribe error', error)
             }
           })
         }
