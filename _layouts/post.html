@@ -101,16 +101,13 @@
       <input type="text" placeholder="Email Address" id="voter-email" /><input type="submit" value="Subscribe" id="btn-subscribe" onclick="subscribeButton()" />
       <script>
         function subscribeButton () {
-          const voterEmail = document.getElementById('voter-email').value
-          console.log(voterEmail)
-
           return $.ajax({
             url: 'https://api.liquid.vote/subscribe',
             type: 'POST',
             accept: 'application/json',
             contentType: 'application/json',
             data: JSON.stringify({
-              email: voterEmail.value
+              email: document.getElementById('voter-email').value
             }),
             dataType: 'json',
             processData: false,
