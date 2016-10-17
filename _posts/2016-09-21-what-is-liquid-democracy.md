@@ -26,7 +26,7 @@ Representative Democracy is supposed to fix this. Instead of expecting everyone 
 
 This solves the issue of not enough time to stay informed, but introduces new problems:
 
-- Many people are unhappy with their limited choices of representation by candidates who may seem inauthentic or without substance.
+- Many people are unhappy with their limited choice of candidates, who may seem inauthentic or without substance.
 - Winner-take-all elections entrench a two party system, leading to extreme polarization.
 - And perhaps worst of all, power corrupts and skeptics wonder if the system is rigged by corporate lobbying and campaign finance.
 
