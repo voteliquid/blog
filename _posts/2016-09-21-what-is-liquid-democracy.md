@@ -27,7 +27,7 @@ Representative Democracy is supposed to fix this. Instead of expecting everyone 
 This solves the issue of not enough time to stay informed, but introduces new problems:
 
 - Many people feel limited by their choices in candidates, who may seem inauthentic or without substance.
-- Winner-take-all elections entrench a two party system, leading to extreme polarization.
+- Winner-take-all elections entrench a two-party system.
 - And perhaps worst of all, power corrupts and skeptics wonder if the system is rigged by corporate lobbying and campaign finance.
 
 Liquid Democracy aims to solve all of this, to offer the best of both systems.
