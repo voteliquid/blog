@@ -32,8 +32,6 @@ This solves the issue of not enough time to stay informed, but introduces new pr
 
 Liquid Democracy aims to solve all of this, to offer the best of both systems.
 
-![](/assets/article_images/2016-09-21-what-is-liquid-democracy/democracy-is-the-freedom-to-elect-our-own-dictators.png)
-
 ### Delegation
 
 In a Liquid Democracy, you pick a trusted delegate to vote on your behalf when you’re not able to.
