@@ -28,7 +28,7 @@ This solves the issue of not enough time to stay informed, but introduces new pr
 
 - Many people feel limited by their choices in candidates, who may seem inauthentic or without substance.
 - Winner-take-all elections entrench a two-party system.
-- And perhaps worst of all, power corrupts and skeptics wonder if the system is rigged by corporate lobbying and campaign finance.
+- And perhaps worst of all, power can corrupt, and skeptics wonder if the current system is rigged by corporate lobbying and campaign finance.
 
 Liquid Democracy aims to solve all of this, to offer the best of both systems.
 
