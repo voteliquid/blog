@@ -534,10 +534,50 @@ body
     text-decoration: none
     color: #bbb
     padding-left: 12px
+    font-size: 30px
     .hidden
       display: none
     &:hover
       color: #333
+
+.subscribe-cta
+  background-color: rgba(186,179,162,0.4)
+  text-align: center
+  padding: 37px 0 52px
+  label
+    display: block
+    font-size: 23px
+    letter-spacing: -0.5px
+    margin-bottom: 25px
+  input[type="text"]
+    box-sizing: border-box
+    height: 40px
+    width: 240px
+    padding-left: 12px
+    font-weight: bold
+    font-size: 12px
+    border-width: 0
+    border-radius: 2px
+    color: #2f2f2f
+    &:focus
+      border-color: #66afe9
+      outline: 0
+      box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(102,175,233,0.9)
+  input[type="submit"]
+    box-sizing: border-box
+    height: 40px
+    border: none
+    background-color: #2b71b1
+    color: white
+    text-transform: uppercase
+    font-weight: bold
+    padding: 0 12px
+    border-radius: 2px
+    &:hover
+      background-color: #16548E
+      cursor: pointer
+    &:active
+
 
 .bottom-closer
   width: 100%
@@ -587,14 +627,17 @@ body
     .btn
       display: inline-block
       text-align: center
-      font-size: 15px
+      font-size: 13px
+      font-weight: 600
       text-decoration: none
-      background: #333f86
+      background: #2b71b1
       color: #fff
       border-radius: 999em
       line-height: 44px
       padding: 0 18px
-      border: 1px solid rgba(255,255,255,0.3)
+      &:hover
+        background: #16548E
+        cursor: pointer
 
 #disqus_thread
   margin-top: 50px
