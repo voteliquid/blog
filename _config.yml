@@ -47,3 +47,10 @@ social:
     share_url:
     share_title:
     share_link:
+
+  - icon: email
+    url:  mailto:info@liquid.vote
+    desc: Contact us by email
+    share_url:
+    share_title:
+    share_link:
