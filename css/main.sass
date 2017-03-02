@@ -39,25 +39,6 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
-.logo-readium
-  position: fixed
-  left: 10px
-  top: 10px
-  width: $rs*3
-  height: $rs*3
-  background-color: #181e2b
-  overflow: hidden
-  z-index: 99
-  .logo
-    display: block
-    position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
-    background-size: cover
-    background-repeat: no-repeat
-
 .teaserimage
   height: 450px
   position: relative
@@ -130,6 +111,42 @@ body
         margin-right: 0
       &:hover
         color: #333
+
+.logo-readium
+  position: fixed
+  left: 10px
+  top: 10px
+  width: $rs*3
+  height: $rs*3
+  background-color: #181e2b
+  overflow: hidden
+  z-index: 99
+  .logo
+    display: block
+    position: absolute
+    top: $rs/2
+    left: $rs/2
+    width: $rs*2
+    height: $rs*2
+    background-size: cover
+    background-repeat: no-repeat
+.header-bar
+  background-color: #181e2b
+  height: $rs*3 + 20
+  width: 100%
+  .title-container
+    width: 100%
+    max-width: 640px
+    margin: 0 auto
+    @include respond-to(800)
+      padding-left: 60px
+    .blog-title
+      color: #eee
+      font-size: 22px
+      font-weight: 700
+      line-height: 68px
+      margin: 0
+      text-transform: uppercase
 
 .content
   width: 100%
@@ -219,9 +236,10 @@ body
   position: absolute
   top: 10px
   right: 30px
-  line-height: 44px
+  color: #eee
   font-size: 14px
   font-family: $font-sans
+  line-height: 48px
   z-index: 999
 
 .site-footer

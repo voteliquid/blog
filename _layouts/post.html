@@ -5,7 +5,12 @@
 <html>
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/Article">
-    <a href="/" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
+    <div class="header-bar">
+      <a href="/" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
+      <div class="title-container">
+        <p class="blog-title">{{ site.title }}</p>
+      </div>
+    </div>
     <main class="content" role="main">
       <article class="post">
         <div class="post-meta">
