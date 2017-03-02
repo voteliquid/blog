@@ -4,14 +4,8 @@ title: "Don't care about politics?"
 subtitle: "Liquid Democracy is easier for you too"
 author: davidernst
 date: 2016-10-13
-image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
-image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 excerpt: "There are all sorts of reasons how Liquid Democracy can improve your life if you care about politics, but it's important to also show how it makes things easier for those who just aren't all that interested."
 ---
-
-# Don't care about politics?
-
-## Liquid Democracy is easier for you too
 
 You could sort Americans into two types: people who pay attention to politics, and those who don't. It seems like 9 out of 10 are in the second group.
 

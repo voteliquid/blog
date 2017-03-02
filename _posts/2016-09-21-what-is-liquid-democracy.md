@@ -5,12 +5,8 @@ subtitle: And why is it great?
 author: davidernst
 date: 2016-09-21 14:34:25
 tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
-image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
-image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 excerpt: "Liquid Democracy is a new form of democracy that combines the practicality of Representative Democracy with the authenticity of Direct Democracy, enabled by 21st century technology."
 ---
-
-# What is Liquid Democracy and why is it great?
 
 *This is only a brief introduction. Sign up for more information: [https://join.liquid.vote](https://join.liquid.vote)*
 

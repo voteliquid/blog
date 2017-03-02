@@ -4,12 +4,8 @@ title: "Why hasn't voting changed?"
 subtitle: ""
 author: henrywong
 date: 2017-02-09
-image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
-image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 excerpt: "American voting goes back to 1776. Today it hasn't changed much. We still go to a polling center. Pony Express is now USPS. People still tally up all the votes by hand."
 ---
-
-# Why hasn't voting changed?
 
 American voting goes back to 1776.
 
