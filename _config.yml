@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Liquid Democracy"
+title: "The Liquid Blog"
 description: > # this means to ignore newlines until "email:"
-   Bringing Liquid Democracy to the United States
+   Liquid Democracy is now possible.
 
 email: info@liquid.vote
 #blog logo
