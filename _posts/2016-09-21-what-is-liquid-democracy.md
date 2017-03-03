@@ -8,8 +8,6 @@ tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
 excerpt: "Liquid Democracy is a new form of democracy that combines the practicality of Representative Democracy with the authenticity of Direct Democracy, enabled by 21st century technology."
 ---
 
-*This is only a brief introduction. Sign up for more information: [https://join.liquid.vote](https://join.liquid.vote)*
-
 Liquid Democracy is a new form of democracy that combines the practicality of Representative Democracy with the authenticity of Direct Democracy, enabled by 21st century technology.
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-logo.png)
@@ -73,16 +71,3 @@ Our plan is to bring Liquid Democracy to the United States, in a way that doesnâ
 ---------
 
 Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coenen, Teresa Yung, Eshan Kejriwal, Matt Conrad, Nick Sippl-Swezey, Naomi Njugi, Ryan Atkinson, and Dominik Schiener for feedback and other contributions.
-
----------
-
-For more, read:
-
-<div class="cross-link">
-  <a href="{% post_url 2016-08-09-the-internet-party %}" title="The Internet Party" class="container">
-    <strong>The Internet Party</strong>
-    <em>How technology can disrupt politics and re-invent government</em>
-    <span>blog.liquid.vote</span>
-  </a>
-  <a class="thumbnail" style="background-image: url(https://cdn-images-1.medium.com/fit/c/320/320/0*F1MzmRf5FZCvavto.)"> </a>
-</div>
