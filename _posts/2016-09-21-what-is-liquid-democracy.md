@@ -18,7 +18,7 @@ Direct Democracy means everyone votes on every issue. It’s a true “[governme
 
 Representative Democracy is supposed to fix this. Instead of expecting everyone to know the ins-and-outs of policy, we hand over the work to a small number of full-time representatives.
 
-This solves the issue of not enough time to stay informed, but introduces new problems:
+This solves the issue of not enough time to stay informed, but introduces [new problems](http://www.gallup.com/poll/180113/2014-approval-congress-remains-near-time-low.aspx):
 
 - Many people feel limited by their choices in candidates, who may seem inauthentic or without substance.
 - Winner-take-all elections entrench a two-party system.
@@ -52,9 +52,7 @@ Political movements are forced to consolidate, else they risk going home with no
 
 In Liquid Democracy, when 51% of voters choose the same delegate, 51% of the power flows to that delegate. And their “rival candidates” still get the voting power equivalent of their earned votes. True representation.
 
-![Illustration by Cliff Andrade](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png)
-
-But there are actually no “candidates” because in Liquid Democracy, there are no elections. Right now, it’s [too expensive](http://slides.com/domsch/deck-1#/6) to run elections more frequently than every few years. But in Liquid Democracy, you can [change your delegate](http://www.gallup.com/poll/180113/2014-approval-congress-remains-near-time-low.aspx) from your smartphone anytime. True accountability.
+But there are actually no “candidates” because in Liquid Democracy, there are no elections. Right now, it’s [too expensive](http://slides.com/domsch/deck-1#/6) to run elections more frequently than every few years. But in Liquid Democracy, you can [change your delegate](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png) anytime. True accountability.
 
 ---------
 
