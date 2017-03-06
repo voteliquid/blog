@@ -5,18 +5,18 @@ subtitle: And why is it great?
 author: davidernst
 date: 2016-09-21 14:34:25
 tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
-excerpt: "Liquid Democracy is a new form of democracy that combines the practicality of Representative Democracy with the authenticity of Direct Democracy, enabled by 21st century technology."
+excerpt: "Liquid democracy is a new form of democracy that combines the practicality of representative democracy with the authenticity of direct democracy, enabled by 21st century technology."
 ---
 
-Liquid Democracy is a new form of democracy that combines the practicality of Representative Democracy with the authenticity of Direct Democracy, enabled by 21st century technology.
+Liquid democracy is a new form of democracy that combines the practicality of representative democracy with the authenticity of direct democracy, enabled by 21st century technology.
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-logo.png)
 
-Direct Democracy means everyone votes on every issue. It’s a true “[government by the people](http://assets4.bigthink.com/system/idea_thumbnails/53575/size_1024/Abraham_Lincoln_November_1863.jpg?1384899413)”, where everyone can participate as equals. It’s been tried before, but it’s not always practical: how does everyone stay educated and up-to-date on everything?
+Direct democracy means everyone votes on every issue. It’s a true “[government by the people](http://assets4.bigthink.com/system/idea_thumbnails/53575/size_1024/Abraham_Lincoln_November_1863.jpg?1384899413)”, where everyone can participate as equals. It’s been tried before, but it’s not always practical: how does everyone stay educated and up-to-date on everything?
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/crowd-raises-hands-photo.png)
 
-Representative Democracy is supposed to fix this. Instead of expecting everyone to know the ins-and-outs of policy, we hand over the work to a small number of full-time representatives.
+Representative democracy is supposed to fix this. Instead of expecting everyone to know the ins-and-outs of policy, we hand over the work to a small number of full-time representatives.
 
 This solves the issue of not enough time to stay informed, but introduces [new problems](http://www.gallup.com/poll/180113/2014-approval-congress-remains-near-time-low.aspx):
 
@@ -24,11 +24,11 @@ This solves the issue of not enough time to stay informed, but introduces [new p
 - Winner-take-all elections entrench a two-party system.
 - And perhaps worst of all, power tends to corrupt, and skeptics wonder if the current system is rigged by corporate lobbying and campaign finance.
 
-Liquid Democracy aims to solve all of this, to offer the best of both systems.
+Liquid democracy aims to solve all of this, to offer the best of both systems.
 
 ### Delegation
 
-In a Liquid Democracy, you pick a trusted delegate to vote on your behalf when you’re not able to.
+In a liquid democracy, you pick a trusted delegate to vote on your behalf when you’re not able to.
 
 By default, you inherit your delegate’s votes on each piece of legislation, but you can manually override them on any issue. When you feel more informed or passionate, you can vote directly.
 
@@ -40,29 +40,29 @@ Unlike traditional elections, you can select any resident of your jurisdiction t
 
 Delegation passes transitively, from one person to the next. So if you entrust your vote to your close friend, and your friend delegates to their favorite professor, the professor can vote for all three of you. This creates a network of tightly knit connections that rewards the most trusted people.
 
-This is the key to Liquid Democracy. Networks of trust allow it to flourish at scale, where Direct Democracy fails.
+This is the key to liquid democracy. Networks of trust allow it to flourish at scale, where direct democracy fails.
 
 [![Play with this vote delegation simulator: https://demo.liquid.vote](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.vote)
 
 #### Representation & Accountability
 
-Unlike traditional elections, Liquid Democracy is not winner-take-all. In Representative Democracy, even when a candidate wins only 51% of the electorate’s vote, they’re expected to represent 100% of their constituents.
+Unlike traditional elections, liquid democracy is not winner-take-all. In representative democracy, even when a candidate wins only 51% of the electorate’s vote, they’re expected to represent 100% of their constituents.
 
 Political movements are forced to consolidate, else they risk going home with nothing. Winner-take-all elections entrench a two-party landscape.
 
-In Liquid Democracy, when 51% of voters choose the same delegate, 51% of the power flows to that delegate. And their “rival candidates” still get the voting power equivalent of their earned votes. True representation.
+In liquid democracy, when 51% of voters choose the same delegate, 51% of the power flows to that delegate. And their “rival candidates” still get the voting power equivalent of their earned votes. True representation.
 
-But there are actually no “candidates” because in Liquid Democracy, there are no elections. Right now, it’s [too expensive](http://slides.com/domsch/deck-1#/6) to run elections more frequently than every few years. But in Liquid Democracy, you can [change your delegate](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png) anytime. True accountability.
+But there are actually no “candidates” because in liquid democracy, there are no elections. Right now, it’s [too expensive](http://slides.com/domsch/deck-1#/6) to run elections more frequently than every few years. But in liquid democracy, you can [change your delegate](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png) anytime. True accountability.
 
 ---------
 
 #### tl;dr —
 
-By implementing Liquid Democracy, we could empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
+By implementing liquid democracy, we could empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
 
 #### Thank you for reading.
 
-Our plan is to bring Liquid Democracy to the United States, in a way that doesn’t require constitutional amendments.
+Our plan is to bring liquid democracy to the United States, in a way that doesn’t require constitutional amendments.
 
 ***Join us.*** Sign up for your jurisdiction: [https://join.liquid.vote](https://join.liquid.vote).
 
