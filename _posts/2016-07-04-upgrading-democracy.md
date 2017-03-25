@@ -40,7 +40,7 @@ Our aim is to expand the conversation about how democracy can be better realized
 
 ### Join Us
 
-Sign up for more information at [https://join.liquid.vote](https://join.liquid.vote) (formerly [thedap.org](https://thedap.org/)). Come engage in conversation in [our chatroom](https://gitter.im/Crowdocracy/thedap).
+Sign up for more information at [https://join.liquid.vote](https://join.liquid.vote). Come engage in conversation in [our chatroom](https://gitter.im/Crowdocracy/thedap).
 
 #### Signatories:
 
