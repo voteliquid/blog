@@ -55,13 +55,13 @@ Voting power passes transitively, from one person to the next. This means that i
 
 This is key to liquid democracy. Networks of trust allow it to flourish at scale.
 
-#### Representation & Accountability
+#### Proportional Representation
 
 Unlike traditional elections, liquid democracy is not winner-take-all. In electoral democracy, even when a candidate wins only 51% of the electorate’s vote, they’re supposed to represent 100% of their constituents.
 
 Independent political movements must centralize, else risk going home with nothing. Winner-take-all elections [entrench a two-party landscape](/2017/03/06/how-to-move-past-two-parties/).
 
-In liquid democracy, when 51% of voters choose the same delegate, 51% of the voting power flows to that delegate. And their “rival candidates” still get a voice equivalent to their earned votes.
+In liquid democracy, when 51% of voters choose the same delegate, 51% of the voting power flows to that delegate. And their “rival candidates” still have a voice equivalent to their earned votes.
 
 #### No More Elections
 
