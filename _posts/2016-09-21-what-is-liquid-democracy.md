@@ -9,7 +9,7 @@ excerpt: "Liquid democracy is a new form of democracy that combines the practica
 
 Liquid democracy is a new form of democracy that combines the practicality of representative democracy with the authenticity of direct democracy, enabled by 21st century technology.
 
-![](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-logo.png)
+<img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-logo.png" width="172px" />
 
 Direct democracy means everyone votes on every issue. It’s a true “[government by the people](http://assets4.bigthink.com/system/idea_thumbnails/53575/size_1024/Abraham_Lincoln_November_1863.jpg?1384899413)”, where everyone can participate as equals. It’s been tried before, but it’s not always practical: how does everyone stay educated and up-to-date on everything?
 
