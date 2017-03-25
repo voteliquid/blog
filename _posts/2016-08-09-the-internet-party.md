@@ -6,8 +6,7 @@ author: rohandixit
 date: 2016-08-09 14:34:25
 tags: Politics, Democracy, Networks, Liquid Democracy, San Francisco
 excerpt: "Today just 19% of Americans say they trust government. Only one in ten Americans approve of Congress — the lowest level in American history."
-thanks:
-  - JaredScheib
+thanks: "Thanks to Jared Scheib."
 ---
 
 Today just 19% of Americans say they trust government. Only one in ten Americans approve of Congress — the lowest level in American history.
