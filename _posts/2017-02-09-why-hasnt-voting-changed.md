@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why hasn't voting changed?"
+title: "Why Hasn't Voting Changed?"
 subtitle: ""
 author: henrywong
 date: 2017-02-09

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrading Democracy
-subtitle: How Voting Could Work Now, 240 Years Later
+subtitle: How voting could work now, 240 years later
 author: jaredscheib
 date: 2016-07-04 14:34:25
 tags: Politics, Voting, America, Technology, Democracy

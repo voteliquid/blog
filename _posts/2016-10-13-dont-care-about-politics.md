@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't care about politics?"
+title: "Don't Care About Politics?"
 subtitle: "Liquid democracy is easier for you too"
 author: davidernst
 date: 2016-10-13

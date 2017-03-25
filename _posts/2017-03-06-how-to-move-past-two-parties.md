@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to move past a two-party system"
+title: "How to Move Past a Two-Party System"
 subtitle: ""
 author: davidernst
 date: 2017-03-06
