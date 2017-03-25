@@ -49,7 +49,7 @@ The people you already know and trust, and so many more wise individuals, sudden
 
 #### A Network of Trust
 
-<img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/voting_power_graphic.png" style="background-color: #252525; border-radius: 3px; margin-bottom: 0px; padding: 25px; width: 250px;" />
+<img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/voting_power_graphic.png" style="background-color: #252525; border-radius: 3px; float: right; margin-left: 67px; padding: 25px; width: 250px;" />
 
 Voting power passes transitively, from one person to the next. This means that if you entrust your vote to your close friend John, and he delegates to his smart coworker Tom, Tom can vote for all three of you. This creates a network of close connections, rewarding the most trusted people.
 
