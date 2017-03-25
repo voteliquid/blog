@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What is Liquid Democracy?
-subtitle: And why is it great?
 author: davidernst
 date: 2016-09-21 14:34:25
 tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
