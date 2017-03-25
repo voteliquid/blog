@@ -21,7 +21,7 @@ Its history goes back to ancient Athens, and inspired the Founding Fathers of th
 
 But direct democracy is not always practical: how does everyone stay educated and up-to-date on everything? We live busy lives.
 
-Electing dedicated representatives is our current solution. Instead of expecting everyone to know the ins-and-outs of policy, we hand over the work to a small number of full-time representatives.
+Our current solution is to elect dedicated representatives. Instead of expecting everyone to know the ins-and-outs of policy, we hand over the work to a small number of full-time representatives.
 
 This alleviates the issue of not enough time to stay informed, but [introduces new problems](http://www.gallup.com/poll/180113/2014-approval-congress-remains-near-time-low.aspx):
 
