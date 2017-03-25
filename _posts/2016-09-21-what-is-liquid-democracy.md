@@ -27,7 +27,7 @@ This alleviates the issue of not enough time to stay informed, but [introduces n
 
 - Citizens feel limited by their choices in candidates, who may not represent their real political views.
 - Winner-take-all elections entrench a polarizing two-party system.
-- And perhaps worst of all, the need for extreme fundraising corrupts bought out politicians. Skeptical? Even President Donald Trump [famously explained during a national debate how quid-pro-quo campaign finance has broken our political system](https://www.youtube.com/watch?v=e4tHW9_bb08).
+- And perhaps worst of all, politicians can become corrupted by extreme fundraising needs. Skeptical? Even President Donald Trump [famously explained during a national debate how quid-pro-quo campaign finance has broken our political system](https://www.youtube.com/watch?v=e4tHW9_bb08).
 
 Liquid democracy aims to solve all this, and to offer the best of both systems.
 
