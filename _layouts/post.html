@@ -32,6 +32,11 @@
           </div>
           <a name="topofpage"></a>
           {{content}}
+          {% if page.thanks %}
+            <p class="thanks">
+              {{ page.thanks }}
+            </p>
+          {% endif %}
         </section>
         <footer class="post-footer">
           <section class="share">

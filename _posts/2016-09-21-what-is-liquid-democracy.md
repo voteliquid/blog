@@ -5,6 +5,7 @@ author: davidernst
 date: 2016-09-21 14:34:25
 tags: Politics, Democracy, Liquid Democracy, Technology, Civictech
 excerpt: "Liquid democracy is a new form of democracy that combines the practicality of representative democracy with the authenticity of direct democracy, enabled by 21st century technology."
+thanks: Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coenen, Teresa Yung, Eshan Kejriwal, Matt Conrad, Nick Sippl-Swezey, Naomi Njugi, Ryan Atkinson, and Dominik Schiener for feedback and other contributions.
 ---
 
 Liquid democracy is a new form of democracy that combines the practicality of representative democracy with the authenticity of direct democracy, enabled by 21st century technology.
@@ -64,7 +65,3 @@ By implementing liquid democracy, we could empower our most trustworthy leaders,
 Our plan is to bring liquid democracy to the United States, in a way that doesn’t require constitutional amendments.
 
 ***Join us.*** Sign up for your jurisdiction: [https://join.liquid.vote](https://join.liquid.vote).
-
----------
-
-Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coenen, Teresa Yung, Eshan Kejriwal, Matt Conrad, Nick Sippl-Swezey, Naomi Njugi, Ryan Atkinson, and Dominik Schiener for feedback and other contributions.
