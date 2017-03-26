@@ -73,8 +73,6 @@ Right now, we [run massive elections](https://twitter.com/dsernst/status/8455665
 
 ---------
 
-#### tl;dr
-
 By adopting liquid democracy, we could empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
 
 ##### Thank you for reading.
