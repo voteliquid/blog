@@ -73,7 +73,7 @@ This also lets us escape winner-take-all politics.
 
 Currently in the US, a candidate may win only 51% of the vote, but they go to the legislature to represent 100% of the electorate.
 
-Winner-take-all elections [entrench a two-party landscape](/2017/03/06/how-to-move-past-two-parties/).
+These winner-take-all elections [entrench a two-party landscape](/2017/03/06/how-to-move-past-two-parties/).
 
 But in liquid democracy, when 51% of voters choose the same delegate, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
 
