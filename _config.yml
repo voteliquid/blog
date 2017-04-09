@@ -5,8 +5,7 @@ gems:
 
 # Site settings
 title: "The Liquid Blog"
-description: > # this means to ignore newlines until "email:"
-   Liquid Democracy is now possible.
+description: Liquid Democracy Is Now Possible.
 
 email: info@liquid.vote
 #blog logo
