@@ -16,3 +16,6 @@ davidernst:
 henrywong:
   name: Henry Wong
   image: "/assets/images/authors/henrywong.jpeg"
+anonymous:
+  name: Anonymous
+  image: "/assets/images/authors/anonymous.png"
