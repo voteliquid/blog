@@ -1,24 +1,14 @@
 blog
 ========
 
-A repo dedicated to the Liquid Democracy blog
+A repo for the Liquid blog.
 
-<img src="/assets/images/screenshot2.png" title="screenshot" width="1027px" />
+<img src="/assets/images/screenshot3.png" title="screenshot" width="1027px" />
 
-Features
--------
-* Fully Responsive layout
-* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
-* Minimal design
-* Featured article support
-* FontAwesome implemented for easy use of icons fonts
-* Free & Open Source Font usage
-
-Getting Started
+Editing
 ---
-- Fork this repository
-- Clone it: `git clone https://github.com/YOUR-USER/blog`
-- Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
-- Run the jekyll server: `bundle exec jekyll serve`
+- Fork and clone this repository: `git clone https://github.com/YOU/blog.liquid.vote`
+- Install the dependencies: `bundle install`
+- Run the jekyll server: `bundle exec jekyll serve` or `jekyll serve`.
 
-You should have a server up and running locally at <http://localhost:4000>.
+You should have a server up and running at [`localhost:4000`](http://localhost:4000).
