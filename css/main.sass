@@ -40,10 +40,12 @@ body
   font-feature-settings: "liga", "dlig"
 
 .teaserimage
-  height: 680px
+  height: 790px
   position: relative
   overflow: hidden
   background-color: #000
+  @include respond-to(1400)
+    height: 680px
   @include respond-to(800)
     height: 370px
   @include respond-to(550)
