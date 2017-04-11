@@ -78,10 +78,6 @@ Hah I really like this.
 
 
 DAN:
-You add the people who you think are smart.
-
-
-DAN:
 You only need a little bit of content and it can drive a very large community.
 Each vote spreads virally.
 That can get exponential real fast.
