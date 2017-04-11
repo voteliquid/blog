@@ -29,28 +29,60 @@ layout: default
 
     <div class="cf frame">
       {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
+        {% if post.pinned %}
+          <article class="post pinned" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+            <p class="pinned-label">Pinned</p>
+            <div class="article-item">
 
-            {% assign author = site.data.authors[post.author] %}
-            <section class="author">
-              <div class="author-image" style="background-image: url({{ author.image }})">author</div>
-              <div class="author-name">{{ author.name }}</div>
-              <div class="post-meta">
-                <time datetime="{{ post.date | date: "%F %R" }}">{{ post.date | date: "%b %-d" }}</time>
-              </div>
-            </section>
+              {% assign author = site.data.authors[post.author] %}
+              <section class="author">
+                <div class="author-image" style="background-image: url({{ author.image }})">author</div>
+                <div class="author-name">{{ author.name }}</div>
+                <div class="post-meta">
+                  <time datetime="{{ post.date | date: "%F %R" }}">{{ post.date | date: "%b %-d" }}</time>
+                </div>
+              </section>
 
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-              <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.excerpt | truncatewords: 50 }}</p>
-            </section>
-            <a class="read-more" href="{{ post.url }}">Read more...</a>
-          </div>
-        </article>
+              <header class="post-header">
+                <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+              </header>
+              <section class="post-excerpt" itemprop="description">
+                <p>{{ post.excerpt | truncatewords: 50 }}</p>
+              </section>
+              <a class="read-more" href="{{ post.url }}">Read more...</a>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+
+
+      {% for post in paginator.posts %}
+        {% if post.pinned %}
+        {% else %}
+          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+            <div class="article-item">
+
+              {% assign author = site.data.authors[post.author] %}
+              <section class="author">
+                <div class="author-image" style="background-image: url({{ author.image }})">author</div>
+                <div class="author-name">{{ author.name }}</div>
+                <div class="post-meta">
+                  <time datetime="{{ post.date | date: "%F %R" }}">{{ post.date | date: "%b %-d" }}</time>
+                </div>
+              </section>
+
+              <header class="post-header">
+                <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+              </header>
+              <section class="post-excerpt" itemprop="description">
+                <p>{{ post.excerpt | truncatewords: 50 }}</p>
+              </section>
+              <a class="read-more" href="{{ post.url }}">Read more...</a>
+            </div>
+          </article>
+        {% endif %}
       {% endfor %}
     </div>
 
