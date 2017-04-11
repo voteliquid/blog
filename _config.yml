@@ -40,7 +40,7 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon: email
+  - icon: envelope
     url:  mailto:info@liquid.vote
     desc: Contact us by email
     share_url:
