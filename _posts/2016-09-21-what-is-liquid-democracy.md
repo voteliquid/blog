@@ -48,7 +48,7 @@ Instead of calling your reps to ask them to vote your way, you can do it yoursel
 
 You can delegate to trusted representatives to vote when you’re not able to.
 
-Unlike our electoral system, these are *personal* representatives.
+Unlike an electoral system, these are *personal* representatives.
 
 Any time you don't vote on a piece of legislation, the liquid democracy platform looks up how your personal representatives voted and adopts their position.
 
@@ -60,7 +60,7 @@ You can select any legal resident of your jurisdiction to be your delegate. The 
 
 <img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/voting_power_graphic.png" style="background-color: #252525; border-radius: 3px; float: right; margin-left: 28px; padding: 25px; width: 250px;" />
 
-In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend John, and he delegates to his smart coworker Tom, Tom can vote for all three of you.
+In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend John, and he delegates to his smart coworker Alex, Alex can vote for all three of you.
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
@@ -74,7 +74,7 @@ With a liquid democratic legislature, you no longer need elections.
 
 Right now, we [run massive elections](https://twitter.com/dsernst/status/845566576245927936) to take the pulse of the electorate. These are supposed to keep politicians accountable.
 
-But in liquid democracy, you don't have to wait. You can change your personal representative at any time, for immediate accountability.
+But in liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
 If it's your voice, why must you give it up for [4 years](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png)?
 
