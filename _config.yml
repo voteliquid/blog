@@ -40,13 +40,6 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/liquidvote
-    desc:	Join us on GitHub
-    share_url:
-    share_title:
-    share_link:
-
   - icon: email
     url:  mailto:info@liquid.vote
     desc: Contact us by email
