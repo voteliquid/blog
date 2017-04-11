@@ -46,3 +46,6 @@ social:
     share_url:
     share_title:
     share_link:
+
+sass:
+  sass_dir: css/_sass
