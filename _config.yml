@@ -13,7 +13,7 @@ logo: "/assets/images/icon-reduced-300.png"
 # blog cover
 cover: "/assets/images/america_cover.jpg"
 
-paginate:	10
+paginate:	30
 permalink: pretty # remove .html from post urls
 
 url: "https://blog.liquid.vote" # the base hostname & protocol for your site
