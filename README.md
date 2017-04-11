@@ -3,7 +3,7 @@ blog
 
 A repo for the Liquid blog.
 
-[<img src="/assets/images/screenshot3.png" title="screenshot" width="730px" />](https://blog.liquid.vote)
+[<img src="/assets/screenshot3.png" title="screenshot" width="730px" />](https://blog.liquid.vote)
 
 Editing
 ---

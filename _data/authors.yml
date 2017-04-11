@@ -4,21 +4,21 @@ jaredscheib:
   name: "Jared Scheib | #Dreama"
   bio: "Transformation Technology for Our Future"
   web: https://www.facebook.com/jared.scheib
-  image: "/assets/images/authors/jaredscheib.jpeg"
+  image: "/assets/author_images/jaredscheib.jpeg"
 rohandixit:
   name: Rohan Dixit
   web: https://www.facebook.com/rdixit108
-  image: "/assets/images/authors/rohandixit.jpeg"
+  image: "/assets/author_images/rohandixit.jpeg"
 davidernst:
   name: David Ernst
   web: https://twitter.com/dsernst
-  image: "/assets/images/authors/davidernst.jpeg"
+  image: "/assets/author_images/davidernst.jpeg"
 henrywong:
   name: Henry Wong
-  image: "/assets/images/authors/henrywong.jpeg"
+  image: "/assets/author_images/henrywong.jpeg"
 anonymous:
   name: Anonymous
-  image: "/assets/images/authors/anonymous.png"
+  image: "/assets/author_images/anonymous.png"
 gregslepak:
   name: Greg Slepak
-  image: "/assets/images/authors/gregslepak.jpeg"
+  image: "/assets/author_images/gregslepak.jpeg"

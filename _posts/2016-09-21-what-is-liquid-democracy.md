@@ -36,7 +36,7 @@ And so our current solution is to elect dedicated political representatives. Ins
 
 #### Liquid democracy can solve all three.
 
-<img src="/assets/images/icon-reduced-300.png" width="120" />
+<img src="/assets/icon-reduced-300.png" width="120" />
 
 ### How does it work?
 

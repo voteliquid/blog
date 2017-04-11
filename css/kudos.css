@@ -51,7 +51,7 @@ figure.kudo {
 }
 
 .kudo.complete a.kudobject div.opening div.circle {
-  background-image: url(/assets/images/kudos_heart_60x60.png);
+  background-image: url(/assets/kudos_heart_60x60.png);
   background-position: center;
   background-repeat: no-repeat;
   background-color: #444;
