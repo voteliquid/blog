@@ -58,7 +58,7 @@ layout: default
 
 
       {% for post in paginator.posts %}
-        {% if post.pinned %}
+        {% if post.pinned or post.unlisted %}
         {% else %}
           <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
             <div class="article-item">
