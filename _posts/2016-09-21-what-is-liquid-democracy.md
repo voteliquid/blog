@@ -12,6 +12,8 @@ thanks: Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, An
 
 <br />
 
+We believe our democracy could serve us exponentially better.
+
 Liquid democracy is a 21st-century innovation for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination.
 
 Direct democracy is when everyone can vote on legislation. It’s Lincoln's “government by the people”, with equal voices.
@@ -64,7 +66,7 @@ In a liquid democracy, voting power passes transitively, from one person to the 
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
-Your own delegates don't need to vote on everything, because they have their own trusted representatives. Each step makes the network smarter, until it reaches someone who feels informed enough about the issue to vote.
+Your own choices don't need to vote on everything, because they have their own trusted representatives. Each step makes the network smarter, until it reaches someone who feels informed enough about the issue to vote.
 
 This is the key innovation. Networks flourish at scale.
 
