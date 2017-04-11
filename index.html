@@ -73,13 +73,23 @@ layout: default
               </section>
 
               <header class="post-header">
-                <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                <h2 class="post-title" itemprop="name">
+                  {% if post.external_url %}
+                    <a href="{{ post.external_url }}" itemprop="url" target="_blank">{{ post.title }}</a>
+                  {% else %}
+                    <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
+                  {% endif %}
+                </h2>
                 <h3 class="post-subtitle">{{ post.subtitle }}</h3>
               </header>
               <section class="post-excerpt" itemprop="description">
                 <p>{{ post.excerpt | truncatewords: 50 }}</p>
               </section>
-              <a class="read-more" href="{{ post.url }}">Read more...</a>
+              {% if post.external_url %}
+                <a class="read-more" href="{{ post.external_url }}" target="_blank">Read more...</a>
+              {% else %}
+                <a class="read-more" href="{{ post.url }}">Read more...</a>
+              {% endif %}
             </div>
           </article>
         {% endif %}
