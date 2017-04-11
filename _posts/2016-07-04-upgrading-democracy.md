@@ -34,7 +34,7 @@ Each voter can participate from the convenience of a digital device in their poc
 
 ### Our Plan
 
-We’re working to create a new, efficient, and effective digital voting system that puts governance directly in people’s hands. We’re hosting a series of events, called DAPs, to use this software.
+We’re working to create a new, efficient, and effective digital voting system that puts governance directly in people’s hands.
 
 Our aim is to expand the conversation about how democracy can be better realized, and to foster a community of people interested in these goals. We believe our system can work better for everyone.
 
