@@ -26,13 +26,13 @@ But direct democracy is not always practical: how does everyone stay educated an
 
 Two hundred years ago, it wasn't possible. Even today, we live busy lives, and there's just too much to keep up with.
 
-And so our current solution is to elect dedicated political representatives. Instead of expecting everyone to know the ins-and-outs of policies to vote on, we give the work to a small number of full-time legislators: 535 in our country of 300 million.
+And so our current solution is to elect dedicated political representatives. Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators: 535 in our country of 300 million.
 
 **This helps with our issue of not enough time to stay informed, but [introduces new problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
 
 1. We may disagree with our choices of candidates, who don't always match our views.
-2. We may feel trapped by a polarizing two-party system, entrenched by winner-take-all elections.
-3. And perhaps worst of all, elections centralize power, creating massive targets for corruption. ([Even the President admits this.](https://www.youtube.com/watch?v=e4tHW9_bb08))
+2. We may feel trapped by a polarizing two-party system.
+3. And perhaps worst of all, politicians are too susceptible to corruption. ([The President explained how](https://www.youtube.com/watch?v=e4tHW9_bb08).)
 
 #### Liquid democracy can solve all three.
 
@@ -42,7 +42,7 @@ And so our current solution is to elect dedicated political representatives. Ins
 
 #### Direct Voting
 
-Every legal citizen can vote for or against every piece of legislation.
+Every person can vote for or against every piece of legislation.
 
 Instead of calling your reps to ask them to vote your way, you can do it yourself.
 
@@ -54,7 +54,7 @@ Unlike an electoral system, these are *personal* representatives.
 
 Any time you don't vote on a piece of legislation, the liquid democracy platform looks up how your personal representatives voted and adopts their position.
 
-You can select any legal resident of your jurisdiction to be your delegate. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
+You can select any legal resident of your district. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
 
 [![Click here for an interactive delegation demo](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.vote)
 
@@ -66,7 +66,7 @@ In a liquid democracy, voting power passes transitively, from one person to the 
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
-Your own choices don't need to vote on everything, because they have their own trusted representatives. Each step makes the network smarter, until it reaches someone who feels informed enough about the issue to vote.
+Your reps don't need to vote on everything, because they have their own trusted representatives. Each step makes the network smarter, until it reaches someone who feels informed enough about the issue to vote.
 
 This is the key innovation. Networks flourish at scale.
 
@@ -78,7 +78,7 @@ Right now, we [run massive elections](https://twitter.com/dsernst/status/8455665
 
 But in liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
-If it's your voice, why must you give it up for [4 years](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png)?
+If it's your voice, why must you give it up for [4](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png) years?
 
 #### Proportional Representation
 
@@ -92,7 +92,7 @@ But in liquid democracy, when 51% of voters choose the same delegate, exactly 51
 
 ### Now what?
 
-By adopting liquid democracy, we could empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
+By adopting liquid democracy, we can empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
 
 We're creating technology to allow liquid democracy at the local, state, and national level. And we can do it without any legal changes like constitutional amendments.
 
