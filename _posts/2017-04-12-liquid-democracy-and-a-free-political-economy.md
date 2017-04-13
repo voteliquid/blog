@@ -25,9 +25,9 @@ On top of that, the nature of our electoral process artificially constrains supp
 
 The 114th Congress introduced over 10,000 bills in its two year session. Since each can be supported or opposed, that means `2 ^ 10000` (`10 ^ 3000`) possibilities.
 
-And yet for all but the five hundred members of Congress, our vote is basically red or blue, every two years.
+And yet our vote is limited to basically red or blue, every two years.
 
-Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/). But our modern age appears to rapidly outpace our government's capacity to respond.
+Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/), but our modern age appears to rapidly outpace our government's capacity to respond.
 
 ### Liquid democracy lifts these restrictions
 
