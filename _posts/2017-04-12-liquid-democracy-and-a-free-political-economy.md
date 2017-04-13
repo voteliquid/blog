@@ -35,7 +35,7 @@ That's a low quality signal.
 
 Citizens can use the [Liquid platform](https://join.liquid.vote) to directly vote for and against legislation, something previously limited to legislators. Since voting can occur daily, rather than every few years, this massively expands our public space's liquidity.
 
-On top of this, individuals may select *personal* representatives, who can vote on legislation for them. This greatly expands the political economy's supply, since these liquid politicians don’t need to get anywhere close to 50% of a jurisdiction’s vote. They don’t need to quit their jobs, nor even vote themselves on legislation, choosing instead to pass their voting power along to their own delegates.
+On top of this, individuals may select *personal* representatives, who can vote on legislation for them. This greatly expands the political economy's supply, since these liquid politicians don’t need to get anywhere close to 50% of a jurisdiction’s vote. They don’t need to quit their jobs, nor even vote themselves on legislation, choosing instead to pass their voting power along to their own personal representatives.
 
 _And_ this still allows for all of the options of our traditional representative system. A citizen can still pick one individual to vote on all legislation for them for 4 years.
 
@@ -47,6 +47,6 @@ Compare the Soviet centrally planned economy, which led to [widespread poverty](
 
 As a country, we've [unlocked unimaginable wealth in our private sphere](https://en.wikipedia.org/wiki/Wealth_in_the_United_States#/media/File:U.S._Household_net_worth_graphic.png). But we could be doing so much better in our public life.
 
-### Liquid democracy represents a free political economy
+#### Liquid democracy represents a free political economy
 
 Join us. Show your support [by signing up](https://join.liquid.vote).
