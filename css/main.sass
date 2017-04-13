@@ -513,6 +513,63 @@ body
     &:hover
       color: #333
 
+.comments
+  text-align: center
+  margin: 0 0 90px
+  #comment-link
+    color: #000
+    border: 1px solid #777
+    border-radius: 6px
+    font-weight: bold
+    padding: 12px 35px
+    text-decoration: none
+    &:hover
+      background-color: #eee
+      border-color: #bbb
+    &.pressed
+      background-color: #e4e4e4
+      border-color: #bbb
+  #comment-box
+    margin: 60px auto 0
+    max-width: 640px
+    text-align: left
+    label
+      display: block
+      font-size: 12px
+      text-transform: uppercase
+      margin-bottom: 3px
+    input
+      font-size: 16px
+      box-sizing: border-box
+      padding: 6px
+      width: 100%
+    textarea
+      font-size: 16px
+      border: 1px solid lightgrey
+      box-sizing: border-box
+      height: 200px
+      padding: 6px
+      width: 100%
+    input[type="submit"]
+      box-sizing: border-box
+      height: 40px
+      border: none
+      background-color: #2b71b1
+      color: white
+      text-transform: uppercase
+      font-weight: bold
+      padding: 0 12px
+      border-radius: 2px
+      -webkit-appearance: none
+      &:hover
+        background-color: #16548E
+        cursor: pointer
+      &:disabled
+        background-color: #2b71b1
+        cursor: not-allowed !important
+  #comment-submitted
+    margin-top: 80px
+
 .subscribe-cta
   background-color: #181e2b
   text-align: center
