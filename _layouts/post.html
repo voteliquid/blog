@@ -15,6 +15,9 @@
     <main class="content" role="main">
       <article class="post">
         <div class="post-meta">
+          {% if page.unlisted %}
+            <p class="draft-label">DRAFT — THIS POST IS UNLISTED</p>
+          {% endif %}
           <div class="cf post-meta-text">
             <div class="author-image" style="background-image: url({{ author.image }})">Author photo</div>
             <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</h4>
