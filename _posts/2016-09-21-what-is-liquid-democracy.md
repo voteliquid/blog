@@ -16,7 +16,7 @@ We believe our democracy could serve us exponentially better.
 
 Liquid democracy is a 21st-century innovation for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination.
 
-Direct democracy is when everyone can vote on legislation. It’s Lincoln's “government by the people”, with equal voices.
+Direct democracy is when everyone can vote on legislation. It’s Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s), with equal voices.
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/crowd-raises-hands-photo.png)
 
