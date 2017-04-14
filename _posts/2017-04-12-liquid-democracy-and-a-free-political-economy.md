@@ -41,6 +41,8 @@ And, liquid democracy still allows for the options of our current system: a citi
 
 ### Creating a smarter democracy
 
+![](/assets/article_images/2017-04-12-liquid-democracy-and-a-free-political-economy/network_topologies.png)
+
 Because it includes so much more signaling information, liquid democracy can create better leaders and more widely supported policies.
 
 Compare the Soviet centrally planned economy, which led to [widespread poverty](http://www.nytimes.com/1989/01/29/world/soviet-openness-brings-poverty-out-of-the-shadows.html) and [starvation](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%9322), vs free market economies' undeniable wealth. [Friedrich Hayek was awarded a Nobel prize](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1974/hayek-facts.html) for showing that by including millions of more participants, each sending their own supply & demand signals, orders of magnitude more peoples' desires can be accommodated.
