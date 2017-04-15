@@ -29,7 +29,7 @@ Furthermore, our electoral process artificially constrains supply. Voters’ opt
 
 The 535 members of the 114th Congress [held 1829 roll call votes](https://www.congress.gov/roll-call-votes) over their two year session. Since each can be yea or nay, that means `2 ^ 1829` possible outcomes (`10 ^ 550`).
 
-And yet the other 300 millions of us Americans are stuck with either red or blue, every two years.
+And yet the other 300 million of us Americans are stuck with either red or blue, every two years.
 
 Some elected reps make an incredible effort to connect with their constituents, and good for them. But that's not necessarily common. Last month, [200 elected Republicans skipped their monthly town hall](https://news.vice.com/story/more-than-200-republicans-in-congress-are-skipping-february-town-halls-with-constituents). [Democrats do it too](http://www.nytimes.com/2010/06/07/us/politics/07townhall.html).
 
