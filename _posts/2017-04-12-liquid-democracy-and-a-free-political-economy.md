@@ -3,7 +3,7 @@ layout: post
 title: Liquid Democracy and a Free Political Economy
 author: davidernst
 date: 2017-04-12
-excerpt: 'Here I show how the US functions as a top-down planned political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.'
+excerpt: 'Here I show how the United States functions as a top-down political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.'
 unlisted: true
 ---
 
@@ -11,33 +11,42 @@ unlisted: true
 >
 > — Friedrich A. Hayek, [The Use of Knowledge in Society](http://www.econlib.org/library/Essays/hykKnw1.html), 1945
 
-Here I show how the US functions as a top-down planned political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.
+Here I show how the United States functions as a top-down political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.
 
 ### We live in a centrally planned democracy
 
-In a democracy, voting is a citizens’ purchasing power. Like the private market, the economy of politics is subject to supply and demand. Politicians are the supply; votes represent demand.
+Like the private market, the economy of politics is subject to supply and demand.
 
-But citizens can only vote once every 2 years, limiting the rate of feedback within the system.
+We choose from among the **supply** of politicians.  
+By voting, we demonstrate **demand**.
 
-Furthermore, the nature of our electoral process artificially constrains supply. Voters’ options are limited to those at the top of the ballot, picked by party insiders. Winner-take-all elections means that a vote for anyone other than the front-runners is “wasted”.
+But in the US, we only vote nationally every 2 years. This limits the rate of feedback within the system.
+
+Furthermore, our electoral process artificially constrains supply. Voters’ options are limited to those at the top of the ballot, picked by the RNC and DNC. Winner-take-all elections means that a vote for anyone other than the two front-runners goes “wasted”.
 
 #### Size of the signal
 
-The 114th Congress introduced over 10,000 bills in its two year session. Since each can be supported or opposed, that means `2 ^ 10000` (`10 ^ 3000`) possibilities.
+The 535 members of the 114th Congress [held 1829 roll call votes](https://www.congress.gov/roll-call-votes) over their two year session. Since each can be yea or nay, that means `2 ^ 1829` possible outcomes (`10 ^ 550`).
 
-And yet our vote is limited to basically red or blue, every two years.
+And yet the other 300 millions of us Americans are stuck with either red or blue, every two years.
 
-Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/), but our modern age appears to rapidly outpace our government's capacity to respond.
+Some elected reps make an incredible effort to connect with their constituents, and good for them. But that's not necessarily common. Last month, [200 elected Republicans skipped their monthly town hall](https://news.vice.com/story/more-than-200-republicans-in-congress-are-skipping-february-town-halls-with-constituents). [Democrats do it too](http://www.nytimes.com/2010/06/07/us/politics/07townhall.html).
+
+We can try to call our reps to share how we feel, but this system offers little accountability or transparency.
+
+Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often. Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/).
+
+But our modern age appears to rapidly outpace our government's capacity to respond.
 
 ### Liquid democracy lifts restrictions
 
 [Liquid democracy](https://intro.liquid.vote) uses modern technology to evolve our political process, offering new options for everyone.
 
-Citizens can use the [Liquid platform](https://join.liquid.vote) to directly vote for and against legislation—something previously limited to legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
+Citizens will be able to use the [Liquid platform](https://join.liquid.vote) to directly vote for and against legislation—something previously limited to legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
 
-On top of this, individuals may select *personal* representatives, who can vote on legislation for them. This greatly expands the political economy's supply, since liquid politicians can still be influential without anywhere close to 50% of their jurisdiction’s vote. Liquid representatives don’t need to quit their jobs, nor even vote directly on all legislation, choosing instead to pass their voting power along to their own personal representatives.
+On top of this, individuals may select *personal* representatives to vote on legislation for them. This greatly expands the political economy's supply, since liquid politicians can still be influential without anywhere close to 50% of their jurisdiction’s vote. Liquid representatives don’t need to quit their jobs, nor even vote directly, choosing instead to pass their voting power along to their own personal representatives.
 
-And, liquid democracy still allows for the options of our current system: a citizen can still choose a single individual to vote on all legislation for them.
+And, liquid democracy still allows for all the options of our current system: a citizen can still choose a single individual to vote on all legislation for them.
 
 ### Creating a smarter democracy
 
@@ -51,4 +60,8 @@ As a country, we've [unlocked unprecedented wealth in our private sphere](https:
 
 #### Liquid democracy represents a free political economy
 
-Join us. Show your support [by signing up](https://join.liquid.vote).
+Join us.
+
+We're creating technology to allow liquid democracy at the local, state, and national level.
+
+Show your support [by signing up](https://join.liquid.vote).
