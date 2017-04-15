@@ -21,9 +21,11 @@ Like the private market, the economy of politics is subject to supply and demand
 We choose from the **supply** of politicians.  
 By voting, we demonstrate **demand**.
 
-But in the US, we only vote nationally every 2 years. This limits the rate of feedback within the system.
+But in the US, we only vote nationally every 2 years.
 
-Furthermore, our electoral process artificially constrains supply. Voters’ options are limited to those at the top of the ballot, picked by the RNC and DNC. Winner-take-all elections means that a vote for anyone other than the two front-runners goes “wasted”.
+This limits the rate of feedback within the system.
+
+Furthermore, our electoral process artificially constrains supply. Voters’ options are limited to those at the top of the ballot, picked by the RNC/DNC. Winner-take-all elections means that a vote for anyone other than the two front-runners goes “wasted”.
 
 #### Size of the signal
 
@@ -35,7 +37,7 @@ Some elected reps make an incredible effort to connect with their constituents, 
 
 We can try to call our reps to share how we feel, but this process offers little accountability or transparency.
 
-Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often. Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/).
+Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often than we do now. Our democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/).
 
 But our modern age appears to rapidly outpace our government's capacity to respond.
 
