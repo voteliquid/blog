@@ -5,6 +5,7 @@ author: davidernst
 date: 2017-04-12
 excerpt: 'Here I show how the United States functions as a top-down political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.'
 unlisted: true
+thanks: Thanks to Sergey Piterman, Jessica Kaller, and Nick Sippl-Swezey.
 ---
 
 > The most significant fact about this system is the economy of knowledge with which it operates...only the most essential information is passed on... The marvel is that in a case like that of a scarcity...without an order being issued, without more than perhaps a handful of people knowing the cause, tens of thousands of people whose identity could not be ascertained by months of investigation, are made to...move in the right direction.
