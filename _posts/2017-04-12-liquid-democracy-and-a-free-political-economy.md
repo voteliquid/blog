@@ -18,7 +18,7 @@ Here I show how the United States functions as a top-down political economy, how
 
 Like the private market, the economy of politics is subject to supply and demand.
 
-We choose from among the **supply** of politicians.  
+We choose from the **supply** of politicians.  
 By voting, we demonstrate **demand**.
 
 But in the US, we only vote nationally every 2 years. This limits the rate of feedback within the system.
