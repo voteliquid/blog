@@ -33,7 +33,7 @@ And yet the other 300 million of us Americans are stuck with either red or blue,
 
 Some elected reps make an incredible effort to connect with their constituents, and good for them. But that's not necessarily common. Last month, [200 elected Republicans skipped their monthly town hall](https://news.vice.com/story/more-than-200-republicans-in-congress-are-skipping-february-town-halls-with-constituents). [Democrats do it too](http://www.nytimes.com/2010/06/07/us/politics/07townhall.html).
 
-We can try to call our reps to share how we feel, but this offers little accountability or transparency.
+We can try to call our reps to share how we feel, but this process offers little accountability or transparency.
 
 Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often. Our current democracy reflects the constraints of [the time it was developed](/2017/02/09/why-hasnt-voting-changed/).
 
