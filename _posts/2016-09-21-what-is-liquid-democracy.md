@@ -78,7 +78,7 @@ Right now, we [run massive elections](https://twitter.com/dsernst/status/8455665
 
 But in liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
-If it's your voice, why must you give it up for [4](/assets/article_images/2016-09-21-what-is-liquid-democracy/see-you-in-4-years.png) years?
+If it's your voice, why must you give it up for 4 years?
 
 #### Proportional Representation
 
