@@ -2,9 +2,8 @@
 layout: post
 title: Liquid Democracy and a Free Political Economy
 author: davidernst
-date: 2017-04-12
+date: 2017-04-17
 excerpt: 'Here I show how the United States functions as a top-down political economy, how liquid democracy offers an alternative, and how this can improve the public space for everyone.'
-unlisted: true
 thanks: Thanks to Sergey Piterman, Jessica Kaller, and Nick Sippl-Swezey.
 ---
 
@@ -53,7 +52,7 @@ And, liquid democracy still allows for all the options of our current system: a 
 
 ### Creating a smarter democracy
 
-![](/assets/article_images/2017-04-12-liquid-democracy-and-a-free-political-economy/network_topologies.png)
+![](/assets/article_images/2017-04-17-liquid-democracy-and-a-free-political-economy/network_topologies.png)
 
 Because it includes so much more signaling information, liquid democracy can create better leaders and more widely supported policies.
 
