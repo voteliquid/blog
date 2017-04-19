@@ -30,7 +30,7 @@ Furthermore, our electoral process artificially constrains supply. Voters’ opt
 
 The 535 members of the 114th Congress [held 1829 roll call votes](https://www.congress.gov/roll-call-votes) over their two year session. Since each can be yea or nay, that means `2 ^ 1829` possible outcomes (`10 ^ 550`).
 
-And yet the other 300 million of us Americans are stuck with either red or blue, every two years.
+And yet the other 300 million Americans are stuck with either red or blue, every two years.
 
 Some elected reps make an incredible effort to connect with their constituents, and good for them. But that's not necessarily common. Last month, [200 elected Republicans skipped their monthly town hall](https://news.vice.com/story/more-than-200-republicans-in-congress-are-skipping-february-town-halls-with-constituents). [Democrats do it too](http://www.nytimes.com/2010/06/07/us/politics/07townhall.html).
 
@@ -46,7 +46,7 @@ But our modern age appears to rapidly outpace our government's capacity to respo
 
 Citizens will be able to use the [Liquid platform](https://join.liquid.vote) to directly vote for and against legislation—something previously limited to legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
 
-On top of this, individuals may select *personal* representatives to vote on legislation for them. This greatly expands the political economy's supply, since liquid politicians can still be influential without anywhere close to 50% of their jurisdiction’s vote. Liquid representatives don’t need to quit their jobs, nor even vote directly, choosing instead to pass their voting power along to their own personal representatives.
+On top of this, individuals may select *personal* representatives to vote on legislation for them. Now anyone can become a 'liquid politician'. This greatly expands the political economy's supply, since liquid politicians can still be influential without anywhere close to 50% of their jurisdiction’s vote. Liquid reps don’t need to quit their jobs, nor even vote directly, choosing instead to pass their voting power along to their own personal representatives.
 
 And, liquid democracy still allows for all the options of our current system: a citizen can still choose a single individual to vote on all legislation for them.
 
