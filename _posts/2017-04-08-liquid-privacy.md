@@ -21,19 +21,11 @@ And anonymous delegation?
 
 
 DAN:
-Mostly anonymous delegation.
+Mostly anonymous delegation. No one else can see who you delegate to.
 
 
 MATT:
-So to be delegated to... means removing anonymity?
-
-
-DAN:
-No one else can see who you delegate to.
-
-
-MATT:
-That's how it should be.
+That's how it should be. So to be delegated to... means removing anonymity?
 
 
 DAN:
