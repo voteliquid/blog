@@ -48,6 +48,8 @@ Instead of calling your reps to ask them to vote your way, you can do it yoursel
 
 #### Delegation
 
+<a name="delegation"></a>
+
 You can delegate to trusted representatives to vote when you’re not able to.
 
 Unlike an electoral system, these are *personal* representatives.
