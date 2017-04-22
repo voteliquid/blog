@@ -56,7 +56,7 @@ Unlike an electoral system, these are *personal* representatives.
 
 Any time you don't vote on a piece of legislation, the liquid democracy platform looks up how your personal representatives voted and adopts their position.
 
-You can select any legal resident of your district. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
+You can select any legal resident of your jurisdiction. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
 
 [![Click here for an interactive delegation demo](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.vote)
 
