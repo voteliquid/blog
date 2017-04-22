@@ -29,18 +29,18 @@ That's how it should be. So to be delegated to... means removing anonymity?
 
 
 DAN:
-Before you can delegate to someone, they must approve.
-If they do, since they now represent you,
-you can see all their votes.
+Before someone can delegate to you, you must approve.
+If you do, since you now represent them,
+they can see all your votes.
 
 
 MATT:
-And you see their voting history?
+And your voting history?
 
 
 DAN:
-Yes. You can only see their votes while they approve.
-They can take that away anytime.
+Yes. Only votes while you approve.
+You can end that anytime.
 
 
 MATT:
@@ -48,7 +48,7 @@ Ok.
 
 
 DAN:
-Both sides can stop the relationship without the other finding out.
+Either side can stop the delegation without the other finding out.
 
 
 MATT:
