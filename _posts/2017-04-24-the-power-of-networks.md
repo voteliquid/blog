@@ -3,7 +3,7 @@ layout: post
 title: The Power of Networks
 subtitle: ""
 author: rsaanimate
-date: 2017-04-28
+date: 2017-04-24
 excerpt: Here's a great video about our evolution in thinking from trees to networks.
 ---
 
