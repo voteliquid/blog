@@ -7,6 +7,10 @@ date: 2016-10-13
 excerpt: "Liquid democracy can improve your life if you care about politics, but it's also easier for those who aren't all that involved."
 ---
 
+> "Decent people should ignore politics, if only they could be confident that politics would ignore them."
+>
+> — William F. Buckley
+
 You could sort Americans into two groups: people who pay a lot of attention to politics, and those who don't. It seems like most people fall into the second group.
 
 [Liquid democracy](/2016/09/21/what-is-liquid-democracy/) can certainly improve your life if you care about politics, but it's also easier for those who aren't all that involved.
