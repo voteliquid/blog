@@ -2,7 +2,7 @@
 layout: post
 title: Liquid Democracy Can Completely Eliminate Gerrymandering
 author: davidernst
-excerpt: ""
+excerpt: "What is gerrymandering and how can liquid democracy address it?"
 thanks: Thanks to Jeff Harr for sharing the CGP Grey 'Gerrymandering Explained' video.
 ---
 
