@@ -33,13 +33,13 @@ Gerrymandering has long plagued American democracy. The term is named for an 181
 
 One common narrative is that it's done by Republicans to disadvantage Democrats, and there's [lots of evidence](http://assets.motherjones.com/interactives/projects/2012/11/gerrymandering/stacked-gop.png) for that lately, but [Democrats have been guilty too](https://en.wikipedia.org/wiki/Maryland%27s_3rd_congressional_district).
 
-There's no inherent reason for it to be a partisan thing. [One group may simply be better at it](http://nymag.com/daily/intelligencer/2016/04/gops-house-seats-are-safe-heres-why.html).
+There's no inherent reason for only a single party to do it. [One may simply be better at it](http://nymag.com/daily/intelligencer/2016/04/gops-house-seats-are-safe-heres-why.html).
 
 Instead of framing it through a partisan lens, it's more useful to see the technique as just one way established politicians rig the democratic process, making it easier to get reelected, and keep new voices out.
 
 ### A new solution
 
-At its heart, gerrymandering comes from abusing the inherent flaw in trying to group millions of people into a single electoral seat.
+At its heart, gerrymandering comes from abusing the intrinsic flaw in trying to group millions of people into a single electoral seat.
 
 [Liquid democracy](https://intro.liquid.vote) addresses this issue at a more fundamental level.
 
