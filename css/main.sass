@@ -642,7 +642,7 @@ body
     border-radius: 2px
     padding: 25px 0
     text-align: center
-    margin: 90px 5px
+    margin: 90px 30px
     .blog-title
       margin: 0
       padding: 0 0 10px
@@ -651,11 +651,19 @@ body
       letter-spacing: -1px
       color: #181e2b
       text-transform: uppercase
+      @include respond-to(475)
+        font-size: 32px
+      @include respond-to(350)
+        font-size: 28px
     .blog-description
       margin: 0 0 40px
       font-size: 20px
       color: #181e2b
       font-weight: 600
+      @include respond-to(475)
+        font-size: 15px
+      @include respond-to(350)
+        font-size: 13px
     .btn
       display: inline-block
       font-size: 15px
