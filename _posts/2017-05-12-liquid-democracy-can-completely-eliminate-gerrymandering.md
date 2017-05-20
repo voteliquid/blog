@@ -24,7 +24,16 @@ And the [Supreme Court is expected to review cases later this year](https://www.
 
 ### Not so simple
 
-<figure class="image" style="float: right; margin: 30px 0 10px 40px;">
+<style>
+@media (max-width: 493px) {
+  .center-when-small {
+    float: none !important;
+    margin: 30px auto 10px !important;
+  }
+}
+</style>
+
+<figure class="image center-when-small" style="float: right; margin: 30px 0 10px 40px;">
   <img src="/assets/article_images/2017-05-12-liquid-democracy-can-completely-eliminate-gerrymandering/original-gerrymandering-photo.jpeg" style="width: 250px;margin-top: 0px;">
   <figcaption>The Boston Gazette, March 26, 1812</figcaption>
 </figure>
