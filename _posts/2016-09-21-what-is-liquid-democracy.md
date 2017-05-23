@@ -98,4 +98,4 @@ By adopting liquid democracy, we can empower our most trustworthy leaders, give 
 
 We're creating technology to allow liquid democracy at the local, state, and national level. And we can do it without any legal changes like constitutional amendments.
 
-But we need you. ***Join us.*** Sign up to show your support and find out more: [https://join.liquid.vote](https://join.liquid.vote).
+But we need you. ***Join us.*** Sign up to show your support and find out more: [https://liquid.vote](https://liquid.vote).
