@@ -9,7 +9,7 @@ excerpt: "We’re at a critical moment in politics, when an unprecedented number
 >
 > — President Franklin D. Roosevelt, 8 July 1938
 
-We’re at a critical moment in politics, when an unprecedented numbers of people express frustration at the status quo. There has been demand from left, right, and center for new ways of doing things.
+We’re at a critical moment in politics, when an unprecedented numbers of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
 
 Liquid democracy is the most promising alternative. ([Click here for a reminder why](https://intro.liquid.vote).)
 

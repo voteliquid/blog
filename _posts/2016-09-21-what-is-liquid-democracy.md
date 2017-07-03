@@ -4,7 +4,7 @@ title: What is Liquid Democracy?
 author: davidernst
 pinned: true
 date: 2016-09-21 14:34:25
-excerpt: "Liquid democracy is a 21st-century innovation for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination."
+excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination."
 thanks: Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coenen, Teresa Yung, Eshan Kejriwal, Matt Conrad, Nick Sippl-Swezey, Naomi Njugi, and Ryan Atkinson.
 ---
 
@@ -14,7 +14,7 @@ thanks: Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, An
 
 We believe our democracy could serve us exponentially better.
 
-Liquid democracy is a 21st-century innovation for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination.
+Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination.
 
 Direct democracy is when everyone can vote on legislation. It’s Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s), with equal voices.
 
@@ -76,7 +76,7 @@ This is the key innovation. Networks flourish at scale.
 
 With a liquid democratic legislature, you no longer need elections.
 
-Right now, we [run massive elections](https://twitter.com/dsernst/status/845566576245927936) to take the pulse of the electorate. These are supposed to keep politicians accountable.
+Right now, we [run expensive elections](https://twitter.com/dsernst/status/845566576245927936) to take the pulse of the electorate. These are supposed to keep politicians accountable.
 
 But in liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
