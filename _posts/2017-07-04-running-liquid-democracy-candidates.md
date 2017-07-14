@@ -3,7 +3,7 @@ layout: post
 title: "Liquid Democracy Candidates: How To Upgrade Our Legislature, One Seat at a Time"
 author: davidernst
 excerpt: "We’re at a critical moment in politics, when an unprecedented numbers of people express frustration at the status quo. There has been demand from left, right, and center for new ways of doing things."
-thanks: Thanks to Megan Cress and Craig Robinson for reviewing drafts.
+thanks: Thanks to Megan Cress and Craig Robinson for reviewing early drafts.
 ---
 
 > Let us not be afraid to help each other — let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and Senators and Congressmen and Government officials but the voters of this country.
@@ -12,7 +12,7 @@ thanks: Thanks to Megan Cress and Craig Robinson for reviewing drafts.
 
 We’re at a critical moment in politics, when an unprecedented numbers of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
 
-Liquid democracy is the most promising alternative. ([Click here for a reminder why](https://intro.liquid.vote).)
+Liquid democracy is the most promising alternative. Represent yourself, or pick anyone you trust to vote for you in government. ([Read more](https://intro.liquid.vote).)
 
 And yet the most common refrain is that it would be too unlikely to make such a change, because it must require a constitutional amendment.
 
