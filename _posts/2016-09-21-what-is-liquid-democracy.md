@@ -34,7 +34,7 @@ And so our current solution is to elect dedicated political representatives. Ins
 2. We may feel trapped by a polarizing two-party system.
 3. And perhaps worst of all, elected politicians become huge targets for corruption. ([The President explained how](https://www.youtube.com/watch?v=e4tHW9_bb08).)
 
-#### Liquid democracy can solve all three.
+#### Liquid democracy can solve all of these.
 
 <img src="/assets/icon-reduced-300.png" width="120" />
 
