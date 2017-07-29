@@ -38,10 +38,6 @@ We’re working to create a new, efficient, and effective digital voting system 
 
 Our aim is to expand the conversation about how democracy can be better realized, and to foster a community of people interested in these goals. We believe our system can work better for everyone.
 
-### Join Us
-
-Sign up for more information at [https://join.liquid.vote](https://join.liquid.vote). Come engage in conversation in [our chatroom](https://gitter.im/Crowdocracy/thedap).
-
 #### Signatories:
 
 [David Ernst](https://twitter.com/dsernst), [Rohan Dixit](https://www.facebook.com/rdixit108), & [Jared Scheib](https://www.facebook.com/jared.scheib)
