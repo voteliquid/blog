@@ -67,7 +67,3 @@ That seems kinda dumb, don’t you think?
 **Rule Of Thumb: <span style="color: #993300">If you’ve never talked to a person, don’t delegate your power to them!</span>**
 
 It saddens me so much to see people give their time and energy to dishonest people whom they know only as pixels on a screen—pixels on a screen that don’t even acknowledge their existence! This can’t even be called representative democracy, as representation in such a situation is [literally impossible](https://news.ycombinator.com/item?id=10899731).
-
-<p style="margin: 30px 0; background-color: #ddd; padding: 5px 10px;">
-  Read the full post at <a href="https://fixingtao.com/2016/04/lets-end-hotdog-worship-in-america/">fixingtao.com</a>.
-</p>
