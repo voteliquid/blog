@@ -32,7 +32,7 @@ And if you think this is a partisan issue, you're wrong:
 
 It would appear so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746):
 
-![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
+[![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
 
 ------------
 
