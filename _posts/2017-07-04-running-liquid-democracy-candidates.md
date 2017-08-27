@@ -3,7 +3,7 @@ layout: post
 title: "Liquid Democracy Candidates: How To Upgrade Our Legislature, One Seat at a Time"
 author: davidernst
 excerpt: "We’re at a critical moment in politics, when an unprecedented numbers of people express frustration at the status quo. There has been demand from left, right, and center for new ways of doing things."
-thanks: Thanks to Megan Cress and Craig Robinson for reviewing early drafts.
+thanks: Thanks to Megan Cress and Craig Robinson for reviewing drafts.
 ---
 
 > Let us not be afraid to help each other — let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and Senators and Congressmen and Government officials but the voters of this country.
@@ -12,11 +12,11 @@ thanks: Thanks to Megan Cress and Craig Robinson for reviewing early drafts.
 
 We’re at a critical moment in politics, when an unprecedented numbers of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
 
-Liquid democracy is the most promising alternative. Represent yourself, or pick anyone you trust to vote for you in government. ([Read more](https://intro.liquid.vote).)
+Liquid democracy is a promising alternative. Represent yourself, or pick anyone you trust to vote for you in government. ([Read more](https://intro.liquid.vote).)
 
-And yet the most common refrain is that it would be too unlikely to make such a change, because it must require a constitutional amendment.
+And yet one of the most common refrains is that it would be too difficult to make such a change, because it must require a constitutional amendment.
 
-But this is not true.
+Not true.
 
 We have a new option open to us.
 
@@ -28,9 +28,11 @@ These are people who believe in this new way, believe in the mission, and want t
 
 They pledge that if they get elected, they'll vote on each bill according to their district’s liquid democracy.
 
-This could be as easy for them as pressing a button when their name is called to vote on a bill. Their app could perfectly announce their neighbors’ decision, every time.
+This could be as easy as pressing a button when their name is called to vote on a bill. Their app could perfectly announce their district’s decision, every time.
 
-## This person could run on the slogan “Vote for me because I *don’t* want to be a politician”, and actually mean it.
+**This person could run on the slogan “Vote for me because I *DON'T* want to be a politician”, and actually mean it.**
+
+--------
 
 In this way, a single district can now democratically make the decision to upgrade their representation. And it only takes 51% of the vote.
 
@@ -38,9 +40,9 @@ This lets us adopt liquid democracy, in the real world, with much less risk.
 
 Imagine a city council with 15 members. A single district could elect a liquid democracy candidate.
 
-Everyone in that district signed up for the [Liquid platform](https://liquid.vote) could now control their legislative vote. The other 14 seats remain the same as before.
+Everyone in that district signed up could now control their legislative vote. The other 14 seats remain the same as before.
 
-## This gives us a grassroots way to try out liquid democracy in the real world, without any legal changes.
+**This gives us a grassroots way to try out liquid democracy in the real world, without any legal changes.**
 
 This is a realistic way to explore our better options, and with less downside.
 
