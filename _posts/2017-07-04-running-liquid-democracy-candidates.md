@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Liquid Democracy Candidates: How To Upgrade Our Legislature, One Seat at a Time"
+title: "Liquid Democracy Candidates: How to Upgrade Our Legislature, One Seat at a Time"
 author: davidernst
 excerpt: "We’re at a critical moment in politics, when an unprecedented numbers of people express frustration at the status quo. There has been demand from left, right, and center for new ways of doing things."
 thanks: Thanks to Megan Cress and Craig Robinson for reviewing drafts.
