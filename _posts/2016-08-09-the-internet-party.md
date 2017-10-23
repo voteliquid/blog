@@ -55,12 +55,6 @@ A liquid democracy is exciting because it creates massive government accountabil
 
 Imagine walking into your polling booth in November with a simple app. The app identifies the liquid candidates on the ballot — candidates who have signed a contract to be bound by your liquid democracy. If they win, they enter office and begin voting according to the will of the app.
 
-Over time, more and more “remote control” liquid politicians could transform the American political process from the inside out. If this strange digital beast is a new political party, we could call it the Internet Party, [Flux Party](https://voteflux.org/), [Network Party](https://medium.com/@jordangreenhall/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#.2q791917z), [Pirate Party](http://techpresident.com/news/wegov/22154/how-german-pirate-partys-liquid-democracy-works), etc.
-
-#### Party on
-
-We’re [throwing a bunch of actual parties](https://thedap.org/) in San Francisco to build awareness for liquid democracy, and to try out the software together.
-
-If you’d like to join, leave a comment below or join the email newsletter at [thedap.org](https://thedap.org/)
+Over time, more and more “remote control” liquid politicians could transform the political process from the inside out.
 
 ![](/assets/article_images/2016-08-09-the-internet-party/party-on.jpeg)
