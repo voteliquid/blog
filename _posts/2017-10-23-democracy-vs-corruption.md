@@ -2,7 +2,7 @@
 layout: post
 title: "Democracy vs. Corruption"
 author: davidernst
-excerpt: "Democratic corruption is when an elected leader betrays their responsibilities to their voters, enriching themselves or close allies instead. Most Americans consistently report seeing 'widespread government corruption'."
+excerpt: "Democratic corruption is when an elected leader betrays their responsibilities to their voters, enriching themselves or close allies instead. Unfortunately, most Americans consistently report seeing widespread government corruption..."
 ---
 
 > No man who is corrupt, no man who condones corruption in others, can possibly do his duty by the community.
