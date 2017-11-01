@@ -5,7 +5,6 @@ author: davidernst
 pinned: true
 date: 2016-09-21 14:34:25
 excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination."
-thanks: Edited by Jared Scheib. Thanks to Rohan Dixit, Alex Pack, Luke Davis, Andy Coenen, Teresa Yung, Eshan Kejriwal, Matt Conrad, Nick Sippl-Swezey, Naomi Njugi, and Ryan Atkinson.
 ---
 
 <iframe src="https://www.youtube.com/embed/BvA0J_2ZpIQ" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
