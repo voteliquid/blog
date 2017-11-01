@@ -60,7 +60,7 @@ Any time you don't vote on a piece of legislation, the liquid democracy platform
 
 You can select any legal resident of your jurisdiction. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
 
-[![Click this picture for an interactive demo of liquid democracy delegation](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.vote)
+[![Click this picture for an interactive demo of liquid democracy delegation](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
 
 #### A Network of Trust
 
@@ -102,4 +102,4 @@ By adopting liquid democracy, we can empower our most trustworthy leaders, give 
 
 We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like constitutional amendments.
 
-But we need you. ***Join us.*** Sign up to show your support and find out more: [https://liquid.vote](https://liquid.vote).
+But we need you. ***Join us.*** Sign up to show your support and find out more: [https://united.vote](https://united.vote).

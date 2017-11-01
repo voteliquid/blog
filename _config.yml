@@ -7,7 +7,7 @@ gems:
 title: "The Liquid Blog"
 description: Liquid Democracy Is Now Possible.
 
-email: info@liquid.vote
+email: info@united.vote
 #blog logo
 logo: "/assets/icon-reduced-300.png"
 # blog cover
@@ -16,10 +16,10 @@ cover: "/assets/america_cover.jpg"
 paginate:	30
 permalink: pretty # remove .html from post urls
 
-url: "https://blog.liquid.vote" # the base hostname & protocol for your site
+url: "https://blog.united.vote" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@liquid_vote'
+twitter_handle: '@united_vote'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -27,7 +27,7 @@ twitter_handle: '@liquid_vote'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/liquid_vote
+    url:	https://twitter.com/united_vote
     desc: Follow us on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -41,7 +41,7 @@ social:
     share_link: "&amp;u="
 
   - icon: envelope
-    url:  mailto:info@liquid.vote
+    url:  mailto:info@united.vote
     desc: Contact us by email
     share_url:
     share_title:

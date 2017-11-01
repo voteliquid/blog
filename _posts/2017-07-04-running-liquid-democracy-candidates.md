@@ -48,4 +48,4 @@ This is a realistic way to explore our better options, and with less downside.
 
 --------
 
-If you’re interested in bringing liquid democracy to your district, add your name down here: [https://candidate-signup.liquid.vote](https://candidate-signup.liquid.vote).
+If you’re interested in bringing liquid democracy to your district, email [candidates@united.vote](mailto:candidates@united.vote).

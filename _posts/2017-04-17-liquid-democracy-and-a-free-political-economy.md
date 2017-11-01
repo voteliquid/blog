@@ -44,7 +44,7 @@ But our modern age appears to rapidly outpace our government's capacity to respo
 
 [Liquid democracy](https://intro.liquid.vote) uses modern technology to evolve our political process, offering new options for everyone.
 
-All citizens will be able to use the [Liquid platform](https://join.liquid.vote) to directly vote for and against legislation—something previously limited to the 0.0001% of elected legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
+All citizens will be able to use the [Liquid platform](https://united.vote) to directly vote for and against legislation—something previously limited to the 0.0001% of elected legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
 
 On top of this, individuals may select *personal* representatives to vote on legislation for them.
 
@@ -76,4 +76,4 @@ Join us.
 
 We're creating technology to allow liquid democracy at the local, state, and national level.
 
-Show your support [by signing up](https://liquid.vote).
+Show your support [by signing up](https://united.vote).
