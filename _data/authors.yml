@@ -24,3 +24,6 @@ gregslepak:
 rsaanimate:
   name: RSA Animate
   image: "/assets/author_images/rsaanimate.jpg"
+unitedvote:
+  name: United
+  image: "/assets/author_images/unitedvote.png"
