@@ -34,4 +34,4 @@ This means that we can start to build a better democracy today without changing 
 
 We hope that liquid democracy will help get us on the path to solving the many problems facing our political system and allow us to build a democracy that is stronger and more inclusive than ever before.
 
-Please [reach out](help@united.vote) with any questions, concerns, or offers to help. We'd love to hear from you.
+Please [reach out](mailto:help@united.vote) with any questions, concerns, or offers to help. We'd love to hear from you.
