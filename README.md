@@ -1,7 +1,7 @@
 blog
 ========
 
-A repo for the Liquid blog.
+A repo for the United blog.
 
 [<img src="/assets/screenshot3.png" title="screenshot" width="730px" />](https://blog.united.vote)
 
