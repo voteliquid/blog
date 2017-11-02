@@ -16,7 +16,8 @@ cover: "/assets/america_cover.jpg"
 paginate:	30
 permalink: pretty # remove .html from post urls
 
-url: "https://blog.united.vote" # the base hostname & protocol for your site
+url: "https://blog.united.vote" # url of the blog
+app_url: "https://united.vote" # link back to the main app
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@united_vote'
