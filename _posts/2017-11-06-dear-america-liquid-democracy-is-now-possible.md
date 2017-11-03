@@ -36,6 +36,8 @@ This will force members of Congress to more closely follow the will of their con
 
 This means that we can start to build a better democracy *today*, without changing a single law.
 
+[<img src="/assets/article_images/2017-11-06-dear-america/united-vote-logo-100px.png" alt="" style="height: 80px;">](https://united.vote)
+
 We hope that United will help us address the many problems facing our country and allow us to build a democracy that is stronger and more inclusive than ever before.
 
-Please [reach out](mailto:help@united.vote) with any questions, concerns, or offers to help. We'd love to hear from you.
+Please [reach out](mailto:help@united.vote) with any questions, concerns, or support. We'd love to hear from you.
