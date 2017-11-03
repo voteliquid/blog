@@ -24,13 +24,13 @@ To get started, you simply sign up at [united.vote](https://united.vote), choose
 
 Once you’re signed up, United allows you to vote for or against any Congressional bill.
 
-However, since few of us have time to research most bills, your personal representatives can cast your vote when you don’t.
+However, since few of us have time to research most bills, your personal representatives can vote for you when you don’t.
 
 You can name anyone to be a representative - from Elizabeth Warren to Ted Cruz to your next door neighbor. Your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best expert on every bill while still being accountable to you, the voter.
 
 Since United verifies the identity of every voter, we can then grade our members of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
 
-This will force members of Congress to more closely follow the will of their constituents, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
+This will force members of Congress to more closely follow the will of their electorate, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
 
 This means that we can start to build a better democracy *today*, without changing a single law.
 
