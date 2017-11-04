@@ -26,7 +26,7 @@ Once you’re signed up, United allows you to vote for or against any Congressio
 
 However, since few of us have time to research most bills, your personal representatives can vote for you when you don’t.
 
-You can name anyone to be a representative - from Paul Ryan to Stephen Colbert to your next door neighbor. Your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best expert on every bill while still being accountable to you, the voter.
+You can name anyone to be a representative - from Paul Ryan to Oprah Winfrey to your next door neighbor. Your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best expert on every bill while still being accountable to you, the voter.
 
 Since United verifies the identity of every voter, we can then grade our members of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
 
