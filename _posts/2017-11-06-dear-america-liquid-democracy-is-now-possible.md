@@ -6,10 +6,6 @@ excerpt: "Do you ever wish you had more of a voice in Congress? More and more of
 unlisted: true
 ---
 
-> Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
->
-> — President Ronald Reagan
-
 #### Do you ever wish you had more of a voice in Congress?
 
 Too many of our politicians treat elections, the only way we have to make our voices heard, as a game to be won by stagecraft, manipulation, and fear-mongering rather than a forum to debate our values and policies.
@@ -17,6 +13,8 @@ Too many of our politicians treat elections, the only way we have to make our vo
 This has led to an era of political dysfunction seemingly without end. Despite consensus among the voters on many issues, legislative consensus is rarely found. The divisive and competitive nature of elections seems to make this worse, not better.
 
 But, together, we can build a better way.
+
+[<img src="/assets/article_images/2017-11-06-dear-america/united-vote-logo-100px.png" alt="" style="height: 80px;">](https://united.vote)
 
 [United Vote](https://united.vote), launching nationwide today, uses [liquid democracy](https://blog.united.vote/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
@@ -34,8 +32,10 @@ This will force members of Congress to more closely follow the will of their ele
 
 This means that we can start to build a better democracy *today*, without changing a single law.
 
-[<img src="/assets/article_images/2017-11-06-dear-america/united-vote-logo-100px.png" alt="" style="height: 80px;">](https://united.vote)
-
 We hope that United will help us address the many problems facing our country, and allow us to build a democracy that is stronger and more inclusive than ever before.
+
+> Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
+>
+> — President Ronald Reagan
 
 Please [reach out](mailto:help@united.vote) with any questions, concerns, or support. We'd love to hear from you.
