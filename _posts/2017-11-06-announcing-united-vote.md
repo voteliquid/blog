@@ -20,7 +20,7 @@ But, together, we can build a better way.
 
 [United Vote](https://united.vote), launching nationwide today, uses [liquid democracy](https://blog.united.vote/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-To get started, you simply sign up at [united.vote](https://united.vote), choose people you trust to represent you, and verify your identity with a $1 charge to a credit card in your name.
+To get started, you simply sign up at [united.vote](https://united.vote), choose people you trust to represent you, and verify your identity with a $1 one-time charge to a credit card in your name.
 
 Once you’re signed up, United allows you to vote for or against any Congressional bill.
 
@@ -28,7 +28,7 @@ But since few of us have time to research most bills, United lets you name perso
 
 You can pick anyone - from Paul Ryan to Oprah Winfrey to your next door neighbor. And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
-And since United verifies the identity of every voter, we then can grade every members of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
+And since United verifies the identity of every voter, we then can grade every Member of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
 
 This can force members of Congress to more closely follow the will of their electorate, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
 
