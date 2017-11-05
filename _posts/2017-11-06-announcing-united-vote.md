@@ -28,7 +28,7 @@ But since few of us have time to research most bills, United lets you name perso
 
 You can pick anyone - from Paul Ryan to Oprah Winfrey to your next door neighbor. And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
-And since United verifies the identity of every voter, we can grade every members of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
+And since United verifies the identity of every voter, we then can grade every members of Congress based on how well they truly represent their constituents, transparently alerting everyone when they fail to do so.
 
 This can force members of Congress to more closely follow the will of their electorate, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
 
