@@ -12,7 +12,7 @@ Right now, elections are the only legal way to make our voices heard. But too ma
 
 This has led to an era of political dysfunction seemingly without end. Despite consensus among voters on many issues, our legislative process goes nowhere.
 
-The divisive, costly, and ego-driven nature of elections seems to only make things worse.
+The divisive and costly nature of elections seems to only make things worse.
 
 But, together, we can build a better way.
 
@@ -36,8 +36,8 @@ We can start to build a better democracy *today*, without changing a single law.
 
 We hope that liquid democracy can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
 
+Please [reach out](mailto:help@united.vote) with any questions, concerns, or support. We'd love to hear from you.
+
 > Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
 >
-> — President Ronald Reagan
-
-Please [reach out](mailto:help@united.vote) with any questions, concerns, or support. We'd love to hear from you.
+> — President Ronald Reagan, 1961
