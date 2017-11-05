@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "How to Move Past a Two-Party System"
-subtitle: ""
 author: davidernst
 date: 2017-03-06
-excerpt: "Many Americans decry our two-party system. But how specifically could we address it? Is it written in law?"
+excerpt: "Many Americans criticize our two-party system. But how specifically could we address it? Is it written in law?"
 ---
 
 > "There is nothing which I dread so much as a division of the republic into two great parties, each arranged under its leader, and concerting measures in opposition to each other. This, in my humble apprehension, is to be dreaded as the greatest political evil under our Constitution."
@@ -19,7 +18,7 @@ But there's more to it than that. There are major structural reasons for our par
 
 Consider that even if a candidate only gets 51% of their district's vote, they still win. Now they speak for the whole district, including those who didn't vote for them.
 
-This leads to extra high-stakes elections. You either win and get it all, or you lose and go home with nothing. No wonder campaigns can become so nasty ([even when they're supposed to be on the same team](http://www.sfexaminer.com/brutal-election-warfare-scott-wiener-jane-kim-champion-meaningful-campaign-finance-reform/)). No wonder politicians [take money](https://www.opensecrets.org/) from groups they'd otherwise not owe favors.
+This leads to extra high-stakes elections. You either win and get it all, or you lose and go home with nothing. No wonder campaigns can become so nasty ([even when they're supposed to be on the same team](http://www.sfexaminer.com/brutal-election-warfare-scott-wiener-jane-kim-champion-meaningful-campaign-finance-reform/)). No wonder politicians take money from groups they'd otherwise not owe favors.
 
 And it's this systemic pressure that entrenches a two-party [duopoly](/assets/article_images/2017-03-06-how-to-move-past-two-parties/duopoly.gif).
 
