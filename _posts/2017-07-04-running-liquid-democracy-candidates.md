@@ -13,7 +13,7 @@ We’re at a critical moment in politics, when an unprecedented numbers of peopl
 
 Liquid democracy is a promising alternative. Represent yourself, or pick anyone you trust to vote for you in government. ([Read more](https://intro.liquid.vote).)
 
-And yet one of the most common refrains is that it would be too difficult to make such a change, because it must require a constitutional amendment.
+And yet one of the most common refrains is that it would be too hard to make such a change, because it must require a constitutional amendment.
 
 Not true.
 
@@ -25,25 +25,19 @@ We can run new candidates for office. “Liquid Democracy Candidates”.
 
 These are people who believe in this new way, believe in the mission, and want to give their fellow Americans a true way to represent themselves.
 
+Imagine a city council with 15 members. A liquid democracy candidate could campaign for one of the seats. The other 14 remain the same as before.
+
 They pledge that if they get elected, they'll vote on each bill according to their district’s liquid democracy.
 
-This could be as easy as pressing a button when their name is called to vote on a bill. Their app could perfectly announce their district’s decision, every time.
+This could be as easy as pressing a button when their name is called to vote on a bill. Their app could perfectly announce their district’s decision, every time:
 
-**This person could run on the slogan “Vote for me because I *DON'T* want to be a politician”, and actually mean it.**
+> Speaker: "Representative Jones, how do you vote?"
+>
+> [Holding their phone up to the microphone]: "The people of district 5 vote NAY!"
 
---------
+In this way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters in that district.
 
-In this way, a single district can now democratically make the decision to upgrade their representation. And it only takes 51% of the vote.
-
-This lets us adopt liquid democracy, in the real world, with much less risk.
-
-Imagine a city council with 15 members. A single district could elect a liquid democracy candidate.
-
-Everyone in that district signed up could now control their legislative vote. The other 14 seats remain the same as before.
-
-**This gives us a grassroots way to try out liquid democracy in the real world, without any legal changes.**
-
-This is a realistic way to explore our better options, and with less downside.
+**This gives us a grassroots way to try out liquid democracy in the real world, without any legal changes, and much less risk than a top-down amendment.**
 
 --------
 
