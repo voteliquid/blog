@@ -55,7 +55,7 @@
             </a>
           </figure>
           <section class="share">
-            <p class="share-header">SHARE</p>
+            <p class="share-header">CLICK TO SHARE</p>
             {% for social in site.social %}
               {% if social.share_url != null %}
                 <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
