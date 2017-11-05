@@ -33,7 +33,7 @@ This could be as easy as pressing a button when their name is called to vote on 
 
 > Speaker: "Representative Jones, how do you vote?"
 >
-> [Holding their phone up to the microphone]: "The people of district 5 vote NAY!"
+> (Holding their phone up to the microphone): "The people of district 5 vote NAY!"
 
 In this way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters in that district.
 
