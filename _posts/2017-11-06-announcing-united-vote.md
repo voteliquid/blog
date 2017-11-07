@@ -8,11 +8,13 @@ pinned: true
 
 You deserve more of a voice in Congress.
 
-Right now, elections are the only legal way to make our voices heard. But too many of our politicians treat these as a game to be won by stagecraft, manipulation, and fear-mongering, rather than a forum to debate our values and policies.
+Right now, elections are the only legal way to make our voices heard.
 
-This has led to an era of political dysfunction seemingly without end. Despite consensus among voters on many issues, our legislative process goes nowhere.
+But too many of our politicians treat these as a game to be won by stagecraft, manipulation, and fear-mongering, rather than a forum to debate our values and policies.
 
-The divisive and costly nature of elections seems to only make things worse.
+This has led to an era of political dysfunction seemingly without end.
+
+Despite consensus among voters on many issues, our legislative process goes nowhere. The divisive and costly nature of elections [seems to only make things worse](/2017/03/06/how-to-move-past-two-parties/).
 
 But, together, we can build a better way.
 
@@ -26,11 +28,13 @@ Once you’re signed up, United allows you to vote for or against any Congressio
 
 But since few of us have time to research most bills, United lets you name personal representatives to vote in your place when you don't.
 
-You can pick anyone - from Paul Ryan to Oprah Winfrey to your next door neighbor. And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
+You can pick anyone - from Paul Ryan, to Oprah Winfrey, to your next door neighbor.
+
+And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
 And since United verifies the identity of every voter, we then can grade every Member of Congress based on how well they truly represent their constituents, making it clear when they fail to do so.
 
-This can force members of Congress to more closely follow the will of their electorate, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
+This can force Congress to more closely follow the will of the people, or risk [someone running against them who will](https://blog.united.vote/2017/07/04/running-liquid-democracy-candidates/).
 
 This means we can start to build a better democracy *today*, without changing a single law.
 
