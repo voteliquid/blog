@@ -2,7 +2,6 @@
 layout: post
 title: What is Liquid Democracy?
 author: davidernst
-pinned: true
 date: 2016-09-21 14:34:25
 excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination."
 ---

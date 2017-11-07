@@ -2,8 +2,8 @@
 layout: post
 title: "Announcing United Vote: Let's Build a Democracy We Can Trust"
 author: unitedvote
-excerpt: "Do you ever wish you had more of a voice in Congress? Right now, elections are the only legal way to make our voices heard. But too many of our politicians treat these as a game to be won by stagecraft, manipulation, and fear-mongering, rather than a forum to debate our values and policies. But, together, we can build a better way."
-unlisted: true
+excerpt: "You deserve more of a voice in Congress. Right now, elections are the only legal way to make our voices heard. But too many of our politicians treat these as a game to be won by stagecraft, manipulation, and fear-mongering, rather than a forum to debate our values and policies. But, together, we can build a better way."
+pinned: true
 ---
 
 You deserve more of a voice in Congress.
