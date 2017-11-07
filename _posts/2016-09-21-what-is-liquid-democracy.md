@@ -16,11 +16,11 @@ Liquid democracy is a 21st-century upgrade for democratic decision making. It bl
 
 ---------
 
-On one extreme, we have direct democracy, when everyone can vote on legislation. It’s Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s), with equal voices.
+On one extreme, we have direct democracy, when everyone can vote on legislation. It’s Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s).
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/crowd-raises-hands-photo.png)
 
-Its history goes back to ancient Athens, and inspired the Founding Fathers to create the United States.
+Its history goes back to ancient Athens, and inspired America's founding Declaration that "All men are created equal".
 
 But direct democracy is not always practical: how does everyone stay educated and up-to-date on everything?
 
