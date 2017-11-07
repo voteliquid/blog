@@ -11,24 +11,26 @@ excerpt: "Liquid democracy is appealing to those who spend a lot of time followi
 >
 > — William F. Buckley
 
-You could sort Americans into two groups: people who pay a lot of attention to politics, and those who don't. Many people fall into the latter.
+You could sort citizens into two groups: those who pay a lot of attention to politics, and those who don't.
 
-[Liquid democracy](/2016/09/21/what-is-liquid-democracy/) is appealing to those who spend a lot of time following politics, but it's also easier for those who don't want to be all that involved.
+Many of us often fall into the latter category.
 
-### "Rock The Vote"
+It's not hard to see how [liquid democracy](/2016/09/21/what-is-liquid-democracy/) appeals to political junkies, but it could also be much easier for everyone else.
 
-In our current world, there's social pressure to go to the polling booth every election. And each time, it's your "civic duty" to research the candidates to make the best choice.
+### "Get Out the Vote"
 
-After all, that lawmaker will be in power for the next few years. Even if you didn't vote, they still "represent" you.
+In our current world, there's strong social pressure to go to the polling booth every election. We say it's our "civic duty" to research the candidates and make the best choices.
+
+After all, that lawmaker will be in power for the next few years. Even if we don't vote, they still "represent" us.
 
 <img src="/assets/article_images/2016-10-13-dont-care-about-politics/bad-politicians-elected-by-not-voting.png" alt="Our current notion of &quot;civic duty&quot;" width="300" />
 
-### Liquid democracy removes these requirements.
+### But liquid democracy changes the game.
 
-Liquid democracy isn't winner-take-all, so there's no pressure to stop a bad candidate from taking office and representing the entire district.
+A [liquid democracy](/2016/09/21/what-is-liquid-democracy/) isn't winner-take-all, so there's no way for a bad candidate to take office as the only representative for the entire district.
 
-In fact, in a complete liquid democracy, there's no need for once-every-4-year legislative elections. Once you've found someone you trust, you could stick with them as long as you like.
+In fact, in a full liquid democracy, there'd be no need for once-every-4-year legislative elections. Once you've found representatives you trust, you could stick with them as long as you like.
 
 And, when you do want to be involved, you don't even have to leave your home. You could vote right from your phone or a computer.
 
-We can create a better political process, and still make it easier for the busiest among us.
+Liquid democracy means we can create a more fair political process, and still make things easier for the busiest among us.
