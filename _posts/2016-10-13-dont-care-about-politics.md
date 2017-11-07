@@ -29,7 +29,7 @@ After all, that lawmaker will be in power for the next few years. Even if we don
 
 A [liquid democracy](/2016/09/21/what-is-liquid-democracy/) isn't winner-take-all, so there's no way for a bad candidate to take office as the only representative for the entire district.
 
-In fact, in a full liquid democracy, there'd be no need for once-every-4-year legislative elections. Once you've found representatives you trust, you could stick with them as long as you like.
+In fact, in a full liquid democracy, there'd be no need for legislative elections at all. Once you've found representatives you trust, you could stick with them as long as you like.
 
 And, when you do want to be involved, you don't even have to leave your home. You could vote right from your phone or a computer.
 

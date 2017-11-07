@@ -26,13 +26,15 @@ But direct democracy is not always practical: how does everyone stay educated an
 
 Two hundred years ago, it wasn't possible. Even today, we live busy lives, and there's just too much to keep up with.
 
-And so our current solution is to elect dedicated political representatives. Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators: 535 in our country of 300 million.
+And so our current solution is to elect dedicated political representatives.
 
-**This helps with our issue of not enough time to stay informed, but [introduces new problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
+Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators: 535 in our country of 300 million.
+
+**This helps in many ways, but [introduces new problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
 
 1. We may disagree with & distrust our limited choice of candidates.
 2. We're often stuck with electoral campaigns dominated more by personality than policy.
-3. If this wasn't bad enough, once elected, politicians can become huge targets for corruption, with little accountability. ([Even the President admits this](https://www.youtube.com/watch?v=e4tHW9_bb08).)
+3. Perhaps worst of all, once elected, politicians can become huge targets for corruption, with little accountability. [Even the President admits this](https://www.youtube.com/watch?v=e4tHW9_bb08).
 
 #### Liquid democracy can solve all three problems.
 
@@ -76,7 +78,7 @@ This is key. Networks can flourish at scale.
 
 With a liquid democratic legislature, you no longer need elections.
 
-Right now, we [run expensive elections](https://twitter.com/dsernst/status/845566576245927936) to take the pulse of the electorate. These are supposed to keep politicians accountable.
+Right now, we run expensive elections to take the pulse of the electorate. These are supposed to [keep politicians accountable](/2017/10/23/democracy-vs-corruption/).
 
 But in a liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
@@ -90,7 +92,7 @@ These winner-take-all elections [entrench a polarizing two-party landscape](/201
 
 But in liquid democracy, when 51% of voters choose the same delegate, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
 
-A liquid democracy can include many more voices than our current electoral system allows.
+This means that a liquid democracy can include many more perspectives than our current electoral system allows.
 
 ---------
 
