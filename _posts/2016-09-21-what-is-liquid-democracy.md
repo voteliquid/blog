@@ -90,9 +90,9 @@ Currently, a candidate only has to get 51% of the vote, but they go to the legis
 
 These winner-take-all elections [entrench a polarizing two-party landscape](/2017/03/06/how-to-move-past-two-parties/).
 
-But in liquid democracy, when 51% of voters choose the same delegate, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
+But in a liquid democracy, when 51% of voters choose the same representative, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
 
-This means that a liquid democracy can include many more perspectives than our current electoral system allows.
+This means that a liquid democracy can include many more perspectives than our current electoral process allows.
 
 ---------
 
