@@ -5,9 +5,9 @@ author: davidernst
 excerpt: "Democratic corruption is when an elected leader betrays their responsibilities to their voters, enriching themselves or close allies instead. Unfortunately, most Americans consistently report seeing widespread government corruption..."
 ---
 
-> No man who is corrupt, no man who condones corruption in others, can possibly do his duty by the community.
+> When you give, they do whatever the hell you want them to do... I will tell you that our system is broken.
 >
-> — President Theodore Roosevelt, 1900
+> — President Donald Trump, August 2015
 
 Democratic corruption is when an elected leader betrays their responsibilities, enriching themselves or close allies instead of serving their constituents.
 
