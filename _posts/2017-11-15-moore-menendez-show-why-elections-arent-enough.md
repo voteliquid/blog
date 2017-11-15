@@ -3,7 +3,6 @@ layout: post
 title: "Moore, Menendez Show Why Elections Aren’t Enough"
 author: dallascole
 excerpt: "While the accusations against Senate candidate Roy Moore (R, AL) and Senator Bob Menendez (D, NJ) couldn't be more different, the fallout from both present clear examples of our election system failing democracy."
-unlisted: true
 ---
 
 While the accusations against Senate candidate Roy Moore (R, AL) and Senator Bob Menendez (D, NJ) couldn't be more different, the fallout from both present clear examples of our election system failing democracy.
