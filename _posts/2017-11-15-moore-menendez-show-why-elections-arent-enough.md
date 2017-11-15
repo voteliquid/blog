@@ -12,11 +12,11 @@ With Moore, voters going into the ballot box next month may be forced to vote fo
 
 With Menendez, a possibly corrupt politician may be unseated and replaced by an appointee chosen by an unpopular Republican governor. This appointee would also likely disagree with voters on many issues.
 
-Most voters would agree that the crimes both men have been accused of, if true, should disqualify them from public office. At the same time, both men also more closely represent their constituents’ positions than the current alternative.
+Most voters agree that the crimes both men have been accused of, if true, should disqualify them from public office. At the same time, both men also more closely represent their constituents’ positions than the current alternative.
 
-Given how close the Senate is, either seat switching parties could be a deciding vote on key issues affecting hundreds of millions of people for the next one to three *years*.
+Given how close the Senate is, whoever holds these seats for the next few years will be a deciding vote on key issues affecting hundreds of millions of people.
 
-And the majority of voters in AL or NJ seem to have no real say in choosing these replacements.
+And the majority of voters in AL or NJ seem to have no real say in who those Senators will be.
 
 While these are extreme examples, it is hardly uncommon for Americans to feel like they have no good choice in politicians. This stems from how few potential candidates have a real chance at winning elections, which only gets worse as our population grows.
 
