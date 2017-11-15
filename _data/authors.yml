@@ -27,3 +27,6 @@ rsaanimate:
 unitedvote:
   name: United
   image: "/assets/author_images/unitedvote.png"
+dallascole:
+  name: Dallas Cole
+  image: "/assets/author_images/dallascole.jpg"
