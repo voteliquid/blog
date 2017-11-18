@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The Internet Party
-subtitle: How technology can disrupt politics and re-invent government
+title: "The Internet Party: How Technology Can Disrupt Politics and Re-invent Government"
 author: rohandixit
 date: 2016-08-09 14:34:25
 tags: Politics, Democracy, Networks, Liquid Democracy, San Francisco

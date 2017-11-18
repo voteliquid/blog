@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Don't Care About Politics?"
-subtitle: "Liquid Democracy Is Easier for You Too"
+title: "Don't Care About Politics? Liquid Democracy Is Easier for You Too"
 author: davidernst
 date: 2016-10-13
 excerpt: "Liquid democracy is appealing to those who spend a lot of time following politics, but it’s also easier for those who aren’t all that involved."
