@@ -30,12 +30,14 @@ social:
   - icon:	twitter
     url:	https://twitter.com/united_vote
     desc: Follow us on twitter
+    username: "@united_vote"
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	facebook
-    url:	https://facebook.com/liquidvote/
+    url:	https://facebook.com/unitedvote/
+    username: "@unitedvote"
     desc: Connect with us on facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
