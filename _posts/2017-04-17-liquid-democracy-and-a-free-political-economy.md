@@ -73,6 +73,6 @@ But our government representation [leaves much to be desired](http://www.washing
 
 Join us.
 
-We're creating technology to allow liquid democracy at the local, state, and national level.
+We're creating technology to allow liquid democracy at the local, state, and national level, without constitutional amendments.
 
 Show your support [by signing up](https://united.vote).
