@@ -84,6 +84,8 @@ Both briber and bribee would still be breaking the law, [facing fines up to $10,
 
 Compared to our current situation, it seems safe to say that **liquid democracy can have a massive impact towards eliminating corruption** in our legislatures.
 
+And best of all, [we can start to do this today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+
 > We have a duty to look after each other. If we lose control of our government, then we lose our ability to dispense justice and human kindness. Our first priority today, then, is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >
 > — Granny D
