@@ -12,7 +12,7 @@ excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision mak
 
 We believe our democracy could serve us exponentially better.
 
-Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination.
+Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into a more authentic and practical combination.
 
 ---------
 

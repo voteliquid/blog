@@ -60,3 +60,5 @@ By replacing winner-take-all elected reps with personal representatives picked b
 We can include every voice, and still have trustworthy representatives.
 
 That's what a fair political process looks like.
+
+Thanks to [United Vote](/2017/11/06/announcing-united-vote/), we can start to restore representation *today*, without needing to first pass any new laws. [Join us](https://united.vote/join).
