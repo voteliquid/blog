@@ -28,4 +28,6 @@ But a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/) is diffe
 
 Citizens become free to choose representatives right for them. Representation is no longer limited to those at the top of the ballot, picked by the party elite. And with much lower barrier to entry, we can work with many more ideas than the standard two-party platforms.
 
-It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out. [Join us.](https://united.vote)
+It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out.
+
+We [can do  this today](/2017/11/06/announcing-united-vote/), without needing to pass new laws. [Join us.](https://united.vote/join)

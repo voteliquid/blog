@@ -82,6 +82,6 @@ But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can help us restor
 
 It can allow us to have a much more representative government, with much stronger accountability, and scaled for our modern age.
 
-And we can do it in a grassroots way, one step at a time, without needing to change any laws.
+And we can do it in a grassroots way, one step at a time, without needing to pass any new laws.
 
 Thanks to [United Vote](/2017/11/06/announcing-united-vote/), we can start to make a difference today. [Join us](https://united.vote/join).

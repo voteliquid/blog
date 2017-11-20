@@ -69,4 +69,4 @@ And if you sincerely consider your existing elected representative the best opti
 
 Liquid democracy *still* means the majority of people can offload the work of legislative engagement. *And* that representation can be based upon stronger free choice than our current system offers.
 
-[Join us.](https://united.vote)
+[Join us.](https://united.vote/join)
