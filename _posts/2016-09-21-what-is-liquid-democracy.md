@@ -102,4 +102,4 @@ By adopting liquid democracy, we can empower our most trustworthy leaders, give 
 
 We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like constitutional amendments.
 
-But we need you. ***Join us.*** Sign up to show your support and find out more: [https://united.vote](https://united.vote).
+But we need you. ***Join us.*** Sign up to show your support and find out more: [www.united.vote](https://united.vote).
