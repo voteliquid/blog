@@ -90,9 +90,9 @@ Compared to our current situation, **liquid democracy can have a massive impact 
 
 #### Our practical strategy
 
-Unlike most other well-intentioned efforts to get money out of politics, [we can start to adopt liquid democracy today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+Unlike most other well-intentioned efforts to reduce political corruption, [we can start to adopt liquid democracy today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
 
-[Join United](https://united.vote/join) to help make this happen.
+You can help make this happen by [joining United](https://united.vote/join).
 
 > We have a duty to look after each other. If we lose control of our government, then we lose our ability to dispense justice and human kindness. Our first priority today, then, is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >
