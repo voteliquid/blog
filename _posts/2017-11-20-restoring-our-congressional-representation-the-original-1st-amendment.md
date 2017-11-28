@@ -11,11 +11,11 @@ Originally, there was a different 1st Amendment, that came before the one we thi
 
 That was known as the [Congressional Apportionment Amendment](https://en.wikipedia.org/wiki/Congressional_Apportionment_Amendment).
 
-## The Amendment
+#### The Amendment
 
 It's text said that we ought to have one representative per 30,000 citizens for our first 100 Members of Congress, then one rep per 40,000 citizens up to 200 Members, and then one rep per 50,000 citizens after that.
 
-## The Debate
+#### The Debate
 
 Melancton Smith, a New York delegate to the Continental Congress, worried about unchecked power in the newly proposed Constitution.
 
@@ -33,7 +33,7 @@ George Washington himself was said to have weighed in on this question.
 
 When it was proposed that the number of constituents per legislators ought to be no more than 40,000, the first President suggested lowering it to 30,000. In fact, this was said to be the *only* issue he spoke up about during the Constitutional Convention.
 
-## The Amendment's History
+#### The Amendment's History
 
 In 1789, the Congressional Apportionment Amendment was passed by Congress as part of our original Bill of Rights.
 
@@ -54,7 +54,7 @@ But this was just one shy of the 3/4th needed among the 14 states at that time.
 
 Interestingly, the proposal for this Amendment technically still remains "open", two hundred years later, although more than two dozen states would need to ratify to pass the new 3/4th threshold.
 
-## The Lost Record
+#### The Lost Record
 
 Even more interestingly, former attorney Eugene LaVergne claims to have found evidence buried in public records that the state of Connecticut *did in fact* originally ratify the Congressional Apportionment Amendment, which should have made it officially part of the Constitution, but this never reached the national government.
 
@@ -62,7 +62,7 @@ Independent researchers [claim to have corroborated these records](http://www.th
 
 LaVergne took his claim to court, but his case was dismissed. He appealed all the way up to the Supreme Court to no avail.
 
-## What if it had passed?
+#### What if it had passed?
 
 Today, each congressional district has an average of 711,000 constituents.
 
@@ -72,7 +72,7 @@ It's rather difficult to imagine squeezing all of them into one room together in
 
 Nonetheless, it's important to realize how far we've strayed from the founders' original vision of a democratic republic.
 
-## Looking Forward
+#### Looking Forward
 
 It's unlikely the Amendment will ever be passed.
 

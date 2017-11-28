@@ -44,8 +44,7 @@ Right now, because of [our election rules](/2017/03/06/how-to-move-past-two-part
 Liquid democracy opens that choice up so you can pick anyone. And if they end up breaking their promises and losing your trust, liquid democracy lets you "de-delegate" away from them immediately.
 
 
-But isn't electing full-time legislators the smartest way to go? Why mess with a good thing?
---------
+#### But isn't electing full-time legislators the smartest way to go? Why mess with a good thing?
 
 Some citizens take the time to stay informed, and that's great, but many don't. And so it is useful that we elect representatives right now. For many cases, full-time representatives probably make better decisions than plebiscites.
 

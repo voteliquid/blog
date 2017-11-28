@@ -19,7 +19,7 @@ Not true.
 
 We have a new option open to us.
 
-## We can use the old system to adopt a new one.
+### We can use the old system to adopt a new one.
 
 We can run new candidates for office. “Liquid Democracy Candidates”.
 
