@@ -2,7 +2,7 @@
 layout: post
 title: "The Long Tail of Political Participation"
 author: davidernst
-excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the long tail, leaving so many people out. It doesn't have to be this way."
+excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving so many people out. It doesn't have to be this way."
 unlisted: true
 ---
 
@@ -12,7 +12,7 @@ Here's a reminder of what a power law distribution looks like:
 
 ![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/LongTail.png)
 
-Massive winners on the top, called the **tall head**, and then many more participants with less individual percentages of the whole, called the **long tail**.
+Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
 Power laws show up all over nature, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
 
@@ -24,9 +24,9 @@ See how each of those individual elections resemble the head of a power law curv
 
 And that only shows a few political parties.
 
-#### Our current electoral process cuts off the long tail.
+#### Our current electoral process cuts off the Long Tail.
 
-Significantly, power law distributions found in nature will often have more than half of their total distribution in the long tail.
+Significantly, power law distributions found in nature will often have more than half of their total distribution in the Long Tail.
 
 But by awarding 100% of the political power for winning only 51% of the votes, two frontrunners gain a massive handicap. This is better described as a **duopoly**: two outwardly competitive actors with near complete control of the market.
 
@@ -36,11 +36,11 @@ And we can all too easily observe that not voting — "None of these options are
 
 #### But it doesn't have to be this way.
 
-Amazon unlocked the long tail of consumer goods, by creating an online store with infinite shelf space. They never have to say "no room" for any product, even if it's individually not very popular.
+Amazon unlocked the Long Tail of consumer goods, by creating an online store with infinite shelf space. They never have to say "no room" for any product, even if it's individually not very popular.
 
 One employee famously said, "We sold more books today that didn't sell at all yesterday than we sold today of all the books that did sell yesterday." This gives them a huge advantage over brick and mortar alternatives.
 
-YouTube unlocks the long tail of video creators, by giving anyone who signs up a stage and a way to reach their audience.
+YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a stage and a way to reach their audience.
 
 And consumers sure seem to like it: YouTube is on track to [surpass all of TV's combined viewership numbers](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb).
 
