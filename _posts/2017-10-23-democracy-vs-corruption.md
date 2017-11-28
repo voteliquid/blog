@@ -41,12 +41,12 @@ The most obvious cost is our taxpayer funds being used for crony handouts.
 
 But on top of this, researchers identify [dire second-order effects](http://www.imf.org/external/pubs/ft/sdn/2016/sdn1605.pdf):
 
-> **Corruption can undermine the state's ability to deliver inclusive economic growth in a
-number of different areas.** When government functions are impaired, it can adversely affect a
+> Corruption can undermine the state's ability to deliver inclusive economic growth in a
+number of different areas. When government functions are impaired, it can adversely affect a
 number of important determinants of economic performance, including macro financial stability,
 investment, human capital accumulation, and total factor productivity. Moreover, when systemic
-corruption affects virtually all state functions, distrust of government can become so pervasive that it
-can lead to violence, civil strife, and conflict, with devastating social and economic implications.
+corruption affects virtually all state functions, **distrust of government can become so pervasive that it
+can lead to violence, civil strife, and conflict, with devastating social and economic implications**.
 
 #### But a liquid democratic legislature could be orders-of-magnitude more resistant to corruption.
 
@@ -60,13 +60,15 @@ Consider this:
 
 Now contrast that with a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/), which could scale to include thousands of times as many active participants.
 
-If the number of active legislators goes up by a few orders of magnitude, so does the cost of capturing a majority of them.
+If the number of active legislators goes up by a few orders of magnitude, so does the total cost of capturing a majority of them.
 
-And remember, liquid democracy means real accountability. If your chosen representatives no longer seem to fight for your interests, liquid democracy lets you replace them immediately, no questions asked.
+It's not that corruption goes away entirely, but it ought to become much more difficult.
+
+And remember, liquid democracy means real accountability for representatives. If they no longer seem to fight for your interests, liquid democracy lets you replace them immediately, no questions asked.
 
 #### Sunlight is said to be the best of disinfectants
 
-One may wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good point to consider.
+One may still wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good point to consider.
 
 But compare it to our current system: would it really be easier to organize blatant political corruption at this scale? More cost effectively?
 
@@ -74,17 +76,23 @@ Not even close.
 
 Sure, deep pocketed influencers might hypothetically be able to buy off a few financially desperate voters.
 
-But right now, our 535 legislators each represent an average of 600,000 constituents, so the cost per voter would have to be 600,000 times less than the cost per legislator.
+But right now, our 535 legislators each represent an average of 700,000 constituents, so the cost per voter would have to be 700,000 times less than the cost per legislator.
 
-In other words, a member of Congress would have to sell out for no less than $600,000 today, whereas every regular citizen would need to be convinced for less than $1. And that's just to break even.
+In other words, a member of Congress would have to sell out for no less than $700,000 today, whereas every regular citizen would need to be convinced for less than $1. Just to break even.
 
 And all of this is supposed to happen, at scale, without leaving massive amounts of evidence?
 
-Both briber and bribee would still be breaking the law, [facing fines up to $10,000 per instance, and jail time](https://www.law.cornell.edu/uscode/text/18/597). It's hard to see many people finding that worth the risk for such a tiny payout.
+Both briber and bribee would still be breaking the law, [facing fines up to $10,000 and 2 years in jail, per instance](https://www.law.cornell.edu/uscode/text/18/597). It's hard to see many people finding that worth the risk for such a tiny payout.
 
-Compared to our current situation, it seems safe to say that **liquid democracy can have a massive impact towards eliminating corruption** in our legislatures.
+Compared to our current situation, **liquid democracy can have a massive impact towards reducing corruption** in our legislatures.
 
-And best of all, [we can start to do this today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+-----
+
+#### Our practical strategy
+
+Unlike most other well-intentioned efforts to get money out of politics, [we can start to adopt liquid democracy today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+
+[Join United](https://united.vote/join) to help make this happen.
 
 > We have a duty to look after each other. If we lose control of our government, then we lose our ability to dispense justice and human kindness. Our first priority today, then, is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >
