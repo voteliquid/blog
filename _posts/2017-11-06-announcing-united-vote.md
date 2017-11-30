@@ -14,7 +14,7 @@ But too many of our politicians treat these as a game to be won by stagecraft, m
 
 This has led to an era of political dysfunction seemingly without end.
 
-Despite consensus among voters on many issues, our legislative process goes nowhere. The divisive and costly nature of elections [seems to only make things worse](/2017/03/06/how-to-move-past-two-parties/).
+Despite consensus among voters on many issues, our legislative process goes nowhere. The [divisive](/2017/03/06/how-to-move-past-two-parties/) and costly nature of elections seems to only make things worse.
 
 But, together, we can build a better way.
 
