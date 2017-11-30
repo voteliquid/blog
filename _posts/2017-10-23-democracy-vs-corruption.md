@@ -7,7 +7,7 @@ excerpt: "Democratic corruption is when an elected leader betrays their responsi
 
 > When you give, they do whatever the hell you want them to do... I will tell you that our system is broken.
 >
-> — President Donald Trump, August 2015
+> — President Donald Trump, [August 2015](https://www.youtube.com/watch?v=e4tHW9_bb08)
 
 Democratic corruption is when an elected leader betrays their responsibilities, enriching themselves or close allies instead of serving their constituents.
 
