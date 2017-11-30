@@ -22,7 +22,7 @@ And here's what the votes for US President has looked like for the last 40 years
 
 See how each of those individual elections resemble the head of a power law curve?
 
-And that only shows a few political parties.
+And that chart only includes a few political parties.
 
 #### Our current electoral process cuts off the Long Tail.
 
@@ -42,7 +42,7 @@ One employee famously said, "We sold more books today that didn't sell at all ye
 
 YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a stage and a way to reach their audience.
 
-And consumers sure seem to like it: YouTube is on track to [surpass all of TV's combined viewership numbers](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb).
+And consumers sure seem to like it: YouTube is on track to [surpass all of TV's combined viewership hours](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb).
 
 By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for our legislatures.
 
