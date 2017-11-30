@@ -29,9 +29,9 @@ And it wasn't just the Anti-Federalists who worried about this.
 
 In [Federalist No. 55](http://www.constitution.org/fed/federa55.htm), James Madison acknowledged that having too few legislators would make it difficult to have a close enough relationship with the people they were meant to represent.
 
-George Washington himself was said to have weighed in on this question.
+George Washington himself was said to have weighed in on this question. In fact, this was said to be the *only* issue he spoke up about during the Constitutional Convention.
 
-When it was proposed that the number of constituents per legislators ought to be no more than 40,000, the first President suggested lowering it to 30,000. In fact, this was said to be the *only* issue he spoke up about during the Constitutional Convention.
+When it was proposed that each legislators ought to represent no more than 40,000 constituents, the first President suggested lowering it to 30,000.
 
 #### The Amendment's History
 

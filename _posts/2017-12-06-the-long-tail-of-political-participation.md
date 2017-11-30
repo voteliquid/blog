@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Long Tail of Political Participation"
+title: "The Long Tail of Political Participation: More Options for Better Representation"
 author: davidernst
 excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving so many people out. It doesn't have to be this way."
 unlisted: true
@@ -14,7 +14,7 @@ Here's a reminder of what a power law distribution looks like:
 
 Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
-Power laws show up all over nature, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
+Power distributions show up all over nature, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
 
 And here's what the votes for president has looked like for the last 40 years:
 
@@ -46,7 +46,7 @@ And consumers sure seem to like it: YouTube is on track to [surpass all of TV's 
 
 By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for political participation.
 
-Many more people can be included in the legislative process, and less-engaged voters can have more and better options for representation.
+Many more people can be included in the legislative process, and less-engaged voters can have more options for better representation.
 
 **[United makes this possible today](/2017/11/06/announcing-united-vote/).**
 
