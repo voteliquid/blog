@@ -14,11 +14,11 @@ Here's a reminder of what a power law distribution looks like:
 
 Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
-Power distributions show up all over nature, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
+Power distributions show up all over the place, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
 
-And here's what the votes for president has looked like for the last 40 years:
+And here's what the votes for US President has looked like for the last 40 years:
 
-![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)
+[![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
 
 See how each of those individual elections resemble the head of a power law curve?
 
@@ -44,9 +44,9 @@ YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a
 
 And consumers sure seem to like it: YouTube is on track to [surpass all of TV's combined viewership numbers](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb).
 
-By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for political participation.
+By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for our legislatures.
 
-Many more people can be included in the legislative process, and less-engaged voters can have more options for better representation.
+Many more people can meaningfully participate in our political processes, and less-engaged citizens can have more options for better representation.
 
 **[United makes this possible today](/2017/11/06/announcing-united-vote/).**
 
