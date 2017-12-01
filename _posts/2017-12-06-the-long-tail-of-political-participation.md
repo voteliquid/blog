@@ -6,21 +6,21 @@ excerpt: "Political capital is most likely distributed along a power law. But ou
 unlisted: true
 ---
 
-Political capital, the "trust, goodwill, and influence a politician has with the public and other political figures", is most likely distributed along a power law.
+Political capital, the "trust, goodwill, and influence a politician has with the public and other political figures", is most likely distributed along a [power law](https://en.wikipedia.org/wiki/Power_law).
 
-Here's a reminder of what a power law distribution looks like:
+Power distributions show up all over the place, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
+
+Here's a model of what that looks like:
 
 ![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/LongTail.png)
 
 Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
-Power distributions show up all over the place, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
-
-And here's what the votes for US President has looked like for the last 40 years:
+Compare this to the distribution of votes for US President for the last 40 years:
 
 [![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
 
-See how each of those individual elections resemble the head of a power law curve?
+See how each of those individual elections resemble the head of a power distribution?
 
 And that chart only includes a few political parties.
 
