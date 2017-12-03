@@ -19,17 +19,17 @@ Unfortunately, most Americans consistently report perceiving [widespread governm
 
 We have an intuitive sense that money buys influence.
 
-According to author Lee Drutman ([The Business of America is Lobbying](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780190215514.001.0001/acprof-9780190215514)), private interests not only sense that money buys influence, they act on it:
+According to researcher Lee Drutman ([The Business of America is Lobbying](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780190215514.001.0001/acprof-9780190215514)), private interests not only sense that money buys influence, they act on it:
 
 > “For every dollar spent on lobbying by labor unions and public-interest groups together, large corporations and their associations now spend $34.” ([source](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/))
 
-And if you think this is simply a partisan issue, you're wrong:
+And this is not simply a partisan issue:
 
 > OpenSecrets.org: [“Corporations Give Big to Both Side... Democrats and Republicans Share Big-Dollar Donors”](https://www.opensecrets.org/news/2010/11/democrats-and-republicans-sharing-b/)
 
 #### Is all that money having any effect?
 
-It would appear so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746):
+It appears so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746), an exhaustive study of over 1700 different policy issues:
 
 [![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
 
@@ -45,7 +45,7 @@ But on top of this, researchers identify [dire second-order effects](http://www.
 number of different areas. When government functions are impaired, it can adversely affect a
 number of important determinants of economic performance, including macro financial stability,
 investment, human capital accumulation, and total factor productivity. Moreover, when systemic
-corruption affects virtually all state functions, **distrust of government can become so pervasive that it
+corruption affects virtually all state functions, distrust of government can become so pervasive that **it
 can lead to violence, civil strife, and conflict, with devastating social and economic implications**.
 
 #### But a liquid democratic legislature could be orders-of-magnitude more resistant to corruption.
@@ -62,11 +62,11 @@ Now contrast that with a [liquid democratic system](/2016/09/21/what-is-liquid-d
 
 If the number of active legislators goes up by a few orders of magnitude, so does the total cost of capturing a majority of them.
 
-It's not that corruption goes away entirely, but it ought to become much more difficult.
+It's not that corruption goes away entirely, but it can become much more difficult.
 
-And remember, liquid democracy means real accountability for representatives. If they no longer seem to fight for your interests, liquid democracy lets you replace them immediately, no questions asked.
+And remember, liquid democracy means real accountability for representatives. If you no longer feel like they fight for your interests, liquid democracy lets you replace them immediately, no questions asked.
 
-#### Sunlight is said to be the best of disinfectants
+#### "Sunlight is said to be the best of disinfectants"
 
 One may still wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good point to consider.
 
@@ -90,10 +90,10 @@ Compared to our current situation, **liquid democracy can have a massive impact 
 
 #### Our practical strategy
 
-Unlike most other well-intentioned efforts to reduce political corruption, [we can start to adopt liquid democracy today, without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+Importantly, unlike most other well-intentioned efforts to reduce political corruption, we can start to adopt liquid democracy today, [without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
 
-You can help make this happen by [joining United](https://united.vote/join).
+Help make this happen by [joining United](https://united.vote/join).
 
-> We have a duty to look after each other. If we lose control of our government, then we lose our ability to dispense justice and human kindness. Our first priority today, then, is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
+> Our first priority today is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >
 > — Granny D
