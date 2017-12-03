@@ -73,9 +73,22 @@
           </div>
           {{/post}}
         </div>
+        <div class="PageNavigation">
+          {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+          {% endif %}
+          {% if page.next.url %}
+            {% if page.next.unlisted %}
+            {% else %}
+              <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+            {% endif %}
+          {% endif %}
+        </div>
       </article>
     </main>
+
     {% include comments.html %}
+
     {% include subscribe-cta.html %}
     <div class="bottom-closer">
       <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
