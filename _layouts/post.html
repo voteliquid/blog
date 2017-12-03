@@ -23,6 +23,9 @@
             on
             <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
             <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
+            <div class="post-reading">
+              <span class="post-reading-time"></span> read
+            </div>
           </div>
           <h1 class="post-title">{{ page.title }}</h1>
           {% if page.subtitle %}
@@ -30,9 +33,6 @@
           {% endif %}
         </div>
         <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
           <a name="topofpage"></a>
           {{content}}
         </section>

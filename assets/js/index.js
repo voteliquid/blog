@@ -13,7 +13,8 @@
         // Calculates Reading Time
         $('.post-content').readingTime({
             readingTimeTarget: '.post-reading-time',
-            wordCountTarget: '.post-word-count',
+            wordsPerMinute: 120,
+
         });
 
         // Creates Captions from Alt tags
