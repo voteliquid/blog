@@ -1,37 +1,3 @@
 <div class="subscribe-cta">
-  <label for="voter-email">Subscribe for updates</label>
-  <div id="subscribe-inputs">
-    <input type="text" placeholder="Email Address" id="voter-email" /><input type="submit" value="Subscribe" id="btn-subscribe" onclick="subscribeButton()" />
-  </div>
-  <p id="subscribe-confirmation" style="display: none"> &#10004; Subscribed</p>
-  <script>
-    function subscribeButton () {
-      return $.ajax({
-        url: 'https://api.united.vote/subscribe',
-        type: 'POST',
-        accept: 'application/json',
-        contentType: 'application/json',
-        data: JSON.stringify({
-          email: document.getElementById('voter-email').value
-        }),
-        processData: false,
-        success: function(response) {
-          console.log('subscribe response', response)
-          document.getElementById("subscribe-inputs").style.display = 'none'
-          document.getElementById("subscribe-confirmation").style.display = 'block'
-        },
-        error: function(error) {
-          console.log('subscribe error', error)
-          if (error.status === 409) {
-            // Already subscribed, show confirmation anyway
-            document.getElementById("subscribe-inputs").style.display = 'none'
-            document.getElementById("subscribe-confirmation").style.display = 'block'
-          }
-          if (error.status === 400) {
-            document.getElementById("voter-email").style.border = '1px solid red'
-          }
-        }
-      })
-    }
-  </script>
+  <a href="https://united.vote/join">Sign up for updates</a>
 </div>
