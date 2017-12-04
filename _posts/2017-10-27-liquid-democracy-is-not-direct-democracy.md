@@ -52,7 +52,9 @@ But that doesn't solve the problem completely, for a few reasons, one of which i
 
 **And now we get into a similar problem**: many voters don't really know the candidates more than headlines and 30 second TV ads.
 
-But of course some people *do* take the time to research the candidates and stay on top of the issues. And even if a voter isn't engaged, they probably have some idea who is. That's the key.
+But of course some people *do* take the time to research the candidates and stay on top of the issues.
+
+And even if a voter isn't engaged themselves, they probably have some idea who is. That's the key.
 
 If we ask millions of people every other year to pick between Candidate A and Candidate B, both of whom are probably strangers to them, how likely are we to get the best leaders?
 

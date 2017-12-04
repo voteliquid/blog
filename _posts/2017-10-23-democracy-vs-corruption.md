@@ -29,7 +29,7 @@ And this is not simply a partisan issue:
 
 #### Is all that money having any effect?
 
-It appears so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746), an exhaustive study of over 1700 different policy issues:
+It appears so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746), an exhaustive review across more than 1700 different policy issues:
 
 [![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
 
@@ -60,7 +60,7 @@ Consider this:
 
 Now contrast that with a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/), which could scale to include thousands of times as many active participants.
 
-If the number of active legislators goes up by a few orders of magnitude, so does the total cost of capturing a majority of them.
+If the number of active legislators goes up by orders of magnitude, so does the total cost of capturing a majority of them.
 
 It's not that corruption goes away entirely, but it can become much more difficult.
 
