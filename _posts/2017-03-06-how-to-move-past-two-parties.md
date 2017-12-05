@@ -12,7 +12,7 @@ excerpt: "Many Americans criticize our two-party system. But how specifically co
 
 [Many Americans criticize our two-party system](https://twitter.com/search?q=%22two%20party%22&src=typd). But how specifically could we address it? Is it written in law?
 
-Not exactly. One of the causes is media treatment, like inviting only the two major party candidates to debate. Another is our [social expectations](https://www.nolabels.org/).
+Not exactly. One of the causes is media treatment, like inviting only the two major party candidates to debate. Another is our social expectations.
 
 But there's more to it than that. There are major structural reasons for our partisanship. It's in the game theory.
 
@@ -22,7 +22,7 @@ This leads to extra high-stakes elections. You either win and get it all, or you
 
 And it's this systemic pressure that entrenches a two-party [duopoly](/assets/article_images/2017-03-06-how-to-move-past-two-parties/duopoly.gif).
 
-Individuals want a voice, but strategy says that picking a third party is "throwing away your vote". Social choice theory [shows how this entrenches a two-party landscape](http://zesty.ca/voting/sim/).
+Individuals want a voice, but strategy says that picking a third party is "throwing away your vote". Social choice theory [shows](http://zesty.ca/voting/sim/) how this entrenches a two-party landscape.
 
 But a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/) is different. Instead of winner-take-all, representation becomes proportional. 51% of support from the electorate means 51% of voting power in the legislature.
 
@@ -30,4 +30,4 @@ Citizens become free to choose representatives right for them. Representation is
 
 It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out.
 
-We [can do  this today](/2017/11/06/announcing-united-vote/), without needing to pass new laws. [Join us.](https://united.vote/join)
+We [can do  this today](/2017/11/06/announcing-united-vote/), without needing to first pass new laws. [Join us.](https://united.vote/join)
