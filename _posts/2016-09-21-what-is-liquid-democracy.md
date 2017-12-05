@@ -78,7 +78,7 @@ This is key. Networks can flourish at scale.
 
 With a liquid democratic legislature, you no longer need elections.
 
-Right now, we run expensive elections to take the pulse of the electorate. These are supposed to [keep politicians accountable](/2017/10/23/democracy-vs-corruption/).
+Right now, we run expensive elections to take the pulse of the electorate. These are supposed to keep politicians accountable.
 
 But in a liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 

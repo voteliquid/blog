@@ -8,13 +8,13 @@ unlisted: true
 
 Right now, Americans concerned about something happening in Washington are often instructed to "Call Your Representatives".
 
-Although it's well intended, there are a few problems with this tactic.
+Although it's well intended, there are some problems with this tactic.
 
 There's very little transparency about how many people reach out and where the district as a whole stands on the issues.
 
 The total numbers aren't officially published. Sometimes a rep's office chooses to share them, but this isn't required.
 
-And they have little incentive to make these clear, especially if they're *not listening* to their constituents, since it would only make them look bad.
+And they have little incentive to, especially if they're *not listening* to their constituents, since it would only make them look bad.
 
 #### We can bring this transparency
 
@@ -58,7 +58,22 @@ If United is dominated by one group, it would be too easy for people to dismiss 
 
 But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) is too big an idea to let that deter us.
 
-<a href="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" target="blank"><img src="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" style="float: right; margin: -10px 0 0 23px; width: 180px;" /></a>
+<a href="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" target="blank"><img src="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" style="float: right; margin: -10px 0 0 23px; width: 180px;" class="legislator-grade-scale" /></a>
+<style>
+  @media (max-width: 500px) {
+    .legislator-grade-scale {
+      width: 150px !important;
+      margin-top: -1px !important;
+    }
+  }
+  @media (max-width: 370px) {
+    .legislator-grade-scale {
+      width: 105px !important;
+      margin-top: 5px !important;
+    }
+  }
+</style>
+
 
 #### Grading on a curve
 
@@ -66,7 +81,7 @@ We want to encourage our legislators to listen to their constituents.
 
 So we'll take their single Representation Score, and grade the legislators *against each other*, on a curve.
 
-Those who most listen to their constituents will get an **A+**; those who most ignore their constituents will get an **F**.
+Those who most listen to their constituents will get an **A+**. Those who most ignore their constituents will get an **F**.
 
 See the chart to the right for the specific breakdowns by percentile.
 
@@ -82,7 +97,7 @@ Too often the message from politicians sounds like:
 
 But this *same story* is [being told](https://www.quora.com/What-is-the-difference-between-a-liberal-and-a-conservative/answer/Samantha-Bean-7?srid=tOBx) on both sides. Good vs evil; us vs them.
 
-Even if a politician sincerely has the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans. It’s a vicious cycle we’re stuck in.
+Even if a politician sincerely starts out with the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans. It’s a vicious cycle we’re stuck in.
 
 But now, the story can change.
 
@@ -102,6 +117,6 @@ Even if you don't have the time, United lets you select personal representatives
 
 And now, you can see how well your elected legislators are truly representing their constituents.
 
-As we grow in numbers, we'll be able to run and elect a new type of legislator, [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/), pledged to vote on *every* bill according their district's liquid democracy.
+As we grow in numbers, we'll be able to run and elect a new type of legislator, [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/), pledged to vote on *every* bill according their districts' liquid democracy.
 
-[Sign up](https://united.vote/join) today, if you haven't already.
+So join us. [Sign up](https://united.vote/join) today, if you haven't already.
