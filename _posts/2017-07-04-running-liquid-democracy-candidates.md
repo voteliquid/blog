@@ -29,7 +29,7 @@ Imagine a city council with 15 members. A liquid democracy candidate could campa
 
 They pledge that if they get elected, they'll vote on each bill according to their district’s liquid democracy.
 
-This could be as easy as pressing a button when their name is called to vote on a bill. Their app could perfectly announce their district’s decision, every time:
+This could be as easy as pressing a button when their name is called to vote. Their app could perfectly announce their district’s decision, every time:
 
 > Speaker: "Representative Jones, how do you vote?"
 >
