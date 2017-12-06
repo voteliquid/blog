@@ -2,7 +2,7 @@
 layout: post
 title: "Give Your Rep an F: Introducing United Legislator Grades"
 author: unitedvote
-excerpt: 'Right now, Americans concerned about something happening in Washington are often instructed to "Call Your Representatives". But there are a few problems with this tactic.'
+excerpt: 'Right now, Americans concerned about something happening in Washington are often instructed to Call Your Representatives. But there are a few problems with this tactic.'
 unlisted: true
 ---
 
