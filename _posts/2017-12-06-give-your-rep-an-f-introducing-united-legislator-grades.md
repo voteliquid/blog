@@ -119,4 +119,6 @@ And now, you can see how well your elected legislators are truly representing th
 
 As we grow in numbers, we'll be able to run and elect a new type of legislator, [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/), pledged to vote on *every* bill according their districts' liquid democracy.
 
+This is all part of our plan to make liquid democracy possible, in a grassroots way, without waiting on Congress to pass a new law or Constitutional amendment.
+
 So join us. [Sign up](https://united.vote/join) today, if you haven't already.
