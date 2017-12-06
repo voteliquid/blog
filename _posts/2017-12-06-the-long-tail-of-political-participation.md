@@ -24,19 +24,21 @@ See how each of those individual elections resemble the head of a power distribu
 
 #### Our current electoral process cuts off the Long Tail.
 
-Power law distributions found in nature will often have more than half of their total distribution in the Long Tail.
+Power distributions found in nature will often have more than half of their total distribution in the Long Tail.
 
-But the chart of presidential votes shows how our elections creates a **duopoly**, with two outwardly competitive actors having near complete control of the market. By awarding 100% of the political power for winning only 51% of the votes, the two frontrunners gain a massive handicap.
+But the chart of presidential votes shows how our elections create a **duopoly**, with two outwardly competitive actors having near complete control of the market. By awarding 100% of the political power for winning only 51% of the votes, two frontrunners gain a massive handicap.
 
 In a country of over 300 million, this leaves most of us out of the conversation.
 
-And we can all too easily observe that not voting — "None of these options are worth my time" — is almost always the most popular choice in our elections. [Sometimes drastically so](https://www.citylab.com/equity/2016/11/in-the-us-almost-no-one-votes-in-local-elections/505766/).
+And we can all too easily observe that not voting — "None of these options are worth my time" — is almost always the most popular choice in our elections.
+
+[Sometimes drastically so](https://www.citylab.com/equity/2016/11/in-the-us-almost-no-one-votes-in-local-elections/505766/).
 
 #### But it doesn't have to be this way.
 
 Amazon unlocked the Long Tail of consumer goods, by creating an online store with infinite shelf space. They never have to say "no room" for any product, even if it's individually not very popular.
 
-One employee famously said, "We sold more books today that didn't sell at all yesterday than we sold today of all the books that did sell yesterday." In other words, they sold more combined niche books than combined popular books. This gives them a huge advantage over brick and mortar alternatives.
+One employee famously said, "We sold more books today that didn't sell at all yesterday than we sold today of all the books that did sell yesterday." In other words, they sold more combined niche books than combined popular books. This gives them a huge advantage over brick and mortar stores.
 
 YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a stage and a way to reach their audience.
 
