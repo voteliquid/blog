@@ -122,3 +122,7 @@ As we grow in numbers, we'll be able to run and elect a new type of legislator, 
 This is all part of our plan to make liquid democracy possible, in a grassroots way, without waiting on Congress to pass a new law or Constitutional amendment.
 
 So join us. [Sign up](https://united.vote/join) today, if you haven't already.
+
+> Our trouble is that we do not demand enough of the people who represent us. We are responsible for their activities... we must spur them to more imagination and enterprise in making a push into the unknown; we must make clear that we intend to have responsible and courageous leadership.,
+>
+> — First Lady Eleanor Roosevelt, 1963
