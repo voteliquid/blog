@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Net Neutrality Is a Freedom of Speech Issue. Period."
+title: "Net Neutrality Is a Freedom of Speech Issue"
 author: gregslepak
 excerpt: "Net Neutrality is not about cost, in exactly the same way murder and freedom are not about cost. It's about you having equal access to speech, and is vital to services like United."
 ---
