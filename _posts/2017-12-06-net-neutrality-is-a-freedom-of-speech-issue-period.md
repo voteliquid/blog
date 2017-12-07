@@ -3,10 +3,9 @@ layout: post
 title: "Net Neutrality Is a Freedom of Speech Issue. Period."
 author: gregslepak
 excerpt: "Net Neutrality is not about cost, in exactly the same way murder and freedom are not about cost. It's about you having equal access to speech, and is vital to services like United."
-unlisted: true
 ---
 
-Net Neutrality is vital to access online services that challenge existing power structures, including [United](/2017/11/06/announcing-united-vote/).
+Net Neutrality is vital to access online services that challenge existing power structures, including [United Vote](/2017/11/06/announcing-united-vote/).
 
 But some critics misunderstand Net Neutrality, arguing that repealing these protections could lead to greater market competition.
 

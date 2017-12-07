@@ -75,10 +75,26 @@
         </div>
         <div class="PageNavigation">
           {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+            {% if page.previous.unlisted %}
+              {% if page.previous.previous.url %}
+                {% if page.previous.previous.unlisted %}
+                {% else %}
+                  <a class="prev" href="{{page.previous.previous.url}}">&laquo; {{page.previous.previous.title}}</a>
+                {% endif %}
+              {% endif %}
+            {% else %}
+              <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+            {% endif %}
           {% endif %}
+
           {% if page.next.url %}
             {% if page.next.unlisted %}
+              {% if page.next.next.url %}
+                {% if page.next.next.unlisted %}
+                {% else %}
+                  <a class="next" href="{{page.next.next.url}}">{{page.next.next.title}} &raquo;</a>
+                {% endif %}
+              {% endif %}
             {% else %}
               <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
             {% endif %}
