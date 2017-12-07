@@ -9,7 +9,7 @@ Net Neutrality is vital to access online services that challenge existing power 
 
 But some critics misunderstand Net Neutrality, arguing that repealing these protections could lead to greater market competition.
 
-One example is Jeffrey A. Tucker, from the Foundation for Economic Education, who recently wrote a popular [article](https://fee.org/articles/goodbye-net-neutrality-hello-competition/) against Net Neutrality.
+One example is Jeffrey A. Tucker, from the Foundation for Economic Education, who recently wrote an [article](https://fee.org/articles/goodbye-net-neutrality-hello-competition/) against Net Neutrality.
 
 Here's an excerpt of his argument:
 
