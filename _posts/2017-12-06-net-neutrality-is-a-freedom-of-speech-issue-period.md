@@ -47,6 +47,4 @@ If you are against Net Neutrality, you are against Freedom of Speech. Period. En
 
 ----------
 
-Too many people misunderstand this issue.
-
 Fight back against disinfo by sharing this post with the hashtag **#NetNeutralityIsFreedomOfSpeech**.
