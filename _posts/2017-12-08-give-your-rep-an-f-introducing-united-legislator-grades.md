@@ -24,11 +24,11 @@ Since we verify our members' identities and locations, we can now generate a **s
 
 Here's an example:
 
-![](/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score.png)
+![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score.png)
 
 In this case, the elected rep voted ***against*** [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 87% of their verified constituents on United.
 
-![](/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/score-formula.png)
+![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/score-formula.png)
 
 This can bring much needed transparency and accountability to our legislative process.
 
@@ -58,7 +58,7 @@ But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) is too big an idea
 
 So we're going one step farther.
 
-<a href="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" target="blank"><img src="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" style="float: right; margin: -10px 0 0 23px; width: 180px;" class="legislator-grade-scale" /></a>
+<a href="/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" target="blank"><img src="/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" style="float: right; margin: -10px 0 0 23px; width: 180px;" class="legislator-grade-scale" /></a>
 <style>
   @media (max-width: 500px) {
     .legislator-grade-scale {
