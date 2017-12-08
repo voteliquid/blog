@@ -20,7 +20,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 [United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress.
 
-Since we verify our members' identities and locations, we can now show a **score** of how well a legislator is listening or ignoring their own constituent, for each legislative item.
+Since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening or ignoring their own constituents, for each legislative item.
 
 Here's an example:
 
@@ -50,13 +50,13 @@ Bills that get more votes from constituents are automatically weighted greater t
 
 There's still a big issue: these scores only represent the people already signed up and verified on United.
 
-Sadly, accusations of bias infest our national political conversation.
-
-We still have a long way to go before everyone's signed up for United. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
+We still have a long way to go before everyone's joined United. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
 
 If United is dominated by one group, it would be too easy for people to dismiss these scores.
 
 But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) is too big an idea to let that deter us.
+
+So we're going one step farther.
 
 <a href="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" target="blank"><img src="/assets/article_images/2017-12-06-give-your-rep-an-f-introducing-united-legislator-grades/legislator-grades-scale.png" style="float: right; margin: -10px 0 0 23px; width: 180px;" class="legislator-grade-scale" /></a>
 <style>
@@ -73,7 +73,6 @@ But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) is too big an idea
     }
   }
 </style>
-
 
 #### Grading on a curve
 
@@ -101,23 +100,23 @@ Even if a politician sincerely starts out with the best of intentions, they're i
 
 But now, the story can change.
 
-Grading our elected legislators turns the table around.
+Grading our elected legislators is the first step in turning the table around.
 
-And by grading them on a curve, elected legislators can become much more motivated to one-up each other.
+And by grading them on a curve, elected legislators can become much more motivated to one-up each other, even in their own party.
 
-They have to work for their electorate as whole, instead of just their party.
+They ought to do their best to represent their constituents as a whole, the way we actually want to be represented.
 
-They ought to do their best to represent their constituents, the way we actually want to be represented.
+United can provide an easy metric for voters to hold representatives accountable. The worst offenders risk an election challenge.
 
 #### Starting today, join us.
 
 If you want to be actively involved, United lets you vote directly on legislation, just like you're a Member of Congress.
 
-Even if you don't have the time, United lets you select personal representatives to vote on your behalf. Empower the people you trust to help represent your voice.
+Since few of us would vote on every bill even if we had the time, United also lets you select personal representatives to vote on your behalf, for legislation you don't vote on directly. Empower the people you trust to help represent your voice.
 
-And now, you can see how well your elected legislators are truly representing their constituents.
+Every vote cast and personal representative chosen gets us one step closer to a truly representative Congress.
 
-As we grow in numbers, we'll be able to run and elect a new type of legislator, [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/), pledged to vote on *every* bill according their districts' liquid democracy.
+As we grow in numbers, we'll be able to run and elect a new type of legislator — [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) — pledged to vote on *every* bill according their districts' liquid democracy.
 
 This is all part of our plan to make liquid democracy possible, in a grassroots way, without waiting on Congress to pass a new law or Constitutional amendment.
 
