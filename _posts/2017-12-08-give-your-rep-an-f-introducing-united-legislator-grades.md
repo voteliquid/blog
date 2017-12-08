@@ -20,7 +20,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 [United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress.
 
-Since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening or ignoring their own constituents, for each legislative item.
+Since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
 
 Here's an example:
 
@@ -78,7 +78,7 @@ So we're going one step farther.
 
 We want to encourage our legislators to listen to their constituents.
 
-So we'll take their single Representation Score, and grade the legislators *against each other*, on a curve.
+So we'll take their single Representation Score, and grade legislators *against each other*, on a curve.
 
 Those who most listen to their constituents will get an **A+**. Those who most ignore their constituents will get an **F**.
 
