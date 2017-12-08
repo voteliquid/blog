@@ -100,9 +100,9 @@ Even if a politician sincerely starts out with the best of intentions, they're i
 
 But now, the story can change.
 
-Grading our elected legislators is the first step in turning the table around.
+Grading our elected legislators is the first step in turning the tables around.
 
-And by grading them on a curve, elected legislators can become much more motivated to one-up each other, even in their own party.
+And by grading them on a curve, elected legislators can become much more motivated to one-up each other, even within their own party.
 
 They ought to do their best to represent their constituents as a whole, the way we actually want to be represented.
 
