@@ -30,7 +30,7 @@ Here's an example:
 
 ![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score.png)
 
-In this case, the elected rep voted ***against*** [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 87% of their verified constituents on United.
+In this case, the elected rep voted ***nay*** on [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 87% of their verified constituents on United.
 
 ![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/score-formula.png)
 
@@ -114,7 +114,7 @@ They ought to do their best to represent their constituents as a whole, the way 
 
 United lets you vote directly on legislation, just like you're a Member of Congress.
 
-Since few of us can vote on every bill, United also lets you select personal delegates for you when you don't vote directly. Empower the people you trust to help represent your voice.
+Since few of us can vote on every bill, United also lets you select personal delegates for when you don't vote directly. Empower the people you trust to help represent your voice.
 
 Every vote cast and delegate chosen gets us one step closer to a truly representative Congress.
 
