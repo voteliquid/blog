@@ -3,7 +3,6 @@ layout: post
 title: "Introducing United Vote: Help Build a Democracy We Can Trust"
 author: unitedvote
 excerpt: "You deserve more of a voice in Congress. Together, we can build a better way."
-pinned: true
 ---
 
 You deserve more of a voice in Congress.
