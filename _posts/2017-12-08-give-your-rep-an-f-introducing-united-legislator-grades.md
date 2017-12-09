@@ -110,15 +110,13 @@ And by grading them on a curve, elected legislators can become much more motivat
 
 They ought to do their best to represent their constituents as a whole, the way we actually want to be represented.
 
-United can provide an easy metric for voters to hold representatives accountable. The worst offenders risk an election challenge.
+#### Join us.
 
-#### Starting today, join us.
+United lets you vote directly on legislation, just like you're a Member of Congress.
 
-If you want to be actively involved, United lets you vote directly on legislation, just like you're a Member of Congress.
+Since few of us can vote on every bill, United also lets you select personal delegates for you when you don't vote directly. Empower the people you trust to help represent your voice.
 
-Since few of us would vote on every bill even if we had the time, United also lets you select personal representatives to vote on your behalf, for legislation you don't vote on directly. Empower the people you trust to help represent your voice.
-
-Every vote cast and personal representative chosen gets us one step closer to a truly representative Congress.
+Every vote cast and delegate chosen gets us one step closer to a truly representative Congress.
 
 As we grow in numbers, we'll be able to run and elect a new type of legislator — [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) — pledged to vote on *every* bill according their districts' liquid democracy.
 
