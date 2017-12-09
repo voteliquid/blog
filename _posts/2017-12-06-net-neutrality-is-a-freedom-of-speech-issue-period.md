@@ -33,7 +33,7 @@ It's not about the "costs of shipping furniture/packets" any more than freedom o
 
 "Cost" is a red herring.
 
-It's about you having equal access to speech.
+It's about you having [equal access](/assets/article_images/2017-12-06-net-neutrality-is-a-freedom-of-speech-issue-period/isps_history_of_censorship.jpg) to speech.
 
 It's about you being able to purchase the books and material you want.
 
