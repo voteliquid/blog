@@ -18,9 +18,9 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 #### We can bring this transparency
 
-[United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress.
+[United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress. We can make it easier to contact our representatives.
 
-Since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
+And since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
 
 Here's an example:
 
