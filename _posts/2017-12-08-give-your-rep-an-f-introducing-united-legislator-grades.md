@@ -10,6 +10,8 @@ Right now, Americans concerned about something happening in Washington are often
 
 Although it's well intended, there are some problems with this tactic.
 
+Often, we're sent to voicemail, and it's unclear if the message ever gets through. Sometimes we might get a generic form letter months later.
+
 There's very little transparency about how many people reach out and where the district as a whole stands on the issues.
 
 The total numbers aren't officially published. Sometimes a rep's office chooses to share them, but this isn't required.
@@ -18,7 +20,9 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 #### We can bring this transparency
 
-[United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress. We can make it easier to contact our representatives.
+[United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress.
+
+We can make it easier to contact our representatives.
 
 And since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
 
