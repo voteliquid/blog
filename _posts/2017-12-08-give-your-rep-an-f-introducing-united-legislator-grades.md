@@ -96,11 +96,13 @@ We'll publish and share these grades weekly, monthly, and per legislative sessio
 
 Too often the message from politicians sounds like:
 
-> "The other side are crooks and liars. Vote us into office, or else they'll do terrible things to you. Never criticize us, or else you’re helping the enemy!"
+> "The other side are all crooks and liars. Vote us into office, or else they'll do apocalyptic things to you."
 
 But this *same story* is [being told](https://www.quora.com/What-is-the-difference-between-a-liberal-and-a-conservative/answer/Samantha-Bean-7?srid=tOBx) on both sides. Good vs evil; us vs them.
 
-Even if a politician sincerely starts out with the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans. It’s a vicious cycle we’re stuck in.
+Even if a politician sincerely starts out with the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
+
+Demonizing the other side is their #1 motivating tactic. It’s a vicious cycle we’re stuck in.
 
 But now, the story can change.
 
@@ -117,10 +119,6 @@ United lets you vote directly on legislation, just like you're a Member of Congr
 Since few of us can vote on every bill, United also lets you select personal delegates for when you don't vote directly. Empower the people you trust to help represent your voice.
 
 Every vote cast and delegate chosen gets us one step closer to a truly representative Congress.
-
-As we grow in numbers, we'll be able to run and elect a new type of legislator — [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) — pledged to vote on *every* bill according their districts' liquid democracy.
-
-This is all part of our plan to make liquid democracy possible, in a grassroots way, without waiting on Congress to pass a new law or Constitutional amendment.
 
 So join us. [Sign up](https://united.vote/join) today, if you haven't already.
 
