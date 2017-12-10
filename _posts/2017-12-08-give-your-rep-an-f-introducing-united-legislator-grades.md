@@ -6,6 +6,10 @@ excerpt: 'Right now, Americans concerned about something happening in Washington
 pinned: true
 ---
 
+> Our trouble is that we do not demand enough of the people who represent us. We are responsible for their activities... we must spur them to more imagination and enterprise in making a push into the unknown; we must make clear that we intend to have responsible and courageous leadership.,
+>
+> — First Lady Eleanor Roosevelt, 1963
+
 Right now, Americans concerned about something happening in Washington are often instructed to "Call Your Representatives".
 
 Although it's well intended, there are some problems with this tactic.
@@ -121,7 +125,3 @@ Since few of us can vote on every bill, United also lets you select personal del
 Every vote cast and delegate chosen gets us one step closer to a truly representative Congress.
 
 So join us. [Sign up](https://united.vote/join) today, if you haven't already.
-
-> Our trouble is that we do not demand enough of the people who represent us. We are responsible for their activities... we must spur them to more imagination and enterprise in making a push into the unknown; we must make clear that we intend to have responsible and courageous leadership.,
->
-> — First Lady Eleanor Roosevelt, 1963
