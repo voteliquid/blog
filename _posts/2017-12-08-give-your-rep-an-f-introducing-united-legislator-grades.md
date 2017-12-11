@@ -100,7 +100,7 @@ We'll publish and share these grades weekly, monthly, and per legislative sessio
 
 Too often the message from politicians sounds like:
 
-> "The other side are all crooks and liars. Vote us into office, or else they'll do apocalyptic things to you."
+> "The other side are all crooks and liars. Vote us into office, or the consequences will be apocalyptic."
 
 But this *same story* is [being told](https://www.quora.com/What-is-the-difference-between-a-liberal-and-a-conservative/answer/Samantha-Bean-7?srid=tOBx) on both sides. Good vs evil; us vs them.
 
