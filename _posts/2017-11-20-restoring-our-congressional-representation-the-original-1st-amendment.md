@@ -29,9 +29,13 @@ And it wasn't just the Anti-Federalists who worried about this.
 
 In [Federalist No. 55](http://www.constitution.org/fed/federa55.htm), James Madison acknowledged that having too few legislators would make it difficult to have a close enough relationship with the people they were meant to represent.
 
-George Washington himself was said to have weighed in on this question. In fact, this was said to be the *only* issue he spoke up about during the Constitutional Convention.
+George Washington himself was said to have weighed in on this question. 
+
+In fact, this was said to be the ***only*** issue he spoke up about during the Constitutional Convention.
 
 When it was proposed that each legislators ought to represent no more than 40,000 constituents, the first President suggested lowering it to 30,000.
+
+Today, each congressional district has an average of 711,000 constituents.
 
 #### The Amendment's History
 
@@ -64,8 +68,6 @@ LaVergne took his claim to court, but his case was dismissed. He appealed all th
 
 #### What if it had passed?
 
-Today, each congressional district has an average of 711,000 constituents.
-
 If we were to follow the limit of at least 1 rep per 50,000 constituents, we'd now need over 6,000 Members of Congress for our population of 300,000,000.
 
 It's rather difficult to imagine squeezing all of them into one room together in the Capitol.
@@ -76,12 +78,12 @@ Nonetheless, it's important to realize how far we've strayed from the founders' 
 
 It's unlikely the Amendment will ever be passed.
 
-It's far from clear that would even be a good thing, in its current form, or if it would only create unmanageable chaos.
+It's not clear that would even be a good thing, in its current form, or if it would only create unmanageable chaos.
 
 But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can help us restore the Founders' original democratic vision.
 
 It can allow us to have a much more representative government, with much stronger accountability, and scaled for our modern age.
 
-And we can do it in a grassroots way, one step at a time, without needing to pass any new laws.
+And best of all, we can do it in a grassroots way, one step at a time, without needing to pass any new laws.
 
 Thanks to [United Vote](/2017/11/06/announcing-united-vote/), we can start to make a difference today. [Join us](https://united.vote/join).
