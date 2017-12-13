@@ -94,7 +94,9 @@ See the chart to the right for the specific breakdowns by percentile.
 
 And we can do this for each party independently. Republican scores separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
 
-We'll publish and share these grades weekly, monthly, and per legislative session. You can sign up for automatic updates.
+We'll publish these grades weekly, monthly, and per legislative session, creating a permanent accountability record.
+
+You can sign up for automatic updates.
 
 #### Divide and Conquer
 
@@ -112,7 +114,7 @@ But now, the story can change.
 
 Grading our elected legislators is the first step in turning the tables around.
 
-And by grading them on a curve, elected legislators can become more motivated to one-up each other, even within their own party.
+And by grading on a curve, elected legislators can become more motivated to one-up each other, even within their own party.
 
 They ought to do their best to represent their constituents as a whole, the way we actually want to be represented.
 
