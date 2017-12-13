@@ -24,7 +24,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 #### We can bring this transparency
 
-[United Vote](/2017/11/06/announcing-united-vote/) lets each American vote on every item in Congress.
+[United Vote](https://www.united.vote) lets each American vote on every item in Congress.
 
 We can make it easier to contact our representatives.
 
@@ -44,7 +44,7 @@ This can bring much needed transparency and accountability to our legislative pr
 
 We want to make it easy for everyone to know how well their elected legislators are representing their constituents.
 
-Per bill scores is a good start, but it may not be quick enough for the typical busy American.
+Per bill scores is a good start, but we want something even easier for the typical busy American.
 
 So we'll combine all the bills together into a single Representation Score for each legislator.
 
@@ -58,7 +58,7 @@ Bills that get more votes from constituents are automatically weighted greater t
 
 There's still a big issue: these scores only represent the people already signed up and verified on United.
 
-We still have a long way to go before everyone's joined United. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
+We still have a long way to go before everyone's joined us. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
 
 If United is dominated by one group, it would be too easy for people to dismiss these scores.
 
@@ -94,7 +94,7 @@ See the chart to the right for the specific breakdowns by percentile.
 
 And we can do this for each party independently. Republican scores separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
 
-We'll publish and share these grades weekly, monthly, and per legislative session.
+We'll publish and share these grades weekly, monthly, and per legislative session. You can sign up for automatic updates.
 
 #### Divide and Conquer
 
@@ -106,13 +106,13 @@ But this *same story* is [being told](https://www.quora.com/What-is-the-differen
 
 Even if a politician sincerely starts out with the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
 
-Demonizing the other side is their #1 motivating tactic. It’s a vicious cycle we’re stuck in.
+Demonizing the other side is the #1 motivating tactic. It’s a vicious cycle we’re stuck in.
 
 But now, the story can change.
 
 Grading our elected legislators is the first step in turning the tables around.
 
-And by grading them on a curve, elected legislators can become much more motivated to one-up each other, even within their own party.
+And by grading them on a curve, elected legislators can become more motivated to one-up each other, even within their own party.
 
 They ought to do their best to represent their constituents as a whole, the way we actually want to be represented.
 
