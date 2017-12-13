@@ -94,9 +94,7 @@ See the chart to the right for the specific breakdowns by percentile.
 
 And we can do this for each party independently. Republican scores separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
 
-We'll publish these grades weekly, monthly, and per legislative session, creating a permanent accountability record.
-
-You can sign up for automatic updates.
+We'll publish these grades weekly, monthly, and per legislative session, creating a permanent accountability record. You can sign up for automatic updates.
 
 #### Divide and Conquer
 
@@ -106,7 +104,7 @@ Too often the message from politicians sounds like:
 
 But this *same story* is [being told](https://www.quora.com/What-is-the-difference-between-a-liberal-and-a-conservative/answer/Samantha-Bean-7?srid=tOBx) on both sides. Good vs evil; us vs them.
 
-Even if a politician sincerely starts out with the best of intentions, they're incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
+Even if they sincerely start out with the best of intentions, our politicians are incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
 
 Demonizing the other side is the #1 motivating tactic. It’s a vicious cycle we’re stuck in.
 
