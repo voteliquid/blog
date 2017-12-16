@@ -42,7 +42,9 @@ Instead of expecting everyone to know the ins-and-outs of policy, we give the wo
 
 #### Liquid democracy can solve all three problems.
 
-<img src="/assets/icon-reduced-300.png" width="120" />
+<iframe src="https://www.youtube.com/embed/Ya1dNNzkQTE" frameborder="0" allowfullscreen style="margin: 40px auto" height="169px"></iframe>
+
+<br />
 
 ### How does it work?
 
