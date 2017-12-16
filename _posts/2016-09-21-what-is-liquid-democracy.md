@@ -24,9 +24,9 @@ Originally, we had **direct democracy**, when everyone could vote on all legisla
 
 Its history goes back to ancient Athens, and inspired America's founding Declaration that "All men are created equal".
 
-But direct democracy is not always practical: how does everyone stay educated and up-to-date on everything?
+But direct democracy is not practical at scale: how does everyone stay educated and up-to-date on everything?
 
-Two hundred years ago, it wasn't possible. Even today, we live busy lives, and there's just too much to keep up with.
+There's just too much to keep up with.
 
 And so we elect dedicated political **representatives**.
 
@@ -74,7 +74,7 @@ In a liquid democracy, voting power passes transitively, from one person to the 
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
-Your reps don't need to vote on everything, because they have their own trusted representatives. Each step makes the network smarter, until it reaches someone who feels informed enough about the issue to vote.
+Your reps don't need to vote on everything, because they have their own trusted representatives. Each step can make the network smarter, until it reaches someone who feels informed enough about the issue to vote.
 
 This is key. Networks can flourish at scale.
 
@@ -86,17 +86,17 @@ Right now, we run expensive elections to take the pulse of the electorate. These
 
 But in a liquid democracy, you don't have to wait. You can remove a personal representative at any time, for immediate accountability.
 
-If it's your voice, why must you give it up for years?
+It's your voice. You stay in control. You don't need to give it up for years.
 
 #### Proportional Representation
 
-Currently, a candidate only has to get 51% of the vote, but they go to the legislature to represent 100% of the electorate.
+Currently, a candidate only has to get 51% of the vote, but they go to the legislature to represent 100% of the district.
 
 These winner-take-all elections [entrench a polarizing two-party landscape](/2017/03/06/how-to-move-past-two-parties/).
 
 But in a liquid democracy, when 51% of voters choose the same representative, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
 
-Liquid democracy can include many more perspectives than an electoral process allows.
+Liquid democracy can include many more perspectives than our electoral process allows.
 
 ---------
 
@@ -104,6 +104,6 @@ Liquid democracy can include many more perspectives than an electoral process al
 
 By adopting liquid democracy, we can empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
 
-We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like constitutional amendments.
+We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/), like constitutional amendments.
 
-But we need you. ***Join us.*** Sign up to show your support and find out more: [www.united.vote](https://united.vote).
+But we do need you. ***Join us.*** Sign up to show your support and find out more: [www.united.vote](https://united.vote).

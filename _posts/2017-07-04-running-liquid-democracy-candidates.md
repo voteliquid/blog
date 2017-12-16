@@ -2,32 +2,32 @@
 layout: post
 title: "Liquid Democracy Candidates: How to Upgrade Our Legislature, One Seat at a Time"
 author: davidernst
-excerpt: "We’re at a critical moment in politics, when an unprecedented numbers of people express frustration at the status quo. There has been demand from left, right, and center for new ways of doing things."
+excerpt: "We’re at a critical moment in politics, when an unprecedented number of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things."
 ---
 
 > Let us not be afraid to help each other — let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and Senators and Congressmen and Government officials but the voters of this country.
 >
 > — President Franklin D. Roosevelt, 8 July 1938
 
-We’re at a critical moment in politics, when an unprecedented numbers of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
+We’re at a critical moment in politics, when an unprecedented number of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
 
-Liquid democracy is a promising alternative. Represent yourself, or pick anyone you trust to vote for you in government. ([Read more](https://intro.liquid.vote).)
+Liquid democracy is a promising alternative. The option to vote directly on policy, plus supercharged representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
 
-And yet one of the most common refrains is that it would be too hard to make such a change, because it must require a constitutional amendment.
+Many people, when first learning about liquid democracy, often say something like: "This sounds great. But it must be too hard to make such a change. Passing a constitutional amendment seems impossible."
 
-Not true.
+Right.
 
-We have a new option open to us.
+But we have a new option open to us.
 
 ### We can use the old system to adopt a new one.
 
 We can run new candidates for office. “Liquid Democracy Candidates”.
 
-These are people who believe in this new way, believe in the mission, and want to give their fellow Americans a true way to represent themselves.
+These are people who believe in this new way, believe in the mission, and want to give their fellow Americans a better way to represent themselves.
 
-Imagine a city council with 15 members. A liquid democracy candidate could campaign for one of the seats. The other 14 remain the same as before.
+Imagine a city council with 15 members. A liquid democracy candidate campaigns for just one of the seats. The other 14 remain the same as before.
 
-They pledge that if they get elected, they'll vote on each bill according to their district’s liquid democracy.
+They pledge that if elected, they'll vote on each bill according to their district’s liquid democracy.
 
 This could be as easy as pressing a button when their name is called to vote. Their app could perfectly announce their district’s decision, every time:
 
@@ -35,10 +35,10 @@ This could be as easy as pressing a button when their name is called to vote. Th
 >
 > (Holding their phone up to the microphone): "The people of district 5 vote NAY!"
 
-In this way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters in that district.
+In this way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters.
 
-**This gives us a grassroots way to try out liquid democracy in the real world, without any legal changes, and much less risk than a top-down amendment.**
+**This gives us a grassroots way to try liquid democracy in our real governments, without any legal changes, with much lower risk than a top-down amendment.**
 
 --------
 
-If you’re interested in bringing liquid democracy to your district, email [candidates@united.vote](mailto:candidates@united.vote).
+If you might be interested in bringing liquid democracy to your district, email [candidates@united.vote](mailto:candidates@united.vote). We'd love to hear from you.
