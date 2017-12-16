@@ -11,7 +11,7 @@ excerpt: "We’re at a critical moment in politics, when an unprecedented number
 
 We’re at a critical moment in politics, when an unprecedented number of people express frustration with the status quo. There has been demand from left, right, and center for new ways of doing things.
 
-Liquid democracy is a promising alternative. The option to vote directly on policy, plus supercharged representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
+Liquid democracy is a promising alternative: the option to vote directly on policy, plus supercharged representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
 
 Many people, when first learning about liquid democracy, often say something like: "This sounds great. But it must be too hard to make such a change. Passing a constitutional amendment seems impossible."
 
