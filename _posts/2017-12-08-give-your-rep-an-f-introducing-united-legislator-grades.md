@@ -28,7 +28,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 We can make it easier to contact our representatives.
 
-And since we verify our members' identities and locations, we can now generate a **score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
+And since we verify our members' identities and locations, we can now generate a **Score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
 
 Here's an example:
 
@@ -106,7 +106,7 @@ But this *same story* is [being told](https://www.quora.com/What-is-the-differen
 
 Even if they sincerely start out with the best of intentions, our politicians are incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
 
-Demonizing the other side is the #1 motivating tactic. It’s a vicious cycle we’re stuck in.
+Demonizing the other side is the #1 motivating tactic. It’s a vicious [cycle](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png) we’re stuck in.
 
 But now, the story can change.
 

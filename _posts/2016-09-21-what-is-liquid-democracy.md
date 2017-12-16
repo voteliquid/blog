@@ -10,13 +10,15 @@ excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision mak
 
 <br />
 
-We believe our democracy could serve us exponentially better.
+Our democracy could serve us exponentially better.
 
-Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into a more authentic and practical combination.
+Liquid democracy is a 21st-century upgrade for democratic decision making.
+
+It blends the best of direct and representative systems into a more authentic and practical combination.
 
 ---------
 
-On one extreme, we have direct democracy, when everyone can vote on legislation. It’s Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s).
+Originally, we had **direct democracy**, when everyone could vote on all legislation. Lincoln's [“government by the people”](https://youtu.be/BvA0J_2ZpIQ?t=2m13s).
 
 ![](/assets/article_images/2016-09-21-what-is-liquid-democracy/crowd-raises-hands-photo.png)
 
@@ -26,11 +28,13 @@ But direct democracy is not always practical: how does everyone stay educated an
 
 Two hundred years ago, it wasn't possible. Even today, we live busy lives, and there's just too much to keep up with.
 
-And so our current solution is to elect dedicated political representatives.
+And so we elect dedicated political **representatives**.
 
-Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators: 535 in our country of 300 million.
+Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators.
 
-**This helps in many ways, but [introduces new problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
+535 in our country of over 300,000,000.
+
+**This helps, but introduces new [problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
 
 1. We may disagree with & distrust our limited choice of candidates.
 2. We're often stuck with electoral campaigns dominated more by personality than policy.
@@ -52,9 +56,9 @@ Instead of calling your reps to ask them to vote your way, you can do it yoursel
 
 <a name="delegation"></a>
 
-Additionally, you can delegate to trusted representatives to vote when you’re not able to.
+You can also empower trusted representatives to vote when you’re not able to.
 
-Unlike an electoral system, these are *personal* representatives.
+Unlike an electoral system, these are *personal representatives*.
 
 Any time you don't vote on a piece of legislation, the liquid democracy platform looks up how your personal representatives voted and automatically adopts their position.
 
@@ -92,7 +96,7 @@ These winner-take-all elections [entrench a polarizing two-party landscape](/201
 
 But in a liquid democracy, when 51% of voters choose the same representative, exactly 51% of the voting power flows to them. And alternative candidates keep a voice proportional to their supporters.
 
-This means that a liquid democracy can include many more perspectives than our current electoral process allows.
+Liquid democracy can include many more perspectives than an electoral process allows.
 
 ---------
 
