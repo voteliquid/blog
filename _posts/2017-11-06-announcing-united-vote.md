@@ -9,11 +9,11 @@ You deserve more of a voice in Congress.
 
 Right now, elections are our only legal way to participate.
 
-But elections invite a game of stagecraft, fear-mongering, and deception.
+But elections invite a game of stagecraft, fear-mongering, and deception. And the massive costs necessary to run a competitive campaign create an environment [ripe for corruption](/2017/10/23/democracy-vs-corruption/).
 
 Despite consensus among voters on many issues, our legislative process goes in circles.
 
-And our country has only grown more [divided](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png).
+For decades now, our country has only grown more [divided](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png).
 
 #### We can turn this around.
 
@@ -23,7 +23,7 @@ We can create a better way.
 
 United Vote, launching nationwide today, uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-This can create a government more inclusive and accountable. A Congress less polarized, and less susceptible to corruption.
+This can create a government more inclusive and accountable. A Congress less polarized, less susceptible to the corruption of big money.
 
 To get started, you simply sign up at [www.united.vote](https://united.vote) and verify your identity with a $1 one-time charge to a credit card in your name. ([Why?](https://united.vote/verification/identity))
 
@@ -49,7 +49,7 @@ This means we can start to build a better democracy *today*, without changing a 
 
 We hope that [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
 
-Please [**reach out**](mailto:support@united.vote) with any questions, concerns, or support. We'd love to hear from you.
+Please reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
 
 > Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
 >
