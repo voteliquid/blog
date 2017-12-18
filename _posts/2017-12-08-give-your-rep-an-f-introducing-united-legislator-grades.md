@@ -58,7 +58,7 @@ Bills that get more votes from constituents are automatically weighted greater t
 
 There's still a big issue: these scores only represent the people already signed up and verified on United.
 
-We still have a long way to go before everyone's joined us. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
+We still have a long way to go before everyone's joined. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
 
 If United is dominated by one group, it would be too easy for people to dismiss these scores.
 
