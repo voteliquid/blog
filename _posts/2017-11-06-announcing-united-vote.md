@@ -5,6 +5,10 @@ author: unitedvote
 excerpt: "You deserve more of a voice in Congress. Together, we can build a better way."
 ---
 
+<iframe src="https://www.youtube.com/embed/XMrRrzYXav8" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
+
+<br />
+
 You deserve more of a voice in Congress.
 
 Right now, elections are our only legal way to participate.
