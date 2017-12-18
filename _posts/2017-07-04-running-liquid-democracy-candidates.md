@@ -37,7 +37,7 @@ This could be as easy as pressing a button when their name is called to vote. Th
 
 In this way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters.
 
-**This gives us a grassroots way to try liquid democracy in our real governments, without any legal changes, with much lower risk than a top-down amendment.**
+**This gives us a grassroots way to bring liquid democracy to our real governments, without any legal changes, with much lower risk than a top-down amendment.**
 
 --------
 
