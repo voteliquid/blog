@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Long Tail of Political Participation: More Options for Better Representation"
+title: "Unlocking The Long Tail of Political Participation: More Options for Better Representation"
 author: davidernst
 excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving so many people out. It doesn't have to be this way."
 ---
@@ -11,13 +11,13 @@ Power distributions show up all over the social world, especially in competitive
 
 Here's a model of what it looks like:
 
-![](/assets/article_images/2017-12-18-the-long-tail-of-political-participation/LongTail.png)
+![](/assets/article_images/2017-12-18-unlocking-the-long-tail-of-political-participation/LongTail.png)
 
 Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
 Compare this to the distribution of votes for US President for the last 40 years:
 
-[![](/assets/article_images/2017-12-18-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
+[![](/assets/article_images/2017-12-18-unlocking-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
 
 See how each of those individual elections resemble the head of a power distribution?
 
