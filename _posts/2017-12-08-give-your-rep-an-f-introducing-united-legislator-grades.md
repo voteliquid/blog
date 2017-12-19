@@ -24,7 +24,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 #### We can bring this transparency
 
-[United Vote](https://www.united.vote) lets each American vote on every item in Congress.
+[United Vote](https://united.vote) lets each American vote on every item in Congress.
 
 We can make it easier to contact our representatives.
 
