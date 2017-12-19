@@ -3,22 +3,21 @@ layout: post
 title: "The Long Tail of Political Participation: More Options for Better Representation"
 author: davidernst
 excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving so many people out. It doesn't have to be this way."
-unlisted: true
 ---
 
 Political capital, the "trust, goodwill, and influence a politician has with the public and other political figures", is most likely distributed along a [power law](https://en.wikipedia.org/wiki/Power_law).
 
-Power distributions show up all over the place, especially in competitive markets like product sales, play counts of songs on the radio, or populations of cities.
+Power distributions show up all over the social world, especially in competitive markets like in product sales, play counts of songs on the radio, or populations of cities.
 
-Here's a model of what that looks like:
+Here's a model of what it looks like:
 
-![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/LongTail.png)
+![](/assets/article_images/2017-12-18-the-long-tail-of-political-participation/LongTail.png)
 
 Massive winners on the top, called the **Head**, and then many more participants with less individual percentages of the whole, called the **Long Tail**.
 
 Compare this to the distribution of votes for US President for the last 40 years:
 
-[![](/assets/article_images/2017-12-06-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
+[![](/assets/article_images/2017-12-18-the-long-tail-of-political-participation/United_States_presidential_election_results_bar_graph_Expanded.png)](https://commons.wikimedia.org/wiki/File:United_States_presidential_election_results_bar_graph_(Expanded).png)
 
 See how each of those individual elections resemble the head of a power distribution?
 
@@ -44,9 +43,11 @@ YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a
 
 And consumers sure seem to like it: YouTube is [on track](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb) to surpass all of TV's combined viewership hours.
 
-By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for our legislatures.
+By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can unlock the Long Tail for our legislatures.
 
-Many more people can meaningfully participate in our political processes, and less-engaged citizens can have more options for better representation.
+Voters can choose among anyone, rather than being limited to a small number of predetermined candidates.
+
+Many more people can meaningfully participate in our political processes, and we can all have more options for better representation.
 
 **United [makes this possible](/2017/11/06/announcing-united-vote/) *today*.**
 
