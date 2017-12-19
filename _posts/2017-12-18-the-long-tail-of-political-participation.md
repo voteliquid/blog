@@ -42,12 +42,12 @@ One employee famously said, "We sold more books today that didn't sell at all ye
 
 YouTube unlocks the Long Tail of video creators, by giving anyone who signs up a stage and a way to reach their audience.
 
-And consumers sure seem to like it: YouTube is on track to [surpass all of TV's combined viewership hours](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb).
+And consumers sure seem to like it: YouTube is [on track](https://www.wsj.com/articles/youtube-tops-1-billion-hours-of-video-a-day-on-pace-to-eclipse-tv-1488220851?mod=e2fb) to surpass all of TV's combined viewership hours.
 
 By replacing electoral representation with personal representation, [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can do the same thing for our legislatures.
 
 Many more people can meaningfully participate in our political processes, and less-engaged citizens can have more options for better representation.
 
-**[United makes this possible today](/2017/11/06/announcing-united-vote/).**
+**United [makes this possible](/2017/11/06/announcing-united-vote/) *today*.**
 
 [Join us](https://united.vote/join).
