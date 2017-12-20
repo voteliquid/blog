@@ -15,7 +15,7 @@ Right now, elections are our only legal way to participate.
 
 But elections invite a game of stagecraft, fear-mongering, and deception.
 
-And the massive costs to campaign, combined with "pick the lesser of two evils" [election rules](/2017/03/06/how-to-move-past-two-parties/), create an environment [ripe for corruption](/2017/10/23/democracy-vs-corruption/).
+And the massive costs to campaign, combined with "pick the lesser of two evils" [election rules](/2017/03/06/how-to-move-past-two-parties/), create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
 
 Despite consensus among voters on many issues, our legislative process goes in circles.
 

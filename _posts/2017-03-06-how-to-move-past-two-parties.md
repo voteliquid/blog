@@ -24,23 +24,23 @@ This leads to extra high-stakes elections. You either win and get it all, or los
 
 No wonder campaigns can become so nasty.
 
-No wonder politicians take money from groups they'd otherwise not owe favors.
+No wonder politicians take money from groups they'd otherwise rather not owe favors.
 
 #### A two-party [duopoly](/assets/article_images/2017-03-06-how-to-move-past-two-parties/duopoly.gif)
 
 Individuals want a voice, but strategy says that picking a third party is "throwing away your vote".
 
-Social choice theory [shows](http://zesty.ca/voting/sim/) how this entrenches a two-party landscape.
-
 We're pressured to pick *the lesser of two evils*, instead of how we really feel.
+
+Social choice theory [shows](http://zesty.ca/voting/sim/) how our election rules entrench a two-party landscape.
 
 #### But a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/) is different
 
-Instead of winner-take-all, representation becomes proportional. 
+Instead of winner-take-all, representation becomes proportional.
 
 51% of support from the electorate means 51% of voting power in the legislature.
 
-Everyone else can still have a voice.
+Everyone else, including minority candidates, can still have a voice.
 
 #### Citizens become free to choose representatives right for them
 
@@ -48,6 +48,6 @@ Representation is no longer limited to those at the top of the ballot, picked by
 
 It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out.
 
-Best of all, we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
+Best of all, thanks to United Vote, we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
 
 [Join us](https://united.vote/join). Help create more options.
