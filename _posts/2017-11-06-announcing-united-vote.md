@@ -13,7 +13,9 @@ You deserve more of a voice in Congress.
 
 Right now, elections are our only legal way to participate.
 
-But elections invite a game of stagecraft, fear-mongering, and deception. And the massive costs necessary to run a competitive campaign create an environment [ripe for corruption](/2017/10/23/democracy-vs-corruption/).
+But elections invite a game of stagecraft, fear-mongering, and deception.
+
+And the massive costs to campaign, combined with "pick the lesser of two evils" [election rules](/2017/03/06/how-to-move-past-two-parties/), create an environment [ripe for corruption](/2017/10/23/democracy-vs-corruption/).
 
 Despite consensus among voters on many issues, our legislative process goes in circles.
 
@@ -49,9 +51,9 @@ We can make it transparent when they fail to listen.
 
 This can force Congress to more closely follow the will of the people, or risk [someone running against them who will](/2017/07/04/running-liquid-democracy-candidates/).
 
-This means we can start to build a better democracy *today*, without changing a single law.
+This means we can start to build a better democracy *today*, without changing a single law. So [join us](https://united.vote/join).
 
-We hope that [liquid democracy](/2016/09/21/what-is-liquid-democracy/) can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
+We hope that liquid democracy can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
 
 Please reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
 
