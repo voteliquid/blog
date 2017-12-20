@@ -11,9 +11,9 @@ excerpt: "Camilo Casas recently announced he's running as a liquid democracy can
 
 Camilo Casas recently announced he's running as a [liquid democracy candidate](/2017/07/04/running-liquid-democracy-candidates/) in Colorado. It's fantastic for expanding people's understanding of what's now possible.
 
-[Motherboard wrote about it](https://motherboard.vice.com/en_us/article/59dnbb/colorado-political-candidate-promises-to-give-his-seat-to-an-app), and the article received over 40,000 upvotes on Reddit, landing on the front page.
+Motherboard [wrote](https://motherboard.vice.com/en_us/article/59dnbb/colorado-political-candidate-promises-to-give-his-seat-to-an-app) about it, and the article received over 40,000 upvotes on Reddit, landing on the front page.
 
-But commenters didn't [respond so positively](https://www.reddit.com/r/Futurology/comments/76xwut/colorado_political_candidate_promises_to_give_his/). In particular, many shared their fears of replacing full-time representatives with a less-invested crowd. Going from our current "representative democracy" to a "direct democracy" seems like moving backwards.
+But commenters didn't [respond](https://www.reddit.com/r/Futurology/comments/76xwut/colorado_political_candidate_promises_to_give_his/) so positively. In particular, many shared their fears of replacing full-time representatives with a less-invested crowd. Going from our current "representative democracy" to a "direct democracy" seems like moving backwards.
 
 This is half correct.
 
