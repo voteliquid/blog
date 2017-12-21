@@ -23,7 +23,7 @@ According to researcher Lee Drutman ([The Business of America is Lobbying](http:
 
 > “For every dollar spent on lobbying by labor unions and public-interest groups together, large corporations and their associations now spend $34.” ([source](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/))
 
-And this is not simply a partisan issue:
+And this is not a simple partisan issue:
 
 > OpenSecrets.org: [“Corporations Give Big to Both Side... Democrats and Republicans Share Big-Dollar Donors”](https://www.opensecrets.org/news/2010/11/democrats-and-republicans-sharing-b/)
 
@@ -90,7 +90,11 @@ Compared to our current situation, **liquid democracy can have a massive impact 
 
 #### Our practical strategy
 
-Importantly, unlike most other well-intentioned efforts to reduce political corruption, we can start to adopt liquid democracy today, [without needing to pass any new laws](/2017/11/06/announcing-united-vote/).
+There are many other efforts to reduce political corruption, and we whole-heartedly support them.
+
+But importantly, working towards liquid democracy has a huge strategic advantage, because we can [begin to adopt it](/2017/11/06/announcing-united-vote/) immediately, without waiting on the legislature to pass new laws against their own interests.
+
+Once 51% of voters in a single district are on board, we can elected a [Liquid Democracy Candidate](/2017/07/04/running-liquid-democracy-candidates/) to upgrade that district's representation.
 
 Help make this happen by [joining United](https://united.vote/join).
 

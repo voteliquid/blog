@@ -15,9 +15,7 @@ Liquid democracy is a promising alternative: the option to vote directly on poli
 
 Many people, when first learning about liquid democracy, often say something like: "This sounds great. But it must be too hard to make such a change. Passing a constitutional amendment seems impossible."
 
-Right.
-
-But we have a new option open to us.
+Right. But we have a new option open to us.
 
 ### We can use the old system to adopt a new one.
 
