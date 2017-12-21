@@ -51,7 +51,7 @@ Liquid democracy opens that choice up so you can pick anyone. And if they end up
 
 #### But isn't electing full-time legislators the smartest way to go? Why mess with a good thing?
 
-Some citizens take the time to stay informed, and that's great, but many don't. And so it is useful that we elect representatives right now. For many cases, full-time representatives probably make better decisions than plebiscites.
+Some citizens take the time to stay informed, and that's great, but many don't. And so it's useful that we elect representatives right now. For many cases, full-time representatives probably make better decisions than plebiscites.
 
 But that doesn't solve the problem completely, for a few reasons, one of which is we still need to hold a direct vote to decide who gets to be The Representative.
 
@@ -75,8 +75,8 @@ It could be anyone, from a personal family member, to a smart coworker, to the h
 
 #### The point is that you *trust* them.
 
-And if you sincerely consider your existing elected representative the best option out there, you can still choose them. Liquid democracy is backwards compatible with our current system.
+If you think your existing elected legislator is the best option, you can still choose them. Liquid democracy is *backwards compatible* with our current representation.
 
-Liquid democracy *still* means the majority of people can offload the work of legislative engagement. *And* that representation can be based upon stronger free choice than our current system offers.
+Liquid democracy **still** means the majority of people can offload the work of legislative engagement. *And* that representation can be based upon stronger free choice than our current system offers.
 
 [Join us.](https://united.vote/join)
