@@ -11,7 +11,7 @@ email: info@united.vote
 #blog logo
 logo: "/assets/icon-reduced-300.png"
 # blog cover
-cover: "/assets/america_cover.jpg"
+cover: "/assets/statue_of_liberty.jpg"
 
 paginate:	30
 permalink: pretty # remove .html from post urls
