@@ -68,7 +68,11 @@
               <h4>{{ author.name }}</h4>
               <p class="bio">{{author.bio}}</p>
               <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              {% if page.unlisted %}
+                <p class="published">To be published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              {% else %}
+                <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              {% endif %}
             </section>
           </div>
           {{/post}}
