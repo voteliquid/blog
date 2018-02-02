@@ -64,7 +64,7 @@ If the number of active legislators goes up by orders of magnitude, so does the 
 
 It's not that corruption goes away entirely, but it can become much more difficult.
 
-And remember, liquid democracy means real accountability for representatives. If you no longer feel like they fight for your interests, liquid democracy lets you replace them immediately, no questions asked.
+And remember, liquid democracy means real accountability for representatives. If you no longer feel like they fight for your interests, you can replace them immediately, no questions asked.
 
 #### "Sunlight is said to be the best of disinfectants"
 
