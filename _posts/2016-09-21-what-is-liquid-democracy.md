@@ -66,7 +66,7 @@ Any time you don't vote on a piece of legislation, the liquid democracy platform
 
 You can select any legal resident of your jurisdiction. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
 
-[![Click this picture for an interactive demo of liquid democracy delegation](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
+[![Click for an interactive demo of liquid delegation](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
 
 #### A Network of Trust
 
