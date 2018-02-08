@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing United Vote: Help Build a Democracy We Can Trust"
+title: "Introducing United.vote: Help Build a Democracy We Can Trust"
 author: unitedvote
 excerpt: "You deserve more of a voice in Congress. Together, we can build a better way."
 ---
@@ -27,7 +27,7 @@ We can create a better way.
 
 <img src="/assets/article_images/2017-11-06-announcing-united-vote/united-vote-logo-100px.png" alt="" style="height: 80px;">
 
-United Vote, launching nationwide today, uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
+United.vote, launching nationwide today, uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
 This can create a government more inclusive and accountable. A Congress less polarized, less susceptible to the corruption of big money.
 

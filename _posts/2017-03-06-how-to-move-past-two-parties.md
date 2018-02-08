@@ -48,6 +48,6 @@ Representation is no longer limited to those at the top of the ballot, picked by
 
 It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out.
 
-Best of all, thanks to United Vote, we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
+Best of all, thanks to United.vote, we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
 
 [Join us](https://united.vote/join). Help create more options.
