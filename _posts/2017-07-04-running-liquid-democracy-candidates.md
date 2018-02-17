@@ -31,7 +31,7 @@ They pledge that if elected, they'll vote on each bill according to their distri
 
 This could be as easy as pressing a button when their name is called to vote. Their app could perfectly announce their district’s decision, every time:
 
-![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote.jpg)
+![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote-2.jpg)
 
 This way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters.
 

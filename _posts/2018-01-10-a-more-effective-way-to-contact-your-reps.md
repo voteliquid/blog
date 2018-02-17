@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A More Effective Way to Contact Your Rep"
+title: "A Better Way to Contact Your Reps"
 author: unitedvote
 excerpt: |
   You've probably been told before to 'Call Your Congressman'.<br />
@@ -19,31 +19,33 @@ United lets you vote for or against any bill, on a computer or your phone.
 
 <img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/vote-on-bill.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 250px" />
 
-You just press a few buttons. You don't need to wait on hold or leave a voicemail. You can write an optional message if you want.
+You just press a few buttons. You don't need to wait on hold or leave a voicemail. You can write a personalized message if you want.
 
 We'll automatically send it your reps for you.
 
 <!-- TODO: Example of rep's last 24 hrs of submitted votes -->
 
-#### United also lets you represent your friends
+#### United lets you represent your friends too
 
 If you're going to call in, you may consider encouraging your friends and family as well.
 
 We can make this much easier.
 
-Rather than needing to remind them every time, after you create a United.vote account, other people can proxy their vote to you.
+Rather than needing to remind them every time, after you create a United.vote profile, other people can delegate their vote to you as their proxy.
 
 <img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/delegate-by-profile.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 280px" />
 
-This means that every time you vote on an item, all these people who've said they trust you can also automatically be represented.
+This means that every time you vote on an item, all these people who've said they trust you will also automatically be represented with your same vote.
 
-They can take-back or override the proxy at any time, without alerting you, so they always stay in control of their voice.
+They can override or replace a proxy at any time, without alerting them, so we each always ultimately stay in control of our own voice.
 
-This is based on a concept called [Liquid Democracy](/2016/09/21/what-is-liquid-democracy/).
+This is based on a concept called "[liquid democracy](/2016/09/21/what-is-liquid-democracy/)".
 
-#### United can create more accountability
+#### Accountability
 
-Although this is easier for you, your friends, and your legislators (we automatically count & organize all the votes for them), there's still a problem... Elected representatives can always ignore their constituents' wishes.
+Although this is easier for you, your friends, and your legislators (we automatically count & organize all the votes for them), there's still a problem...
+
+Elected representatives can always ignore their constituents' wishes.
 
 Unfortunately, even if calling your reps is "the most effective method", that doesn't [mean](https://www.newyorker.com/magazine/2017/03/06/what-calling-congress-achieves) it's actually effective, just that other ways are *even less* effective.
 
@@ -53,15 +55,15 @@ If they want to ignore you, would they share this information?
 
 #### United can provide this transparency
 
-If you're willing to verify your identity, we can use your votes to score elected legislators for how much they actually listen to their constituents.
+If you verify your identity, we can use your votes to score elected legislators for how much they actually listen to their constituents.
 
-[Verification](https://united.vote/verification/identity) requires a $1 one-time charge to a credit or debit card in your name, which helps prevent fake accounts & cover our costs.
+[Verification](https://united.vote/get_started/verification) requires a $1 one-time charge to a credit or debit card in your name, which helps prevent fake accounts & cover our costs.
 
-We [then grade](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) all elected Members of Congress against each other, on a curve, for how much they listen & ignore their constituents.
+We then [grade](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) all elected Members of Congress against each other, on a curve, for how much they listen & ignore their constituents.
 
 <!-- TODO: Example of grades -->
 
-(You can still use United without verifying, and we'll still send your votes to your reps, but we can't include unverified votes in the public grades.)
+You can still use United without verifying, and we'll still send your votes and messages to your reps, but we can't include unverified votes in the public grades.
 
 #### But we're often too busy
 
@@ -69,15 +71,15 @@ Few of us have the time to stay up on the day-to-day news from our legislatures.
 
 It's optional, but we can give you automatic daily/weekly/monthly reminders of what items are being debated, and how many of them you did and didn't vote on.
 
-<img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/daily-update.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 250px" />
+<img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/weekly-update.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 250px" />
 
-And just as other people can proxy to you, United lets you proxy your vote to other people.
+And just as other people can proxy to you, United lets you pick other people to represent your vote when you're too busy.
 
 This can be anyone, from personal associates, to your favorite pundit, to different politicians you trust more.
 
-You can pick multiple proxies — #1, 2, 3... — each outranking the next, acting like an additional backup. So you can pick your favorite choices first and still make sure your views are always represented.
+You can pick multiple representatives — #1, 2, 3... — each outranking the next, acting like an additional backup. So pick your favorite choices first, even if they're less active, with the confidence that you'll always be represented.
 
-As before, you can always vote directly to override their vote, or replace any of your proxies at any time.
+As before, you can always vote directly to override their vote, or replace them at any time.
 
 You always stay in control.
 
@@ -87,31 +89,31 @@ A growing number of us believe this new model of [liquid democracy](/2016/09/21/
 
 And if 51% of voters in a district agree, we can [elect new candidates](/2017/07/04/running-liquid-democracy-candidates/) who promise to vote on every bill according to their local liquid democracy.
 
-![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote.jpg)
+![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote-2.jpg)
 
 We want to make this easy, [secure](https://secure.united.vote), & trustworthy.
 
-This offers us a path to much needed fundamental reform, without waiting on Congress to first make changes conflicting with their own personal interests.
+This offers us a path to badly needed reform, that doesn't depend on waiting for Congress to first make changes that go against their own interests.
 
 #### How to help
 
 This vision only goes anywhere if a majority find it better than what we have now.
 
-United exists so we can start experimenting with it immediately — even before any [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) are elected — to more clearly see what works and what doesn't.
+United exists so we can start to build support for it immediately, so we can learn what works and what doesn't, even before any [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) are elected.
 
 If it intrigues you, take 30 seconds to enter your email on this [Join page](https://united.vote/join). It's free and we won't share it with anyone.
 
 <a href="https://united.vote/join"><img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/join-form.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 300px" /></a>
 
-We'll give you more instructions, which you can complete now or later, and only send you the rarest major announcements.
+We'll give you more instructions, which you can complete now or later, and keep you informed about major announcements.
 
 #### Towards a more hopeful future
 
 Congress' Approval Ratings have been in the gutters for decades, faith in our institutions has been falling alarmingly, and there's a lot of cynicism all around.
 
-Liquid Democracy — a more representative, accountable, & inclusive government — is one of the most promising solutions.
+Liquid democracy — a path to more representative, accountable, & inclusive government — is one of the most promising solutions.
 
-And our grassroots strategy to realize it offers a massive advantage vs. similar well-intentioned initiatives for systemic reform.
+Our grassroots strategy to realize it offers a massive advantage vs. similar well-intentioned initiatives for systemic reform.
 
 We've only just started. We still have a long way to go. And we'd love for you to join us.
 
