@@ -11,23 +11,23 @@ excerpt: "We’re at a critical political moment, when an unprecedented number o
 
 We’re at a critical political moment, when an unprecedented number of people express frustration with the status quo. There's demand from left, right, and center for new ways of doing things.
 
-**Liquid democracy** is a promising alternative: the option to vote directly on policy + supercharged representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
+**Liquid democracy** is a promising alternative: the option to vote directly on policy, plus personalized representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
 
 When first learning about liquid democracy, many people often say something like:
 
-> "This sounds great. But it must be too hard to make happen. No way can we pass a constitutional amendment."
+> "This sounds great. But it must be too hard to make happen. It will be decades before we can pass a constitutional amendment."
 
 Right. But we have a new option open to us.
 
 ### We use the old system to adopt a new one.
 
-We can run new candidates for office. ***“Liquid Democracy Candidates”.***
+We can run new candidates for office. "***Liquid Democracy Candidates***”.
 
 These are people who believe in this new way, believe in the mission, and want to give their neighbors a better way to represent themselves.
 
 Imagine a city council with 15 members. A liquid candidate campaigns for just one of the seats. The other 14 remain the same as before.
 
-They pledge that if elected, they'll vote on each bill according to their district’s liquid democracy.
+They pledge that if elected, they'll vote on every bill according to their district’s liquid democracy.
 
 This could be as easy as pressing a button when their name is called to vote. Their app could perfectly announce their district’s decision, every time:
 
