@@ -6,7 +6,7 @@ $(function(){
 
     // Get initial count of kudos
     $.ajax({
-      url: 'https://api.united.vote/kudos/' + key,
+      url: 'https://api.liquid.vote/kudos/' + key,
       type: 'GET',
       accept: 'application/json',
       contentType: 'application/json',
@@ -24,7 +24,7 @@ $(function(){
     // Increment kudos
     $("figure.kudo").bind("kudo:added", function(e) {
       $.ajax({
-        url: 'https://api.united.vote/kudos/' + key,
+        url: 'https://api.liquid.vote/kudos/' + key,
         type: 'POST',
         accept: 'application/json',
         contentType: 'application/json',
@@ -41,7 +41,7 @@ $(function(){
     // Decrement kudos
     $("figure.kudo").bind("kudo:removed", function(e) {
       $.ajax({
-        url: 'https://api.united.vote/kudos/' + key,
+        url: 'https://api.liquid.vote/kudos/' + key,
         type: 'DELETE',
         data: JSON.stringify({
           id: $.jStorage.get(key + '__id'),
