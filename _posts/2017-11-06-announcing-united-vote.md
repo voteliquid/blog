@@ -9,7 +9,7 @@ excerpt: "You deserve more of a voice in Congress. Together, we can build a bett
 
 <br />
 
-You deserve more of a voice in Congress.
+### You deserve more of a voice in Congress.
 
 Right now, elections are our only legal way to participate.
 
@@ -17,23 +17,19 @@ But elections invite a game of stagecraft, fear-mongering, and deception.
 
 And the massive costs to campaign, combined with "pick the lesser of two evils" [election rules](/2017/03/06/how-to-move-past-two-parties/), create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
 
-Despite consensus among voters on many issues, our legislative process goes in circles.
-
 For decades now, our country has only grown more [divided](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png).
 
 #### We can turn this around.
 
 We can create a better way.
 
-<img src="/assets/article_images/2017-11-06-announcing-united-vote/united-vote-logo-100px.png" alt="" style="height: 80px;">
+<img src="/assets/article_images/2017-11-06-announcing-united-vote/united-vote-logo-100px.png" alt="" style="height: 80px; margin: -5px auto">
 
-United.vote, launching nationwide today, uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
+United.vote uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-This can create a government more inclusive and accountable. A Congress less polarized, less susceptible to the corruption of big money.
+To get started, you simply sign up at [www.united.vote](https://united.vote) and verify your identity with a $1 charge to a credit card in your name. ([Why?](https://united.vote/verification/identity))
 
-To get started, you simply sign up at [www.united.vote](https://united.vote) and verify your identity with a $1 one-time charge to a credit card in your name. ([Why?](https://united.vote/verification/identity))
-
-#### Join us
+### Join Us
 
 United allows you to vote for or against any Congressional bill.
 
@@ -43,7 +39,7 @@ You can pick anyone - from a celebrity or politician, to your next door neighbor
 
 And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
-#### Supercharged Political Representation
+### Supercharged Political Representation
 
 United can [grade](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) every Member of Congress based on how well they truly represent their constituents.
 
@@ -53,7 +49,7 @@ This can force Congress to more closely follow the will of the people, or risk [
 
 This means we can start to build a better democracy *today*, without changing a single law. So [join us](https://united.vote/join).
 
-We hope that liquid democracy can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
+Liquid democracy can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
 
 Please reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
 
