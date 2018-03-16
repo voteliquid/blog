@@ -28,15 +28,13 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 We can make it easier to contact our representatives.
 
-And since we verify our members' identities and locations, we can now generate a **Score** of how well a legislator is listening to or ignoring their own constituents, for each legislative item.
+And since we verify our members' identities and locations, we can now **automatically score** legislators for listening to or ignoring their constituents, on each legislative item.
 
 Here's an example:
 
-![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score.png)
+![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score-2.png)
 
-In this case, the elected rep voted ***nay*** on [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 87% of their verified constituents on United.
-
-![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/score-formula.png)
+In this case, the elected rep voted ***nay*** on [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 22 of 25 of their verified constituents on United.
 
 This can bring much needed transparency and accountability to our legislative process.
 
@@ -44,13 +42,15 @@ This can bring much needed transparency and accountability to our legislative pr
 
 We want to make it easy for everyone to know how well their elected legislators are representing their constituents.
 
-Per bill scores is a good start, but we want something even easier for the typical busy American.
+Per bill counts is a good start, but we want something even easier for the typical busy American.
 
-So we'll combine all the bills together into a single Representation Score for each legislator.
+So we'll combine all the bills together into a single score for each legislator.
 
-For example: "**This past month, your representative voted with their constituents 74% of the time.**"
+For example: "**This legislator votes with their constituents 74% of the time.**"
 
-We're using the same formula as above, but adding up **all** the legislators' votes with & against their district, across all bills.
+![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/score-formula.png)
+
+We're adding up **all** the legislators' votes with & against their district, across all bills.
 
 Bills that get more votes from constituents are automatically weighted greater than those that attract less attention.
 
@@ -86,15 +86,15 @@ So we're going one step farther.
 
 We want to encourage our legislators to listen to their constituents.
 
-So we'll take their single Representation Score, and grade legislators *against each other*, on a curve.
+So we'll take their all-time score, and grade legislators *against each other*, on a curve.
 
 Those who most listen to their constituents will get an **A+**. Those who most ignore their constituents will get an **F**.
 
 See the chart to the right for the specific breakdowns by percentile.
 
-And we can do this for each party independently. Republican scores separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
+And we can do this for each party independently. Republicans separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
 
-We'll publish these grades weekly, monthly, and per legislative session, creating a permanent accountability record. You can sign up for automatic updates.
+We'll update these grades in real-time, creating a permanent accountability record.
 
 #### Divide and Conquer
 
@@ -104,7 +104,7 @@ Too often the message from politicians sounds like:
 
 But this *same story* is [being told](https://www.quora.com/What-is-the-difference-between-a-liberal-and-a-conservative/answer/Samantha-Bean-7?srid=tOBx) on both sides. Good vs evil; us vs them.
 
-Even if they sincerely start out with the best of intentions, our politicians are incentivized to further divide us to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
+Even if they sincerely start out with the best of intentions, our politicians are incentivized to divide us, to gain more power. Although they never admit it, the Republicans need the Democrats, and the Democrats need the Republicans.
 
 Demonizing the other side is the #1 motivating tactic. It’s a vicious [cycle](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png) we’re stuck in.
 
@@ -120,8 +120,8 @@ They ought to do their best to represent their constituents as a whole, the way 
 
 United lets you vote directly on legislation, just like you're a Member of Congress.
 
-Since few of us can vote on every bill, United also lets you select personal delegates for when you don't vote directly. Empower the people you trust to help represent your voice.
+Since few of us can vote on every bill, United also lets you select personal proxies for when you don't vote directly. Empower the people you trust to help represent your voice.
 
-Every vote cast and delegate chosen gets us one step closer to a truly representative Congress.
+Every vote cast and proxy chosen gets us one step closer to a truly representative Congress.
 
-So join us. [Sign up](https://united.vote/join) today, if you haven't already.
+So join us. [**Sign up**](https://united.vote/join) today, if you haven't already.
