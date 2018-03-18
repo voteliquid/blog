@@ -37,7 +37,7 @@ But since few of us have time to research most bills, United lets you name perso
 
 You can pick anyone - from a celebrity or politician, to your next door neighbor.
 
-And your representatives can delegate to their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
+And your representatives can pick their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
 ### Supercharged Political Representation
 
