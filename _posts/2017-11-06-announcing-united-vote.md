@@ -39,7 +39,7 @@ You can pick anyone - from a celebrity or politician, to your next door neighbor
 
 And your representatives can pick their own trusted representatives, creating a chain of trust to find the best experts on every bill, while still being accountable to you, the voter.
 
-### Supercharged Political Representation
+### Personalized Representation
 
 United can [grade](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) every Member of Congress based on how well they truly represent their constituents.
 

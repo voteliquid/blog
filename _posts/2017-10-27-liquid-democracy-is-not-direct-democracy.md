@@ -43,7 +43,7 @@ It's true that liquid democracy gives people the means to vote for themselves on
 
 It's more accurate to call our current system "electoral democracy", rather than the common name "representative democracy", as elections are only one method for selecting representatives.
 
-Liquid democracy is a new method that uses modern technology to give voters ***supercharged representation***.
+Liquid democracy is a new method that uses modern technology to give voters ***personalized representation***.
 
 Right now, because of [our election rules](/2017/03/06/how-to-move-past-two-parties/), our options are basically limited to two frontrunners every few years.
 
