@@ -29,6 +29,7 @@ That's how it should be. So to be delegated to... means removing anonymity?
 
 
 DAN:
+Yep, we can all see how our representatives are voting.
 Before someone can delegate to you, you must approve.
 If you do, since you now represent them,
 they can see all your votes.
