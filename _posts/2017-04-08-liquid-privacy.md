@@ -17,20 +17,20 @@ Yeah, Liquid is anonymous voting.
 
 
 MATT:
-And anonymous delegation?
+And anonymous proxying?
 
 
 DAN:
-Mostly anonymous delegation. No one else can see who you delegate to.
+Mostly anonymous proxying. No one else can see who you proxy to.
 
 
 MATT:
-That's how it should be. So to be delegated to... means removing anonymity?
+That's how it should be. So to be proxied to... means removing anonymity?
 
 
 DAN:
 Yep, we can all see how our representatives are voting.
-Before someone can delegate to you, you must approve.
+Before someone can proxy to you, you must approve.
 If you do, since you now represent them,
 they can see all your votes.
 
@@ -49,7 +49,7 @@ Ok.
 
 
 DAN:
-Either side can stop the delegation without the other finding out.
+Either side can stop the proxying without the other finding out.
 
 
 MATT:

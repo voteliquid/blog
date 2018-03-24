@@ -31,7 +31,7 @@ If you're going to call in, you may consider encouraging your friends and family
 
 We can make this much easier.
 
-Rather than needing to remind them every time, after you create a United.vote profile, other people can delegate their vote to you as their proxy.
+Rather than needing to remind them every time, after you create a United.vote profile, other people can proxy their vote to you.
 
 <img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/delegate-by-profile.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 280px" />
 

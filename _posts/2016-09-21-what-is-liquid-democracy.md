@@ -54,9 +54,7 @@ Every person can vote for or against every piece of legislation.
 
 Instead of calling your reps to ask them to vote your way, you can do it yourself.
 
-#### Delegation
-
-<a name="delegation"></a>
+#### Proxying
 
 You can also empower trusted representatives to vote when you’re not able to.
 
@@ -66,13 +64,13 @@ Any time you don't vote on a piece of legislation, the liquid democracy platform
 
 You can select any legal resident of your jurisdiction. The people you already know and trust, and many more wise individuals, suddenly become options to represent you.
 
-[![Click for an interactive demo of liquid delegation](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
+[![Click for an interactive demo of liquid proxying](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
 
 #### A Network of Trust
 
 <img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/voting_power_graphic.png" style="background-color: #252525; border-radius: 3px; float: right; margin-left: 28px; padding: 25px; width: 250px;" />
 
-In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend John, and he delegates to his smart coworker Alex, Alex can vote for all three of you.
+In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend John, and he proxies to his smart coworker Alex, Alex can vote for all three of you.
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
