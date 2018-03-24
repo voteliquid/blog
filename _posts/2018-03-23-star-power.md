@@ -3,10 +3,9 @@ layout: post
 title: "Star Power in Liquid Democracy"
 author: peterschurman
 excerpt: What defense does liquid democracy offer against celebrity power?
-unlisted: true
 ---
 
-Excerpt from Peter Schurman's [Let's Include Everyone](https://docs.google.com/document/d/1_KzPGe-q-Z-FEHgfAeZ1AxsBD5yoLIO26vARmB2pAfY/edit?usp=sharing), exploring the future possibilities for global governance in a [liquid democracy](/2016/09/21/what-is-liquid-democracy/) world:
+Excerpt from Peter Schurman's [Let's Include Everyone](https://docs.google.com/document/d/1_KzPGe-q-Z-FEHgfAeZ1AxsBD5yoLIO26vARmB2pAfY/edit?usp=sharing), exploring future possibilities for global governance in a [liquid democracy](/2016/09/21/what-is-liquid-democracy/) world:
 
 > One final form of power that may be abused is often called “star power”: the ability of famous individuals to command attention. Consider a scenario in which a celebrity exploits their fame to call for liquid democracy proxies, then uses those proxies to vote in ways that undermine the public interest.
 >
