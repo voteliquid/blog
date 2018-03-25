@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star Power in Liquid Democracy"
-author: peterschurman
+author: unitedvote
 excerpt: What defense does liquid democracy offer against celebrity power?
 ---
 
