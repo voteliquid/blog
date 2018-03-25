@@ -3,6 +3,7 @@ layout: post
 title: "Introducing United.vote: Help Build a Democracy We Can Trust"
 author: unitedvote
 excerpt: "You deserve more of a voice in Congress. Together, we can build a better way."
+pinned: true
 ---
 
 <iframe src="https://www.youtube.com/embed/XMrRrzYXav8" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
@@ -13,9 +14,9 @@ excerpt: "You deserve more of a voice in Congress. Together, we can build a bett
 
 Right now, elections are our only legal way to participate.
 
-But elections invite a game of stagecraft, fear-mongering, and deception.
+But elections invite a game of stagecraft: limited options dominated more by personalities than policy.
 
-And the massive costs to campaign, combined with "pick the lesser of two evils" [election rules](/2017/03/06/how-to-move-past-two-parties/), create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
+And the massive costs to campaign, combined with "pick the [lesser of two evils](/2017/03/06/how-to-move-past-two-parties/)" election rules, create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
 
 For decades now, our country has only grown more [divided](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png).
 
@@ -49,7 +50,7 @@ This can force Congress to more closely follow the will of the people, or risk [
 
 This means we can start to build a better democracy *today*, without changing a single law. So [join us](https://united.vote/join).
 
-Liquid democracy can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
+This can help us address many of the problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
 
 Please reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
 

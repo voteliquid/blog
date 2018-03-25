@@ -3,7 +3,6 @@ layout: post
 title: "Give Your Rep an F: Introducing United Legislator Grades"
 author: unitedvote
 excerpt: 'Right now, Americans concerned about something happening in Washington are often instructed to Call Your Representatives. But there are a few problems with this tactic.'
-pinned: true
 ---
 
 > Our trouble is that we do not demand enough of the people who represent us. We are responsible for their activities... we must spur them to more imagination and enterprise in making a push into the unknown; we must make clear that we intend to have responsible and courageous leadership.
