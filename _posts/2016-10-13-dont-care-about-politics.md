@@ -10,9 +10,9 @@ excerpt: "Liquid democracy is appealing to those who spend a lot of time followi
 >
 > — William F. Buckley
 
-You could sort citizens into two groups: those who pay a lot of attention to politics, and those who don't.
+You could sort people into two groups: those who pay a lot of attention to politics, and those who don't.
 
-Many of us often fall into the latter category.
+Many of us fall into the latter category.
 
 It's not hard to see how [liquid democracy](/2016/09/21/what-is-liquid-democracy/) appeals to political junkies, but it could also be much easier for everyone else.
 
@@ -28,7 +28,7 @@ After all, that lawmaker will be in power for the next few years. Even if we don
 
 A [liquid democracy](/2016/09/21/what-is-liquid-democracy/) isn't winner-take-all, so there's no way for a bad candidate to take office as the only representative for the entire district.
 
-In fact, in a full liquid democracy, there'd be no need for legislative elections at all. Once you've found representatives you trust, you could stick with them as long as you like.
+In fact, in a full liquid democracy, there's no need for legislative elections at all. Once you've found representatives you trust, you could stick with them as long as you like.
 
 And, when you do want to be involved, you don't even have to leave your home. You could vote right from your phone or a computer.
 
