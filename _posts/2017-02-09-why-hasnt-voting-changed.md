@@ -15,11 +15,11 @@ Back then, everyone was excited about voting. Excited to participate (...if they
 
 Voting today hasn't changed much. We still have to go to a polling center. Or maybe we mail it in (the modern day Pony Express).
 
-Imagine we still used the transportation technology from 1776: we'd be riding around on horses, instead of crossing the country on airplanes.
+Imagine we still used the transportation from 1776: we'd be riding around on horses, instead of crossing the country on airplanes.
 
-Money is another area where it's become much easier. We don't bring cash to the bank each time we get paid. We have checks and ATM. We can pay for things with a little plastic card. And we can manage our bank accounts through a website or our phones.
+Money is another area where it's become much easier. We don't bring cash to the bank each time we get paid. We have checks and ATM. We can pay for things with a plastic card. And we can manage our bank accounts through a website or our phones.
 
-If it's possible to control our life savings through computers, can't we digitize our voting?
+**If it's possible to control our life savings through computers, can't we digitize our voting?**
 
 Why do we have to go to the polls when we have smartphones?
 
@@ -27,4 +27,4 @@ Why do we have to mail it in?
 
 Why do we have to wait to learn the results?
 
-Why do we spend hundreds of millions of taxpayer dollars to run elections?
+There must be a better way.
