@@ -50,7 +50,7 @@ This can force Congress to more closely follow the will of the people, or risk [
 
 This means we can start to build a better democracy *today*, without changing a single law. [**Join us**](https://united.vote/join).
 
-This can help us address the many problems facing our country, so that we can build a republic stronger and more inclusive than ever before.
+This can help us address the many problems facing our country, so that we can build a republic stronger than ever before.
 
 Reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
 
