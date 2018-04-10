@@ -47,7 +47,7 @@ One common narrative is that it's more often done by Republicans to disadvantage
 
 There's no inherent reason for only a single party to do it. One group may simply [be better at it](http://nymag.com/daily/intelligencer/2016/04/gops-house-seats-are-safe-heres-why.html).
 
-Instead of framing it through a partisan lens, it's more useful to see the technique as one way established politicians rig the democratic process to make it easier to get reelected, keeping new voices out.
+Instead of framing it through a partisan lens, it's more useful to see the technique as one way established politicians rig the democratic process for their re-election, keeping new voices out.
 
 ### A new solution
 
