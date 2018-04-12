@@ -70,7 +70,7 @@ You can select any legal resident of your jurisdiction. The people you already k
 
 <img src="/assets/article_images/2016-09-21-what-is-liquid-democracy/voting_power_graphic.png" style="background-color: #252525; border-radius: 3px; float: right; margin-left: 28px; padding: 25px; width: 250px;" />
 
-In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend John, and he proxies to his smart coworker Alex, Alex can vote for all three of you.
+In a liquid democracy, voting power passes transitively, from one person to the next. This means that if you pick your close friend Sam, and they proxy to their smart coworker Alex, Alex can vote for all three of you.
 
 This allows for a network of much closer connections, rewarding the most trusted people.
 
@@ -104,6 +104,6 @@ Liquid democracy can include many more perspectives than our electoral process a
 
 By adopting liquid democracy, we can empower our most trustworthy leaders, give ourselves true choice and accountability, and transform our politics and society.
 
-We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/), like constitutional amendments.
+We're creating technology to allow liquid democracy at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like a constitutional amendment.
 
 But we do need you. ***Join us.*** Sign up to show your support and find out more: [www.united.vote](https://united.vote).
