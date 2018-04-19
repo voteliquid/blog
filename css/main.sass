@@ -556,88 +556,67 @@ body
   .next
     text-align: right
 
-.subscribe-cta
-  background-color: #181e2b
-  text-align: center
-  padding: 58px 0
-  a
-    background-color: #2b71b1
-    border-radius: 3px
-    padding: 15px 40px
-    -webkit-appearance: none
-    display: inline-block
-    color: white
-    font-weight: 700
-    font-size: 15px
-    font-family: system-ui,Open Sans,MundoSans,"Helvetica Neue",Arial,Helvetica,sans-serif
-    text-decoration: none
-    text-transform: uppercase
-    &:hover
-      background-color: #16548E
-      cursor: pointer
-
-
 .bottom-closer
-  width: 100%
-  position: relative
-  overflow: hidden
-  display: flex
+  background-color: #181e2b
+  color: white
   justify-content: center
-  .background-closer-image
-    position: absolute
-    top: 0
-    left: 0
-    right: 0
-    bottom: 0
-    text-indent: -9999px
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center 77%
-  .inner
-    width: 100%
-    max-width: 480px
-    position: relative
-    z-index: 99
-    background-color: rgba(255, 255, 255, 0.8)
-    border-radius: 2px
-    padding: 25px 0
-    text-align: center
-    margin: 90px 30px
-    .blog-title
-      margin: 0
-      padding: 0 0 10px
-      font-size: 41px
-      font-weight: 700
-      color: #181e2b
-      text-transform: uppercase
-      @include respond-to(475)
-        font-size: 32px
-      @include respond-to(350)
-        font-size: 28px
-    .blog-description
-      margin: 0 0 40px
-      font-size: 22px
-      letter-spacing: 0.3px
-      color: #181e2b
-      font-weight: 600
-      @include respond-to(475)
-        font-size: 18px
-      @include respond-to(350)
-        font-size: 15px
-    .btn
+  padding: 65px 0
+  text-align: center
+  width: 100%
+  .blog-title
+    cursor: default
+    font-size: 41px
+    font-weight: 700
+    margin: 0
+    padding: 0 0 10px
+    text-transform: uppercase
+    @include respond-to(475)
+      font-size: 32px
+    @include respond-to(350)
+      font-size: 28px
+  .blog-description
+    cursor: default
+    font-size: 22px
+    font-weight: 600
+    letter-spacing: 0.3px
+    margin: 0 0 40px
+    @include respond-to(475)
+      font-size: 18px
+    @include respond-to(350)
+      font-size: 15px
+  .subscribe-cta
+    a
+      background-color: #2b71b1
+      border-radius: 3px
+      padding: 15px 40px
+      -webkit-appearance: none
       display: inline-block
+      color: white
+      font-weight: 700
+      font-size: 15px
+      font-family: system-ui,Open Sans,MundoSans,"Helvetica Neue",Arial,Helvetica,sans-serif
+      margin-bottom: 30px
+      text-decoration: none
+      text-transform: uppercase
+      &:hover
+        background-color: #16548E
+        cursor: pointer
+  .btn
+    margin-bottom: 15px
+    &:last-child
+      margin-bottom: 0
+    a
+      border-radius: 3px
+      color: #fff
+      display: inline-block
+      font-family: system-ui,Open Sans,MundoSans,"Helvetica Neue",Arial,Helvetica,sans-serif
       font-size: 15px
       font-weight: 600
-      text-decoration: none
-      background: #181e2b
-      color: #fff
-      border-radius: 999em
       line-height: 44px
-      padding: 0 60px
-      min-width: 150px
-      box-sizing: content-box
+      padding: 0 25px
+      text-decoration: none
       &:hover
-        background: #072848
+        background: #16548E
         cursor: pointer
 
 #disqus_thread
