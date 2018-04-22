@@ -14,7 +14,7 @@ davidernst:
   image: "/assets/author_images/davidernst.jpeg"
 warrenernst:
   name: Warren Ernst
-  image: ""
+  image: "/assets/author_images/warrenernst.jpg"
 henrywong:
   name: Henry Wong
   image: "/assets/author_images/henrywong.jpeg"

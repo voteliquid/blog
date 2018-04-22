@@ -1,15 +1,9 @@
 ---
 layout: post
 title: Problems arising from terms of office
-subtitle: ""
 author: warrenernst
-date: 2016-10-11
-image: /assets/article_images/2016-07-04-upgrading-democracy/night-track.JPG
-image2: /assets/article_images/2016-07-04-upgrading-democracy/night-track-mobile.JPG
 excerpt: "For citizens concerned about issues, one problem that arises in representative democracy is the episodic nature of elections and the myriad of issues faced by a legislature during a term."
 ---
-
-# Problems arising from terms of office
 
 For citizens concerned about issues, one problem that arises in representative democracy is the episodic nature of elections and the myriad of issues faced by a legislature during a term.
 
