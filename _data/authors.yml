@@ -1,18 +1,38 @@
 # Author details
 
 jaredscheib:
-  name: "Jared Scheib | #Dreama"
-  bio: "Transformation Technology for Our Future | #RealitySurf"
+  name: Jared Scheib
   web: https://www.facebook.com/jared.scheib
-  image: "/assets/images/authors/jaredscheib.jpeg"
+  image: "/assets/author_images/jaredscheib.jpeg"
 rohandixit:
   name: Rohan Dixit
   web: https://www.facebook.com/rdixit108
-  image: "/assets/images/authors/rohandixit.jpeg"
+  image: "/assets/author_images/rohandixit.jpeg"
 davidernst:
   name: David Ernst
   web: https://twitter.com/dsernst
-  image: "/assets/images/authors/davidernst.jpeg"
+  image: "/assets/author_images/davidernst.jpeg"
 warrenernst:
   name: Warren Ernst
   image: ""
+henrywong:
+  name: Henry Wong
+  image: "/assets/author_images/henrywong.jpeg"
+anonymous:
+  name: Anonymous
+  image: "/assets/author_images/anonymous.png"
+gregslepak:
+  name: Greg Slepak
+  image: "/assets/author_images/gregslepak.jpeg"
+rsaanimate:
+  name: RSA Animate
+  image: "/assets/author_images/rsaanimate.jpg"
+unitedvote:
+  name: United
+  image: "/assets/author_images/unitedvote.png"
+dallascole:
+  name: Dallas Cole
+  image: "/assets/author_images/dallascole.jpg"
+peterschurman:
+  name: Peter Schurman
+  image: "/assets/author_images/peterschurman.jpeg"

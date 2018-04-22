@@ -1,0 +1,56 @@
+<section class="comments">
+  <p>
+    <a href="#" id="comment-link"><i class="fa fa-envelope"></i>&nbsp; Write a reply</a>
+  </p>
+  <div id="comment-box" style="display:none">
+    <p>
+      <label for="comment-name">Name</label>
+      <input type="text" placeholder="Your Name" id="comment-name" />
+    </p>
+    <p>
+      <label for="comment-email">Email</label>
+      <input type="text" placeholder="you@email.com" id="comment-email" />
+    </p>
+    <p>
+      <label for="comment-body">Message</label>
+      <textarea id="comment-body"></textarea>
+    </p>
+    <p>
+      <input type="submit" value="Send" id="comment-submit" onclick="submitComment()" />
+    </p>
+  </div>
+  <p id="comment-submitted" style="display:none">
+    &#10004; Your comment has been submitted.
+  </p>
+  <script>
+    document.getElementById('comment-link').addEventListener('click', function(event) {
+      event.preventDefault()
+      jQuery('#comment-link').toggleClass('pressed')
+      jQuery('#comment-box').toggle()
+    })
+
+    function submitComment() {
+      $.ajax({
+        url: 'https://api.liquid.vote/blog-comment',
+        type: 'POST',
+        accept: 'application/json',
+        contentType: 'application/json',
+        data: JSON.stringify({
+          url: window.location.href,
+          name: document.getElementById('comment-name').value,
+          email: document.getElementById('comment-email').value,
+          body: document.getElementById('comment-body').value,
+        }),
+        processData: false,
+        success: function(response) {
+          console.log('submission response', response)
+          jQuery('#comment-submit').prop('disabled', true)
+          jQuery('#comment-submitted').show()
+        },
+        error: function(error) {
+          console.log('submission error', error)
+        }
+      })
+    }
+  </script>
+</section>

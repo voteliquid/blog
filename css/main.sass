@@ -39,33 +39,20 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
-.logo-readium
-  position: fixed
-  left: 10px
-  top: 10px
-  width: $rs*3
-  height: $rs*3
-  background-color: #181e2b
-  overflow: hidden
-  z-index: 99
-  .logo
-    display: block
-    position: absolute
-    top: $rs/2
-    left: $rs/2
-    width: $rs*2
-    height: $rs*2
-    background-size: cover
-    background-repeat: no-repeat
-
 .teaserimage
-  height: 450px
+  height: 790px
   position: relative
   overflow: hidden
   background-color: #000
+  @include respond-to(1400)
+    height: 680px
+  @include respond-to(800)
+    height: 370px
+  @include respond-to(550)
+    height: 240px
   .teaserimage-image
     background-size: cover
-    background-position: center
+    background-position: bottom
     position: absolute
     top: 0
     left: 0
@@ -75,34 +62,31 @@ body
     text-indent: -9999px
 
 .blog-header
-  width: 100%
-  max-width: 640px
+  background: linear-gradient(to bottom, #fff 1%, #d9d9d9 2%, #fff 52%)
   margin: 0 auto
-  position: relative
   padding: 0
+  position: relative
+  width: 100%
   @include box-sizing(border-box)
   @include respond-to(800)
     padding: 0 $rs
   .blog-logo
-    width: $rs*7.5
-    height: $rs*7.5
-    position: absolute
-    top: -$rs*3.75
-    right: 50%
-    margin-right: -$rs*3.75
-    background-size: cover
-    border-radius: 50%
-    z-index: 99
-    text-indent: -9999px
-    border: 3px solid #fff
     background-color: #fff
-    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
-    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    background-size: 120px
+    border: 1px solid #fff
     box-shadow: 0 1px 1px rgba(0,0,0,0.3)
+    height: $rs*7.5
+    margin-right: -$rs*3.75
+    position: absolute
+    right: 50%
+    text-indent: -9999px
+    top: -$rs*3.75
+    width: $rs*7.5
+    z-index: 99
   .blog-title
     margin: 0
-    padding: $rs*5.25 $rs $rs/2
-    font-size: 50px
+    padding: $rs*5.25 0 $rs/2
+    font-size: 43px
     text-align: center
     font-weight: 700
     letter-spacing: -2px
@@ -110,10 +94,12 @@ body
     line-height: 50px
     word-break: break-word
     color: #333
+    text-transform: uppercase
+    @include respond-to(500)
+      font-size: 41px
   .blog-description
     margin: 0 0 20px
-    padding: 0 $rs*2
-    font-size: $rs/8*9
+    font-size: 22px
     line-height: 1.5
     color: #666
     text-align: center
@@ -123,13 +109,35 @@ body
     text-align: center
     color: #ccc
     a
-      text-decoration: none
       color: #999
+      font-size: 24px
       margin-right: 25px
+      text-decoration: none
       &:last-child
         margin-right: 0
       &:hover
         color: #333
+
+.header-bar
+  background-color: #181e2b
+  height: $rs*3 + 20
+  width: 100%
+  .title-container
+    width: 100%
+    max-width: 640px
+    margin: 0 auto
+    @include respond-to(800)
+      padding-left: 32px
+      box-sizing: border-box
+    .blog-title
+      font-size: 22px
+      font-weight: 700
+      line-height: 68px
+      margin: 0
+      text-transform: uppercase
+      a
+        color: #eee
+        text-decoration: none
 
 .content
   width: 100%
@@ -139,10 +147,25 @@ body
   @include respond-to(800)
     padding: 0 $rs*2
   article
-    padding: 40px 0
+    padding: 30px 0
     border-bottom: 1px solid #f2f2f0
     &:last-child
       border-bottom: 0px
+    &.pinned
+      border: 4px solid #e6e6e6
+      border-radius: 9px
+      margin-bottom: 40px
+      padding: 30px
+      position: relative
+      .pinned-label
+        background-color: white
+        color: #828282
+        font-size: 13px
+        font-weight: bold
+        padding: 0 10px
+        position: absolute
+        text-transform: uppercase
+        top: -23px
     .author
       height: 55px
       .author-name
@@ -164,7 +187,7 @@ body
       font-weight: 700
       font-style: normal
       display: block
-      font-size: 28px
+      font-size: 27px
       line-height: 1.1
       margin: 0 0
       a
@@ -206,6 +229,7 @@ body
     display: none
 
 .pagination
+  display: none
   text-align: center
   padding: $rs*3 0 0
   font-size: $rs/4*3
@@ -216,22 +240,12 @@ body
       color: #333
 
 .post-reading
-  position: absolute
-  top: 10px
-  right: 30px
-  line-height: 44px
-  display: inline-block
-  white-space: nowrap
-  color: rgba(255,255,255,0.6)
+  float: right
+  color: #444
   font-size: 14px
-  letter-spacing: -0.02em
-  font-weight: 400
-  font-style: normal
   font-family: $font-sans
-  z-index: 999
-.tag-articleimage .post-reading
-  color: rgba(255,255,255,0.9)
-  text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
+  @include respond-to(370)
+    float: none
 
 .site-footer
   margin: 0 auto
@@ -248,130 +262,42 @@ body
     &:hover
       color: #333
 .post
-  .article-image
-    position: absolute
-    background-color: #000
-    top: 0
-    left: 0
-    right: 0
-    bottom: 0
-    overflow: hidden
-    @media(min-width: 700px)
-      .post-image-image
-        background-size: cover
-        position: absolute
-        top: 0
-        left: 0
-        right: 0
-        bottom: 0
-        text-indent: -9999px
-        padding-top: 33%
-        z-index: 1
-      .post-image-image2
-        display: none
-    @media(max-width: 700px)
-      .post-image-image
-        display: none
-      .post-image-image2
-        background-size: cover
-        background-position-x: center
-        position: absolute
-        top: 0
-        left: 0
-        right: 0
-        bottom: 0
-        text-indent: -9999px
-        padding-top: 33%
-        z-index: 1
-    .post-meta
-      position: absolute
-      bottom: $rs*5
-      left: 25%
-      right: 25%
-      z-index: 9
-      font-family: $font-sans
-      @include box-sizing(border-box)
-      @include respond-to(800)
-        left: $rs
-        right: $rs
-    .post-title
-      font-weight: 700
-      font-style: normal
-      letter-spacing: -0.04em
-      font-size: 50px
-      line-height: 1.1
-      color: #fff
-      margin-bottom: 16px
-      text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
-    .author-image
-      display: inline-block
-      width: 30px
-      height: 30px
-      line-height: 30px
-      margin-right: 8px
-      float: left
-      background-size: cover
-      border-radius: 100%
-      text-indent: -9999px
-    .author-name
-      display: inline
-    .post-meta-text
-      color: white
-      letter-spacing: -0.02em
-      font-weight: 400
-      font-style: normal
-      text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
-      font-size: 14px
-      overflow: hidden
-      font-family: $font-sans
-      white-space: nowrap
-      text-overflow: ellipsis
-      a
-        color: rgba(255,255,255,0.75)
-        &:hover
-          color: rgba(255,255,255,1)
-    .fa-angle-down
-      font-size: 32px
-      margin: 64px auto 0
-      color: rgba(255,255,255,0.75)
-      &:hover
-        color: #fff
-    .topofpage
-      text-decoration: underline
-  .noarticleimage
-    .post-meta
-      font-family: $font-sans
-      padding-top: 60px
-    .post-title
-      font-weight: 700
-      font-style: normal
-      letter-spacing: -0.04em
-      font-size: 50px
-      line-height: 1.1
-      color: #333332
-      margin-bottom: 16px
-    .author-image
-      display: inline-block
-      width: 30px
-      height: 30px
-      line-height: 30px
-      margin-right: 8px
-      float: left
-      background-size: cover
-      border-radius: 100%
-      text-indent: -9999px
-    .author-name
-      display: inline
-    .post-meta-text
-      color: #b3b3b1
-      letter-spacing: -0.02em
-      font-weight: 400
-      font-style: normal
-      font-size: 14px
-      overflow: hidden
-      font-family: $font-sans
-      white-space: nowrap
-      text-overflow: ellipsis
+  .post-meta
+    font-family: $font-sans
+    .draft-label
+      background-color: pink
+      border: 1px solid red
+      font-weight: bold
+      margin-bottom: 40px
+      text-align: center
+  .author-image
+    display: inline-block
+    width: 30px
+    height: 30px
+    line-height: 30px
+    margin-right: 8px
+    float: left
+    background-size: cover
+    border-radius: 100%
+    text-indent: -9999px
+  .author-name
+    display: inline
+  .post-meta-text
+    color: #555
+    font-size: 14px
+    font-family: $font-sans
+    line-height: 28px
+    margin-bottom: 25px
+  .post-title
+    font-weight: 700
+    letter-spacing: -0.04em
+    font-size: 32px
+    line-height: 1.1
+    color: #333
+  .post-subtitle
+    font-weight: 500
+    font-size: 26px
+    color: #333
   .post-content
     width: 100%
     font-family: $font-serif
@@ -396,9 +322,16 @@ body
     p
       font-size: 21px
       line-height: 30px
+      text-align: justify
+      @include respond-to(500)
+        text-align: left
     a
       color: #333
-      text-decoration: underline
+      text-decoration: none
+      border-bottom: 1px solid #333
+      &:hover
+        color: #9e1532
+        border-bottom: 1px solid #9e1532
     img
       display: block
       max-width: 100%
@@ -430,6 +363,8 @@ body
         font-size: 23px
         font-style: italic
         letter-spacing: 0.01rem
+      em
+        text-decoration: underline
     ul, ol
       padding: 0
       margin: 0
@@ -530,71 +465,159 @@ body
 .share
   text-align: right
   padding: 20px 0 0
+  .share-header
+    margin: 0
+    font-weight: bolder
+    color: #333
+    font-size: 14px
   a
     text-decoration: none
-    color: #bbb
+    color: #999
     padding-left: 12px
+    font-size: 40px
     .hidden
       display: none
     &:hover
       color: #333
 
-.bottom-closer
-  width: 100%
-  position: relative
-  overflow: hidden
-  .background-closer-image
-    position: absolute
-    top: 0
-    left: 0
-    right: 0
-    bottom: 0
-    text-indent: -9999px
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
-  .inner
-    width: 100%
-    position: relative
-    z-index: 99
+.comments
+  text-align: center
+  margin: 0 0 90px
+  #comment-link
+    color: #000
+    border: 1px solid #777
+    border-radius: 3px
+    font-weight: bold
+    padding: 12px 35px
+    text-decoration: none
+    &:hover
+      background-color: #eee
+      border-color: #bbb
+    &.pressed
+      background-color: #e4e4e4
+      border-color: #bbb
+  #comment-box
+    margin: 60px auto 0
     max-width: 640px
-    padding: 120px 0 90px
-    text-align: center
-    margin: 0 auto
-    .blog-title
-      margin: 0
-      padding: 0 0 10px
-      font-size: 50px
-      text-align: center
-      font-weight: 700
-      letter-spacing: -2px
-      outline: 0
-      line-height: 50px
-      word-break: break-word
-      color: #fff
-      text-shadow: 0px 1px 16px rgba(0,0,0,0.85), 0px 0px 1px rgba(0,0,0,1)
-    .blog-description
-      margin: 0 0 50px
+    text-align: left
+    @include respond-to(800)
       padding: 0 $rs*2
-      font-size: $rs/8*9
-      line-height: 1.5
-      color: #fff
-      text-align: center
-      font-weight: 600
-      text-shadow: 0px 1px 16px rgba(0,0,0,1), 0px 0px 1px rgba(0,0,0,1)
-    .custom-links
-      margin: 0 0 50px
-    .btn
-      display: inline-block
-      text-align: center
+    label
+      display: block
+      font-size: 12px
+      text-transform: uppercase
+      margin-bottom: 3px
+    input
+      font-size: 16px
+      border: 1px solid lightgrey
+      box-sizing: border-box
+      padding: 6px
+      width: 100%
+    textarea
+      font-size: 16px
+      border: 1px solid lightgrey
+      box-sizing: border-box
+      height: 200px
+      padding: 6px
+      width: 100%
+    input[type="submit"]
+      color: white
+      background-color: #2b71b1
+      border: none
+      border-radius: 2px
+      box-sizing: border-box
+      font-weight: bold
+      height: 40px
+      padding: 0 12px
+      text-transform: uppercase
+      -webkit-appearance: none
+      &:hover
+        background-color: #16548E
+        cursor: pointer
+      &:disabled
+        background-color: #2b71b1
+        cursor: not-allowed !important
+  #comment-submitted
+    margin-top: 80px
+
+.PageNavigation
+  font-size: 16px
+  display: block
+  width: auto
+  overflow: hidden
+  a
+    display: block
+    width: 50%
+    float: left
+    margin: 1em 0
+    color: #2f6eb3
+    &:hover
+      color: #2727a9
+  .next
+    text-align: right
+
+.bottom-closer
+  background-color: #181e2b
+  color: white
+  justify-content: center
+  padding: 65px 0
+  text-align: center
+  width: 100%
+  .blog-title
+    cursor: default
+    font-size: 41px
+    font-weight: 700
+    margin: 0
+    padding: 0 0 10px
+    text-transform: uppercase
+    @include respond-to(475)
+      font-size: 32px
+    @include respond-to(350)
+      font-size: 28px
+  .blog-description
+    cursor: default
+    font-size: 22px
+    font-weight: 600
+    letter-spacing: 0.3px
+    margin: 0 0 40px
+    @include respond-to(475)
+      font-size: 18px
+    @include respond-to(350)
       font-size: 15px
+  .subscribe-cta
+    a
+      background-color: #2b71b1
+      border-radius: 3px
+      padding: 15px 40px
+      -webkit-appearance: none
+      display: inline-block
+      color: white
+      font-weight: 700
+      font-size: 15px
+      font-family: system-ui,Open Sans,MundoSans,"Helvetica Neue",Arial,Helvetica,sans-serif
+      margin-bottom: 30px
       text-decoration: none
-      background: #333f86
+      text-transform: uppercase
+      &:hover
+        background-color: #16548E
+        cursor: pointer
+  .btn
+    margin-bottom: 15px
+    &:last-child
+      margin-bottom: 0
+    a
+      border-radius: 3px
       color: #fff
-      border-radius: 999em
+      display: inline-block
+      font-family: system-ui,Open Sans,MundoSans,"Helvetica Neue",Arial,Helvetica,sans-serif
+      font-size: 15px
+      font-weight: 600
       line-height: 44px
-      padding: 0 18px
-      border: 1px solid rgba(255,255,255,0.3)
+      padding: 0 25px
+      text-decoration: none
+      &:hover
+        background: #16548E
+        cursor: pointer
 
 #disqus_thread
   margin-top: 50px

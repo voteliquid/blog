@@ -4,23 +4,23 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Liquid Democracy"
-description: > # this means to ignore newlines until "email:"
-   Bringing Liquid Democracy to the United States
+title: "The United Blog"
+description: Personalized Representation
 
-email: info@liquid.vote
+email: info@united.vote
 #blog logo
-logo: "/assets/images/icon-reduced-300.png"
+logo: "/assets/icon-reduced-300.png"
 # blog cover
-cover: "/assets/images/typewriter_cover.jpg"
+cover: "/assets/statue_of_liberty.jpg"
 
-paginate:	5
+paginate:	30
 permalink: pretty # remove .html from post urls
 
-url: "https://blog.liquid.vote" # the base hostname & protocol for your site
+url: "https://blog.united.vote" # url of the blog
+app_url: "https://united.vote" # link back to the main app
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@liquid_vote'
+twitter_handle: '@united_vote'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -28,22 +28,27 @@ twitter_handle: '@liquid_vote'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/liquid_vote
+    url:	https://twitter.com/united_vote
     desc: Follow us on twitter
+    username: "@united_vote"
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	facebook
-    url:	https://facebook.com/liquidvote/
+    url:	https://facebook.com/unitedvote/
+    username: "@unitedvote"
     desc: Connect with us on facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/liquidvote
-    desc:	Join us on GitHub
+  - icon: envelope
+    url:  mailto:info@united.vote
+    desc: Contact us by email
     share_url:
     share_title:
     share_link:
+
+sass:
+  sass_dir: css/_sass
