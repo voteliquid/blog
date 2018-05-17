@@ -28,7 +28,7 @@ We can create a better way.
 
 **United.vote** uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-To get started, you simply sign up at [www.united.vote](https://united.vote) and verify your identity with a $1 charge to a credit card in your name. ([Why?](https://united.vote/verification/identity))
+To get started, you simply sign up at [www.united.vote](https://united.vote) and [verify your identity](https://united.vote/verification/identity) with a temporary authorization charge to a debit or credit card in your name.
 
 ### Personalized Representation
 
