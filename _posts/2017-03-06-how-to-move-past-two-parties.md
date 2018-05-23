@@ -36,16 +36,16 @@ Social choice theory [proves](http://zesty.ca/voting/sim/) how our election rule
 
 Instead of winner-take-all, representation becomes proportional.
 
-51% of support from the electorate means only 51% of voting power in the legislature.
+51% of support from the electorate means 51% of voting power in the legislature.
 
 Everyone else — minority candidates — can still have a voice.
 
 #### We all become free to choose representatives right for us
 
-Representation is no longer limited to those at the top of the ballot, picked by a party elite.
+Representation is no longer limited to those at the top of the ballot, picked by party elite.
 
 It's foolish to keep pretending there are only two sides. Liquid democracy offers us a way out.
 
-Best of all, thanks to [United.vote](https://united.vote), we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
+Best of all, thanks to [United](https://united.vote), we can now [transition to liquid democracy](/2017/11/06/announcing-united-vote/) without needing to first pass new laws.
 
 [Join us](https://united.vote/join). Help create a healthier democracy.
