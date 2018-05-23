@@ -86,4 +86,4 @@ It can allow us to have a much more representative government, with much stronge
 
 And best of all, we can do it in a grassroots way, one step at a time, without needing to pass any new laws.
 
-Thanks to [United.vote](/2017/11/06/announcing-united-vote/), we can start to make a difference today. [Join us](https://united.vote/join).
+Thanks to [United](/2017/11/06/announcing-united-vote/), we can start to make a difference today. [Join us](https://united.vote/join).

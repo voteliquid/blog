@@ -49,6 +49,6 @@ Voters can choose among anyone to represent them, rather than being limited to a
 
 Many more people can participate in our political processes, and we can all have more options for better representation.
 
-**United.vote makes this [possible *today*](/2017/11/06/announcing-united-vote/).**
+**United makes this [possible *today*](/2017/11/06/announcing-united-vote/).**
 
 [Join us](https://united.vote/join).

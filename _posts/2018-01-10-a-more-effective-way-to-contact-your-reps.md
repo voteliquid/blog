@@ -13,7 +13,7 @@ When something big happens in the political world, you've probably been told to 
 
 Some people say "this is the most effective method" for day-to-day engagement.
 
-#### United.vote can make this easier
+#### United can make this easier
 
 United lets you vote for or against any bill, on a computer or your phone.
 
@@ -31,7 +31,7 @@ If you're going to call in, you may consider encouraging your friends and family
 
 We can make this much easier.
 
-Rather than needing to remind them every time, after you create a United.vote profile, other people can proxy their vote to you.
+Rather than needing to remind them every time, after you create a United profile, other people can proxy their vote to you.
 
 <img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/delegate-by-profile.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 280px" />
 
