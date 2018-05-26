@@ -27,13 +27,13 @@ These are people who believe in this new way, believe in the mission, and want t
 
 Imagine a city council with 15 members. A liquid candidate campaigns for just one of the seats. The other 14 remain the same as before.
 
-They pledge that if elected, they'll vote on every bill according to their district’s liquid democracy.
+A liquid candidate pledges that if elected, they'll vote on every bill according to their district’s liquid democracy.
 
 This could be as easy as pressing a button when their name is called to vote. Their app could perfectly announce their district’s decision, every time:
 
 ![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote-2.jpg)
 
-This way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And it only takes 51% of the voters.
+This way, a single district can now democratically choose to [upgrade their representation](/2017/10/27/liquid-democracy-is-not-direct-democracy/). And unlike most reform proposals, it only takes 51% of voters in a single district.
 
 **This gives us a grassroots strategy to bring liquid democracy to our real governments, without any legal changes. And with much lower risk than trying to change the system all at once.**
 
