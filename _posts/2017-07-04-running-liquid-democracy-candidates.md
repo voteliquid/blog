@@ -23,7 +23,7 @@ Right. But we have a new option open to us.
 
 We can run new candidates for office. "***Liquid Democracy Candidates***”.
 
-These are people who believe in this new way, believe in the mission, and want to give their neighbors a better way to represent themselves.
+These are people who believe in LD's potential, and want to give their neighbors a better way to represent themselves.
 
 Imagine a city council with 15 members. A liquid candidate campaigns for just one of the seats. The other 14 remain the same as before.
 
