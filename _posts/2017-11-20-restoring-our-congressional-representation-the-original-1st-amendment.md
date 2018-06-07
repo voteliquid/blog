@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Restoring Our Congressional Representation: The Original 1st Amendment"
+title: "Congressional Apportionment: The Original 1st Amendment"
 author: davidernst
 excerpt: "In 1787, when our Constitution was created, one of the many important debates was about the number of legislators we ought to have in Congress. Originally, there was a different 1st Amendment, that came before the one we think of now as our First Amendment."
 image: "/assets/article_images/2017/11-20-restoring-our-congressional-representation-the-original-1st-amendment/twitter_large.png"
