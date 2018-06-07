@@ -3,6 +3,7 @@ layout: post
 title: "Liquid Democracy Is Not Direct Democracy, and That's a Good Thing"
 author: davidernst
 excerpt: "Camilo Casas recently announced he's running as a liquid democracy candidate in Colorado. It's fantastic for expanding people's understanding of what's now possible."
+image: "/assets/article_images/2017/10-27-liquid-democracy-is-not-direct-democracy/twitter_large.png"
 ---
 
 <iframe src="https://www.youtube.com/embed/Ya1dNNzkQTE" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
