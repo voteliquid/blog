@@ -3,6 +3,7 @@ layout: post
 title: "Liquid Democracy is Inevitable"
 author: davidernst
 excerpt: "On every issue, a liquid majority seeks consensus among the greatest number of people. This makes liquid democracy a mathematical inevitability."
+image: "/assets/article_images/2018-06-01-liquid-is-inevitable/LD_is_Inevitable.png"
 ---
 
 In the future, a [liquid majority](/2016/09/21/what-is-liquid-democracy/) will seek consensus among the greatest number of people, on every issue.
