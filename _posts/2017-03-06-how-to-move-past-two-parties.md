@@ -4,6 +4,7 @@ title: "How to Move Past a Two-Party System"
 author: davidernst
 date: 2017-03-06
 excerpt: "Many Americans are fed up with our two-party system. But what can we do about it? Is it written in law?"
+image: "/assets/article_images/2017-03-06-how-to-move-past-two-parties/twitter_large.png"
 ---
 
 > "There is nothing which I dread so much as a division of the republic into two great parties, each arranged under its leader, and concerting measures in opposition to each other. This, in my humble apprehension, is to be dreaded as the greatest political evil under our Constitution."
