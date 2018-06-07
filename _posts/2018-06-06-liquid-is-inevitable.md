@@ -25,8 +25,8 @@ You can do it too.
 
 [We all can](https://united.vote/join).
 
-How will any individual candidate hope to compete?
+How can any individual politician hope to compete?
 
-#### As long as we continue to have elections, liquid democracy is mathematically inevitable.
+#### Liquid democracy is mathematically inevitable.
 
 Healthier democracy here we come.
