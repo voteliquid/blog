@@ -2,7 +2,7 @@
 layout: post
 title: "Unlocking the Long Tail of Politics: More Options for Better Representation"
 author: davidernst
-excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving so many people out. It doesn't have to be this way."
+excerpt: "Political capital is most likely distributed along a power law. But our current electoral process cuts off the Long Tail, leaving most people out. It doesn't have to be this way."
 ---
 
 Political capital, the "trust, goodwill, and influence a politician has with the public and other political figures", is most likely distributed along a [power law](https://en.wikipedia.org/wiki/Power_law).
