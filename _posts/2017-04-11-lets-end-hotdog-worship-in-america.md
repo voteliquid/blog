@@ -4,6 +4,7 @@ title: Let’s End Hotdog Worship In America
 author: gregslepak
 date: 2017-04-11
 excerpt: ''
+image: "/assets/article_images/2016-04-11-lets-end-hotdog-worship-in-america/twitter_large.png"
 ---
 
 <p style="margin: 0; margin-top: 30px; background-color: #ddd; padding: 5px 10px;">
