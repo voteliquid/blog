@@ -3,7 +3,7 @@ layout: post
 title: What is Liquid Democracy?
 author: davidernst
 date: 2016-09-21 14:34:25
-excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into an authentic and practical combination."
+excerpt: "Liquid democracy is a 21st-century upgrade for democratic decision making. It blends the best of direct and representative systems into a smarter and more accountable combination."
 ---
 
 <iframe src="https://www.youtube.com/embed/BvA0J_2ZpIQ" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
@@ -30,7 +30,7 @@ And so we elect dedicated political **representatives**.
 
 Instead of expecting everyone to know the ins-and-outs of policy, we give the work to a small number of legislators.
 
-535 in our country of over 300,000,000.
+535 for our country of 320,000,000.
 
 **This helps, but introduces new [problems](/assets/article_images/2016-09-21-what-is-liquid-democracy/congressional-approval-history.png):**
 
@@ -106,4 +106,4 @@ By adopting liquid democracy, we can empower our most trustworthy leaders, give 
 
 We're creating technology for healthier representation at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like a constitutional amendment.
 
-But we do need you. ***Join us.*** Sign up to show your support and find out more: [www.united.vote](https://united.vote).
+***Join us.*** Sign up for more info: [www.united.vote](https://united.vote).
