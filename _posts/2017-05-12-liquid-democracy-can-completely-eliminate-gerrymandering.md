@@ -3,6 +3,7 @@ layout: post
 title: Liquid Democracy Can Completely Eliminate Gerrymandering
 author: davidernst
 excerpt: "What is gerrymandering and how can liquid democracy address it?"
+image: "/assets/article_images/2017-05-12-liquid-democracy-can-completely-eliminate-gerrymandering/twitter_large.png"
 ---
 
 <iframe src="https://www.youtube.com/embed/Mky11UJb9AY" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
