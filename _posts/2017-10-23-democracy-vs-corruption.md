@@ -3,6 +3,7 @@ layout: post
 title: "Democracy vs. Corruption: How to Really Drain the Swamp"
 author: davidernst
 excerpt: "Democratic corruption is when an elected leader betrays their responsibilities to their voters, enriching themselves or close allies instead. Unfortunately, most Americans consistently report seeing widespread government corruption..."
+image: "/assets/article_images/2017-08-27-democracy-vs-corruption/twitter_large.png"
 ---
 
 > When you give, they do whatever the hell you want them to do... I will tell you that our system is broken.
