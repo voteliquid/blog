@@ -3,6 +3,7 @@ layout: post
 title: "Liquid Democracy Candidates: How to Upgrade Our Legislature, One Seat at a Time"
 author: davidernst
 excerpt: "We’re at a critical political moment, when an unprecedented number of people express frustration with the status quo. There's demand from left, right, and center for new ways of doing things."
+image: "/assets/article_images/2017-07-04-running-liquid-democracy-candidates/twitter_large.png"
 ---
 
 > Let us not be afraid to help each other — let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and Senators and Congressmen and Government officials but the voters of this country.
