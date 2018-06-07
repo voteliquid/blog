@@ -3,6 +3,7 @@ layout: post
 title: "How Legislation Will Be Written in the Future"
 author: davidernst
 excerpt: "We have an opportunity to transform our legislative process from one-bill-at-time, among a tiny set of legislators, to asynchronous online debate."
+image: "/assets/article_images/2018/05/twitter_large.png"
 ---
 
 Facilitating more thoughtful policy is one of our fundamental goals for [United](https://united.vote).
