@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
-    </div>
+<div class="header-bar" style="margin-bottom: 70px">
+  <div class="title-container">
+    <p class="blog-title"><a href="/">{{ site.title }}</a></p>
+  </div>
 </div>
 
-<header class="blog-header">
+<header class="blog-header" style="display: none;">
     {% if site.logo %}
       <a class="blog-logo" href="{{site.app_url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
