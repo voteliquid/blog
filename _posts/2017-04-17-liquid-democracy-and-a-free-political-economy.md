@@ -36,7 +36,7 @@ Some elected reps make an incredible effort to connect with their constituents, 
 
 We can try to call our reps to share how we feel, but this process offers little accountability or transparency.
 
-Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often than we do now. Our democracy reflects the constraints of [the time](/2017/02/09/why-hasnt-voting-changed/) it was developed.
+Traditionally, it has been [too expensive](https://twitter.com/dsernst/status/845566576245927936) to vote more often than we do now. Our democracy reflects the constraints of the time it was developed.
 
 But our modern age appears to rapidly outpace our government's capacity to respond.
 
@@ -46,7 +46,7 @@ But our modern age appears to rapidly outpace our government's capacity to respo
 
 All citizens can now use the [United platform](https://united.vote) to directly vote for and against legislation—something previously limited to the 0.0001% of elected legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
 
-On top of this, individuals may select *personal* representatives to vote on legislation for them.
+On top of this, individuals may select *personal* representatives to also vote on legislation for them.
 
 Now anyone can become a 'liquid politician'. This greatly expands the political economy's supply, since liquid politicians can still be influential without anywhere close to 50% of their jurisdiction’s vote.
 
@@ -78,4 +78,4 @@ Join us.
 
 We're creating technology to allow liquid democracy at the local, state, and national level, without constitutional amendments.
 
-Consider [signing up](https://united.vote/join) to stay updated and show your support.
+[Sign up](https://united.vote/join) to stay updated and show your support.
