@@ -99,7 +99,7 @@ body
       font-size: 41px
   .blog-description
     margin: 0 0 20px
-    font-size: 22px
+    font-size: 29px
     line-height: 1.5
     color: #666
     text-align: center
@@ -576,14 +576,14 @@ body
       font-size: 28px
   .blog-description
     cursor: default
-    font-size: 22px
+    font-size: 29px
     font-weight: 600
     letter-spacing: 0.3px
     margin: 0 0 40px
     @include respond-to(475)
-      font-size: 18px
+      font-size: 24px
     @include respond-to(350)
-      font-size: 15px
+      font-size: 22px
   .subscribe-cta
     a
       background-color: #2b71b1
@@ -601,6 +601,8 @@ body
       &:hover
         background-color: #16548E
         cursor: pointer
+      @include respond-to(475)
+        padding: 15px 23px
   .btn
     margin-bottom: 15px
     &:last-child
