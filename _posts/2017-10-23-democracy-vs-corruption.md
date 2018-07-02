@@ -65,27 +65,29 @@ If the number of active legislators goes up by orders of magnitude, so does the 
 
 It's not that corruption goes away entirely, but it can become much more difficult.
 
-And remember, liquid democracy means real accountability for representatives. If you no longer feel like they fight for your interests, you can replace them immediately, no questions asked.
+And remember, liquid democracy means real accountability from representatives. If you no longer feel like they fight for your interests, you can replace them immediately, no questions asked.
 
 #### "Sunlight is said to be the best of disinfectants"
 
-One may still wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good point to consider.
+One may still wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good question.
 
-But compare it to our current system: would it really be easier to organize blatant political corruption at this scale? More cost effectively?
+But compared to our current system: would it really be easier to organize blatant political corruption this way? More cost effectively?
 
 Not even close.
 
-Sure, deep pocketed influencers might hypothetically be able to buy off a few financially desperate voters.
+Deep pocketed influencers might hypothetically be able to buy off a few financially desperate voters.
 
-But right now, our 535 legislators each represent an average of 700,000 constituents, so the cost per voter would have to be 700,000 times less than the cost per legislator.
+But right now, our 535 legislators each represent an average of 700,000 constituents, so the cost per voter would have to be 700,000 times less than the cost per legislator, just to break even.
 
-In other words, a member of Congress would have to sell out for no less than $700,000 today, whereas every regular citizen would need to be convinced for less than $1. Just to break even.
+In other words, you'd need to convince every citizen to sell out for only $1, for the same issue that would cost a single elected representative $700,000.
 
 And all of this is supposed to happen, at scale, without leaving massive amounts of evidence?
 
-Both briber and bribee would still be breaking the law, [facing fines up to $10,000 and 2 years in jail, per instance](https://www.law.cornell.edu/uscode/text/18/597). It's hard to see many people finding that worth the risk for such a tiny payout.
+Both briber and bribee would still be breaking the law, [facing fines up to $10,000 and 2 years in jail, per instance](https://www.law.cornell.edu/uscode/text/18/597).
 
-Compared to our current situation, **liquid democracy can have a massive impact towards reducing corruption** in our legislatures.
+It's hard to see many people finding this worth the risk, for such a tiny payout.
+
+So compared to our current situation, **liquid democracy can have a massive impact towards reducing corruption** in our legislatures.
 
 -----
 
@@ -93,11 +95,13 @@ Compared to our current situation, **liquid democracy can have a massive impact 
 
 There are many other efforts to reduce political corruption, and we whole-heartedly support them.
 
-But importantly, working towards liquid democracy has a huge strategic advantage, because we can [begin to adopt it](/2017/11/06/announcing-united-vote/) immediately, without waiting on the legislature to pass new laws against their own interests.
+But importantly, working towards liquid representation has a huge strategic advantage, because we can [begin to adopt it](/2017/11/06/announcing-united-vote/) immediately, without waiting on the legislature to pass new laws against their own entrenched interests.
 
-Once 51% of voters in a single district are on board, we can elected a [Liquid Democracy Candidate](/2017/07/04/running-liquid-democracy-candidates/) to upgrade that district's representation.
+It only takes 51% of voters in a single district — enough to elect a [Liquid Candidate](/2017/07/04/running-liquid-democracy-candidates/) — to improve the district's representation.
 
-Help make this happen by [joining United](https://united.vote/join).
+This is [inevitable](https://blog.united.vote/2018/06/06/liquid-is-inevitable/).
+
+Help make it happen by [joining United](https://united.vote/join) today.
 
 > Our first priority today is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >

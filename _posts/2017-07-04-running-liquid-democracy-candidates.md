@@ -14,17 +14,17 @@ We’re at a critical political moment, when an unprecedented number of people e
 
 **Liquid democracy** is a promising alternative: the option to vote directly on policy, plus personalized representation. Empower *anyone* you trust to represent you when you don't vote yourself. ([Learn more](/2016/09/21/what-is-liquid-democracy/).)
 
-When first learning about liquid democracy, many people often say something like:
+When first learning about liquid voting, many people often say something like:
 
 > "This sounds great. But it must be too hard to make happen. It will be decades before we can pass a constitutional amendment."
 
-Right. But we have a new option open to us.
+Sure. But we have a unique path possible.
 
 ### We use the old system to adopt a new one.
 
-We can run new candidates for office. "***Liquid Democracy Candidates***”.
+We can run new candidates for office. "***Liquid Candidates***”.
 
-These are people who believe in LD's potential, and want to give their neighbors a better way to represent themselves.
+These are people who believe in Liquid's potential, and want to give their neighbors a better way to represent themselves.
 
 Imagine a city council with 15 members. A liquid candidate campaigns for just one of the seats. The other 14 remain the same as before.
 
@@ -40,6 +40,6 @@ This way, a single district can now democratically choose to [upgrade their repr
 
 --------
 
-#### We'd love to hear from you
+#### Reach out
 
 If you're considering championing liquid democracy for your district, email [candidates@united.vote](mailto:candidates@united.vote). We can give you everything you need to be successful.
