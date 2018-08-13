@@ -13,11 +13,9 @@ pinned: true
 
 ### You deserve more of a voice in Congress.
 
-Right now, elections are our only legal way to participate.
+Our elections offer limited options dominated more by personalities than real policy debate.
 
-But elections invite a game of stagecraft: limited options dominated by personalities over policy.
-
-The massive costs to campaign, combined with "[pick the lesser of two evils](/2017/03/06/how-to-move-past-two-parties/)" election rules, create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
+The massive costs to campaign, combined with "[pick the lesser of two evils](/2017/03/06/how-to-move-past-two-parties/)" voting rules, create an environment ripe for [corruption](/2017/10/23/democracy-vs-corruption/).
 
 For decades now, our country has only [grown more divided](/assets/article_images/2017-11-06-announcing-united-vote/polarization-over-time.png).
 
@@ -29,7 +27,7 @@ We can create a better way.
 
 **United.vote** uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-To get started, you simply sign up at [www.united.vote](https://united.vote) and [verify your identity](https://united.vote/verification/identity) with a temporary authorization charge to a debit or credit card in your name.
+To get started, you simply sign up at [www.united.vote](https://united.vote) and [verify your identity](https://united.vote/verification/identity).
 
 ### Personalized Representation
 
@@ -43,17 +41,19 @@ And your representatives can pick their own trusted representatives, creating a 
 
 ### Join us
 
-United [**grades**](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) every Member of Congress based on how well they truly represent their constituents.
+United **grades** every Legislator based on how well they truly represent their constituents.
 
-We can make it transparent when they fail to listen.
+We can make it transparent when they don't listen.
 
-This can force Congress to more closely follow the will of the people, or risk [someone running against them who will](/2017/07/04/running-liquid-democracy-candidates/).
+This can help Congress more closely follow the will of the people, or risk [someone running against them who will](/2017/07/04/running-liquid-democracy-candidates/).
 
-This means we can start to build a better democracy *today*, without changing a single law. [**Join us**](https://united.vote/join).
+This means we can start to build a better democracy right now, without waiting on a constitutional amendment.
 
 This can help us address the many problems facing our country, so that we can build a republic stronger than ever before.
 
-Reach out — [**support@united.vote**](mailto:support@united.vote) — with any questions, concerns, or support. We'd love to hear from you.
+[**Join us**](https://united.vote/join).
+
+Reach out with any questions, concerns, or support. [**support@united.vote**](mailto:support@united.vote)
 
 > Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
 >
