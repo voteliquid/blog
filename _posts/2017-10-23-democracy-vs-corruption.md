@@ -1,93 +1,60 @@
 ---
 layout: post
-title: "Democracy vs. Corruption: How to Really Drain the Swamp"
+title: "Liquid Democracy is the Most Promising Way to Fix Money in Politics"
 author: davidernst
 excerpt: "Democratic corruption is when an elected leader betrays their responsibilities to their voters, enriching themselves or close allies instead. Unfortunately, most Americans consistently report seeing widespread government corruption..."
 image: "/assets/article_images/2017-08-27-democracy-vs-corruption/twitter_large.png"
 ---
 
-> When you give, they do whatever the hell you want them to do... I will tell you that our system is broken.
->
-> — President Donald Trump, [August 2015](https://www.youtube.com/watch?v=e4tHW9_bb08)
+Four years ago, [an infamous study](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B) by professors from Princeton and Northwestern Universities reached a dramatic conclusion. As they wrote:
 
-Democratic corruption is when an elected leader betrays their responsibilities, enriching themselves or close allies instead of serving their constituents.
+> Multivariate analysis indicates that economic elites and organized groups representing business interests have substantial independent impacts on US government policy, while average citizens and mass-based interest groups have little or no independent influence.
 
-Unfortunately, most Americans consistently report perceiving [widespread government corruption](http://www.gallup.com/poll/185759/widespread-government-corruption.aspx):
+[![](https://blog.united.vote/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](https://blog.united.vote/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
 
-#### Is corruption widespread throughout the government in this country, or not?
+Our current president [put the situation more succinctly](https://www.youtube.com/watch?v=e4tHW9_bb08) on the campaign trail.
 
-![](/assets/article_images/2017-08-27-democracy-vs-corruption/gallup-is-corruption-widespread.jpg)
+> When you give, they do whatever the hell you want them to… I will tell you that our system is broken.
 
-We have an intuitive sense that money buys influence.
+The uncomfortable conclusion is that American democracy has become a façade propped up by powerful special interests. It’s not hard to see. [Gallup reported](https://news.gallup.com/poll/185759/widespread-government-corruption.aspx) in 2007 that 66% of Americans perceived corruption as “widespread throughout the government in this country.” In 2015, that number rose to 75%.
 
-According to researcher Lee Drutman ([The Business of America is Lobbying](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780190215514.001.0001/acprof-9780190215514)), private interests not only sense that money buys influence, they act on it:
+Outside money heavily impacts [both major political parties](https://www.opensecrets.org/news/2010/11/democrats-and-republicans-sharing-b/). The Congressional Research Service has reported, as [summarized](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/) by researcher Lee Drutman:
 
-> “For every dollar spent on lobbying by labor unions and public-interest groups together, large corporations and their associations now spend $34.” ([source](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/))
+> Corporate lobbying began to exceed the combined House-Senate budget in the early 2000s, reaching 2.6 billion dollars per year in 2015…. For every dollar spent on lobbying by labor unions and public interest groups together, corporations and their associations now spend $34.
 
-And this is not a simple partisan issue:
+We can already observe the effects of this imbalanced system. And taken far enough, corruption can lead to societal breakdown. The IMF [warns that](https://www.imf.org/external/pubs/ft/sdn/2016/sdn1605.pdf) “distrust of government can become so pervasive that it can lead to violence, civil strife, and conflict, with devastating social and economic implications”.
 
-> OpenSecrets.org: [“Corporations Give Big to Both Side... Democrats and Republicans Share Big-Dollar Donors”](https://www.opensecrets.org/news/2010/11/democrats-and-republicans-sharing-b/)
+#### The Root of the Problem
 
-#### Is all that money having any effect?
+Part of the issue is that all our legislative power is in the hands of people who have won elections. For our nation, that’s the 535 elected Members of Congress—or 0.00016% of the population.
 
-It appears so, per results like the infamous [2014 Princeton Study](http://www.bbc.com/news/blogs-echochambers-27074746), an exhaustive review across more than 1700 different policy issues:
+In order to win elections, you have to raise huge amounts of money. One estimate is that the average successful Senate campaign requires raising fourteen thousand dollars every day for six years. Even after being elected, [Congress members are pressured to spend the majority of their time fundraising](https://www.huffingtonpost.com/2013/01/08/call-time-congressional-fundraising_n_2427291.html), rather than representing us. And the nature of fundraising means our representatives spend most of their time looking for support from the wealthy, ignoring the interests of the majority of their constituents.
 
-[![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
+There are a number of good ideas to address these issues of democratic corruption. But there is a new paradigm called ***[liquid democracy](/2016/09/21/what-is-liquid-democracy/)***, that’s worth paying particular attention to.
 
-------------
+Liquid democracy is a new way of selecting representatives, made possible by 21st-century technology, where we get to pick our own representatives, or even represent ourselves directly when we want.
 
-#### What is the cost of corruption?
+#### A liquid democratic legislature can be orders of magnitude more resistant to corruption.
 
-The most obvious cost is our taxpayer funds being used for crony handouts.
+In one sense, this can be demonstrated by a simple equation.
 
-But on top of this, researchers identify [dire second-order effects](http://www.imf.org/external/pubs/ft/sdn/2016/sdn1605.pdf):
+Consider that right now, there are 535 elected legislators for the United States—100 in the Senate and 435 in the House.
 
-> Corruption can undermine the state's ability to deliver inclusive economic growth in a
-number of different areas. When government functions are impaired, it can adversely affect a
-number of important determinants of economic performance, including macro financial stability,
-investment, human capital accumulation, and total factor productivity. Moreover, when systemic
-corruption affects virtually all state functions, distrust of government can become so pervasive that **it
-can lead to violence, civil strife, and conflict, with devastating social and economic implications**.
+Assume for the sake of simplicity that it costs $50,000 to swing an individual vote. Then the cost to "[capture](https://en.wikipedia.org/wiki/Regulatory_capture)" a majority of the legislature would be as low as $13,375,000: well within the reach of a corporate lobby.
 
-#### But a liquid democratic legislature could be orders-of-magnitude more resistant to corruption.
-
-Consider this:
-
-1. Right now, we have 535 elected legislators for the entire United States (100 Senate + 435 House).
-
-1. Let's assume, for simple analysis, that buying enough influence to tip one member's vote on one issue costs $50,000.
-
-1. That means that the cost to "[capture](https://en.wikipedia.org/wiki/Regulatory_capture)" a majority of the legislature would be `(535 / 2) * 50,000`: $13,375,000.
-
-Now contrast that with a [liquid democratic system](/2016/09/21/what-is-liquid-democracy/), which could scale to include thousands of times as many active participants.
-
-If the number of active legislators goes up by orders of magnitude, so does the total cost of capturing a majority of them.
+Whereas, a liquid democratic system could scale to include thousands of times as many active participants—elevating the cost of capture by the same scale.
 
 It's not that corruption goes away entirely, but it can become much more difficult.
 
-And remember, liquid democracy means real accountability from representatives. If you no longer feel like they fight for your interests, you can replace them immediately, no questions asked.
+Some have raised the question whether having many more lawmakers might allow nefarious deals to more easily slip through the cracks. But the whole reason corruption is effective today is because of the relatively minuscule number of legislators, who each represent an average of 700,000 constituents.
 
-#### "Sunlight is said to be the best of disinfectants"
+With a network of liquid proxies reaching between each citizen, the activity of corruption would have to be undertaken at massive scale—and leave similarly massive amounts of evidence.
 
-One may still wonder if having many more lawmakers might make it easier for nefarious deals to slip through the cracks. This is a good question.
+Furthermore, in a liquid system, constituents can override their representatives’ votes, or even replace them “on the fly” if they're no longer trusted. This means genuine accountability.
 
-But compared to our current system: would it really be easier to organize blatant political corruption this way? More cost effectively?
+And in every individual instance, both briber and bribee would still be breaking the law, [facing fines up to $10,000 and 2 years in jail, per instance](https://www.law.cornell.edu/uscode/text/18/597). The reward just isn’t worth the risk.
 
-Not even close.
-
-Deep pocketed influencers might hypothetically be able to buy off a few financially desperate voters.
-
-But right now, our 535 legislators each represent an average of 700,000 constituents, so the cost per voter would have to be 700,000 times less than the cost per legislator, just to break even.
-
-In other words, you'd need to convince every citizen to sell out for only $1, for the same issue that would cost a single elected representative $700,000.
-
-And all of this is supposed to happen, at scale, without leaving massive amounts of evidence?
-
-Both briber and bribee would still be breaking the law, [facing fines up to $10,000 and 2 years in jail, per instance](https://www.law.cornell.edu/uscode/text/18/597).
-
-It's hard to see many people finding this worth the risk, for such a tiny payout.
-
-So compared to our current situation, **liquid democracy can have a massive impact towards reducing corruption** in our legislatures.
+Compared to our current situation, **liquid democracy can have a massive impact towards reducing corruption** in our legislatures.
 
 -----
 
@@ -99,7 +66,7 @@ But importantly, working towards liquid representation has a huge strategic adva
 
 It only takes 51% of voters in a single district — enough to elect a [Liquid Candidate](/2017/07/04/running-liquid-democracy-candidates/) — to improve the district's representation.
 
-This is [inevitable](https://blog.united.vote/2018/06/06/liquid-is-inevitable/).
+This is [inevitable](/2018/06/06/liquid-is-inevitable/).
 
 Help make it happen by [joining United](https://united.vote/join) today.
 
