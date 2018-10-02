@@ -95,8 +95,8 @@ But we
 This idea is gaining more and more traction:
 
 - See Jordan Greenhall's
-- See Jim Rutt's
-- See Jim Rutt's
+- See Jim Rutt's 1st essay
+- See Jim Rutt's 2nd essay
 - See Rohan Dixit's 'The Internet Party: How '
 - See Dominik Scheider's 'Liquid Democracy: True Democracy for the 21st Century'
 
@@ -106,4 +106,4 @@ This idea is gaining more and more traction:
 
 If you live in Indiana or Missouri or Colorado or Washington or Texas or Virginia or New York or Florida or Arkansas, you can join existing efforts to get a Liquid Candidate on the ballot.
 
-Reach out: [david@united.vote](mailto:david@united.vote)
+Reach out: [david@liquid.us](mailto:david@liquid.us)

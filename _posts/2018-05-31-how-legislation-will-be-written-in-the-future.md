@@ -6,9 +6,9 @@ excerpt: "We have an opportunity to transform our legislative process from one-b
 image: "/assets/article_images/2018/05/twitter_large.png"
 ---
 
-Facilitating more thoughtful policy is one of our fundamental goals for [United](https://united.vote).
+Facilitating more thoughtful policy is one of our fundamental goals for [Liquid](https://liquid.us).
 
-We have an opportunity to transform our legislative process from one-bill-at-time, among a [tiny set of legislators](https://blog.united.vote/2017/04/11/lets-end-hotdog-worship-in-america/), to asynchronous online debate.
+We have an opportunity to transform our legislative process from one-bill-at-time, among a [tiny set of legislators](/2017/04/11/lets-end-hotdog-worship-in-america/), to asynchronous online debate.
 
 Currently, the party with majority control [strictly limits](https://en.wikipedia.org/wiki/Hastert_Rule) the items brought to the floor.
 

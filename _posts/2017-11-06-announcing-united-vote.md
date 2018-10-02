@@ -6,6 +6,12 @@ excerpt: "You deserve more of a voice in Congress. Together, we can build a bett
 image: "/assets/article_images/2017/11-06-announcing-united-vote/twitter_large.png"
 ---
 
+----------
+
+***UPDATE (Oct 2, 2018):*** United.vote is now Liquid US. [Learn more](/2018/10/02/introducing-liquid-us/).
+
+----------
+
 <iframe src="https://www.youtube.com/embed/XMrRrzYXav8" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
 
 <br />
@@ -26,7 +32,7 @@ We can create a better way.
 
 **United.vote** uses [liquid democracy](/2016/09/21/what-is-liquid-democracy/) to provide a simple process for all Americans to have their voice heard on every bill before Congress.
 
-To get started, you simply sign up at [www.united.vote](https://united.vote) and [verify your identity](https://united.vote/verification/identity).
+To get started, you simply sign up at [www.united.vote](https://liquid.us) and [verify your identity](https://liquid.us/verification/identity).
 
 ### Personalized Representation
 
@@ -50,9 +56,9 @@ This means we can start to build a better democracy right now, without waiting o
 
 This can help us address the many problems facing our country, so that we can build a republic stronger than ever before.
 
-[**Join us**](https://united.vote/join).
+[**Join us**](https://liquid.us/join).
 
-Reach out with any questions, concerns, or support. [**support@united.vote**](mailto:support@united.vote)
+Reach out with any questions, concerns, or support. [**support@united.vote**](mailto:support@liquid.us)
 
 > Our Founding Fathers, here in this country, brought about the only true revolution that has ever taken place in man’s history. Every other revolution simply exchanged one set of rulers for another set of rulers. But only here did that little band of men so advanced beyond their time that the world has never seen their like since, evolve the idea that you and I have within ourselves the God-given right and the ability to determine our own destiny.
 >

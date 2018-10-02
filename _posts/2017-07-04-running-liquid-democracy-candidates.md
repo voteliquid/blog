@@ -42,4 +42,4 @@ This way, a single district can now democratically choose to [upgrade their repr
 
 #### Reach out
 
-If you're considering championing liquid democracy for your district, email [candidates@united.vote](mailto:candidates@united.vote). We can give you everything you need to be successful.
+If you're considering championing liquid democracy for your district, email [candidates@liquid.us](mailto:candidates@liquid.us). We can give you everything you need to be successful.

@@ -4,10 +4,10 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "The United Blog"
+title: "The Liquid Blog"
 description: Healthier Democracy
 
-email: info@united.vote
+email: info@liquid.us
 #blog logo
 logo: "/assets/icon-reduced-300.png"
 # blog cover
@@ -18,8 +18,8 @@ twitter_large: "/assets/twitter_large.png"
 paginate:	30
 permalink: pretty # remove .html from post urls
 
-url: "https://blog.united.vote" # url of the blog
-app_url: "https://united.vote" # link back to the main app
+url: "https://blog.liquid.us" # url of the blog
+app_url: "https://liquid.us" # link back to the main app
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@united_vote'
@@ -46,7 +46,7 @@ social:
     share_link: "&amp;u="
 
   - icon: envelope
-    url:  mailto:info@united.vote
+    url:  mailto:info@liquid.us
     desc: Contact us by email
     share_url:
     share_title:

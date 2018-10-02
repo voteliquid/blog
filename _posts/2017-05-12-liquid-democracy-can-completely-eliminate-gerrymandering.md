@@ -66,6 +66,6 @@ That's what a fair political process looks like.
 
 -----
 
-Thanks to [United](/2017/11/06/announcing-united-vote/), we can start to restore representation *today*, without needing to first pass any new laws.
+Thanks to [Liquid US](/2017/11/06/announcing-united-vote/), we can start to restore representation *today*, without needing to first pass any new laws.
 
 In the future, as we elect more [liquid democracy candidates](/2017/07/04/running-liquid-democracy-candidates/), we can proportionally distribute their assigned votes on legislation to more closely match all constituents, combined across every liquid democracy district, completely erasing old gerrymandered lines.

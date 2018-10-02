@@ -61,7 +61,7 @@ You can also empower trusted proxies with your extra vote, for whenever you don'
 
 Unlike an electoral system, these are *personal representatives*.
 
-Any time you don't vote on a piece of legislation, our liquid democracy platform [United.vote](https://united.vote) looks up how your personal representatives felt and automatically adopts their position.
+Any time you don't vote on a piece of legislation, our liquid democracy platform [Liquid US](https://liquid.us) looks up how your personal representatives felt and automatically adopts their position.
 
 You can select anyone in your jurisdiction. The people you already know and trust now become options to represent you.
 
@@ -107,4 +107,4 @@ By adopting liquid democracy, we can empower our most trustworthy leaders, give 
 
 We're creating technology for healthier representation at the local, state, and national level. And [we can do it without legal changes](/2017/07/04/running-liquid-democracy-candidates/) like a constitutional amendment.
 
-***Join us.*** Sign up for more info: [www.united.vote](https://united.vote).
+***Join us.*** Sign up for more info: [www.liquid.us](https://liquid.us).

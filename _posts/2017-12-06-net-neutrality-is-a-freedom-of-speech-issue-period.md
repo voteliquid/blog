@@ -2,10 +2,10 @@
 layout: post
 title: "Net Neutrality Is a Freedom of Speech Issue"
 author: gregslepak
-excerpt: "Net Neutrality is not about cost, in exactly the same way murder and freedom are not about cost. It's about you having equal access to speech, and is vital to services like United."
+excerpt: "Net Neutrality is not about cost, in exactly the same way murder and freedom are not about cost. It's about you having equal access to speech, and is vital to services like Liquid."
 ---
 
-Net Neutrality is vital to access online services that challenge existing power structures, including [United](/2017/11/06/announcing-united-vote/).
+Net Neutrality is vital to access online services that challenge existing power structures, including [Liquid](/2017/11/06/announcing-united-vote/).
 
 But some critics misunderstand Net Neutrality, arguing that repealing these protections could lead to greater market competition.
 
@@ -39,7 +39,7 @@ It's about you being able to purchase the books and material you want.
 
 Whether Netflix/Amazon/whoever ship "housefuls of furniture" is completely irrelevant to Net Neutrality.
 
-Given 1000 units of "bandwidth" that you purchased, you can use those 1000 units of bandwidth for whatever you want, whether it's Netflix, Amazon, or [United](https://united.vote).
+Given 1000 units of "bandwidth" that you purchased, you can use those 1000 units of bandwidth for whatever you want, whether it's Netflix, Amazon, or [Liquid](https://liquid.us).
 
 That is all Net Neutrality is, and anyone who supports Freedom of Speech supports Net Neutrality.
 

@@ -21,12 +21,12 @@ While these are extreme examples, it is hardly uncommon for Americans to feel li
 
 But there’s now a better way to choose our representatives.
 
-[United](http://united.vote/), using [liquid democracy](https://www.youtube.com/watch?v=Ya1dNNzkQTE), allows voters to choose anyone they trust as one of several personal representatives in Congress. Contrast that with our current system where we choose from a narrow pool of candidates to find one person to represent millions on every single bill.
+[Liquid US](http://liquid.us/), using [liquid democracy](https://www.youtube.com/watch?v=Ya1dNNzkQTE), allows voters to choose anyone they trust as one of several personal representatives in Congress. Contrast that with our current system where we choose from a narrow pool of candidates to find one person to represent millions on every single bill.
 
-[This is possible *today*, without passing a single constitutional amendment or law](https://blog.united.vote/2017/11/06/announcing-united-vote/).
+[This is possible *today*, without passing a single constitutional amendment or law](/2017/11/06/announcing-united-vote/).
 
 With liquid, every voter can vote directly on any bill. Whenever a voter chooses not to vote, one of their representatives casts the vote on their behalf. Since voters can override their representative’s vote, this allows voters to defer to experts to handle the day-to-day process of legislating while still retaining final say.
 
 Best of all, this happens without polarizing elections pitting Americans against Americans over flawed candidates.
 
-We’re building a democracy where every voter has representation they trust. [Join us](https://united.vote/join).
+We’re building a democracy where every voter has representation they trust. [Join us](https://liquid.us/join).

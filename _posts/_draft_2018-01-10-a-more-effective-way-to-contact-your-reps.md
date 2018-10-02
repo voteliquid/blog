@@ -57,13 +57,13 @@ If they want to ignore you, would they share this information?
 
 If you verify your identity, we can use your votes to score elected legislators for how much they actually listen to their constituents.
 
-[Verification](https://united.vote/get_started/verification) requires a $1 one-time charge to a credit or debit card in your name, which helps prevent fake accounts & cover our costs.
+[Verification](https://liquid.us/get_started/verification) requires a $1 one-time charge to a credit or debit card in your name, which helps prevent fake accounts & cover our costs.
 
 We then [grade](/2017/12/08/give-your-rep-an-f-introducing-united-legislator-grades/) all elected Members of Congress against each other, on a curve, for how much they listen & ignore their constituents.
 
 <!-- TODO: Example of grades -->
 
-You can still use United without verifying, and we'll still send your votes and messages to your reps, but we can't include unverified votes in the public grades.
+You can still use Liquid without verifying, and we'll still send your votes and messages to your reps, but we can't include unverified votes in the public grades.
 
 #### But we're often too busy
 
@@ -91,7 +91,7 @@ And if 51% of voters in a district agree, we can [elect new candidates](/2017/07
 
 ![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote-2.jpg)
 
-We want to make this easy, [secure](https://secure.united.vote), & trustworthy.
+We want to make this easy, [secure](https://secure.liquid.us), & trustworthy.
 
 This offers us a path to badly needed reform, that doesn't depend on waiting for Congress to first make changes that go against their own interests.
 
@@ -101,9 +101,9 @@ This vision only goes anywhere if a majority find it better than what we have no
 
 United exists so we can start to build support for it immediately, so we can learn what works and what doesn't, even before any [Liquid Democracy Candidates](/2017/07/04/running-liquid-democracy-candidates/) are elected.
 
-If it intrigues you, take 30 seconds to enter your email on this [Join page](https://united.vote/join). It's free and we won't share it with anyone.
+If it intrigues you, take 30 seconds to enter your email on this [Join page](https://liquid.us/join). It's free and we won't share it with anyone.
 
-<a href="https://united.vote/join"><img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/join-form.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 300px" /></a>
+<a href="https://liquid.us/join"><img src="/assets/article_images/2018-01-10-a-more-effective-way-to-contact-your-reps/join-form.png" style="box-shadow: 0px 7px 25px 0px #595959; border: 1px #979797 solid; border-radius: 2px; height: 300px" /></a>
 
 We'll give you more instructions, which you can complete now or later, and keep you informed about major announcements.
 
@@ -117,7 +117,7 @@ Our grassroots strategy to realize it offers a massive advantage vs. similar wel
 
 We've only just started. We still have a long way to go. And we'd love for you to join us.
 
-<p style="text-align: center"><a href="https://united.vote">www.united.vote</a></p>
+<p style="text-align: center"><a href="https://liquid.us">www.liquid.us</a></p>
 
 <br />
 

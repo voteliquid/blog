@@ -68,7 +68,7 @@ It only takes 51% of voters in a single district — enough to elect a [Liquid C
 
 This is [inevitable](/2018/06/06/liquid-is-inevitable/).
 
-Help make it happen by [joining United](https://united.vote/join) today.
+Help make it happen by [joining Liquid US](https://liquid.us/join) today.
 
 > Our first priority today is to defeat utterly those forces of greed and corruption that have come between us and our self-governance.
 >

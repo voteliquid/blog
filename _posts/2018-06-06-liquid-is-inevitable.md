@@ -18,13 +18,13 @@ Each of us is incentivized to recruit new people.
 
 *For example:*
 
-> **Goto [united.vote/david](https://united.vote/david) and Proxy to me**
+> **Goto [liquid.us/david](https://liquid.us/david) and Proxy to me**
 
 This increases my voting power & influence.
 
 You can do it too.
 
-[We all can](https://united.vote/join).
+[We all can](https://liquid.us/join).
 
 How can any individual politician hope to compete?
 

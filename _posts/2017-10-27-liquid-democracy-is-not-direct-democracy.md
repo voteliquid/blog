@@ -80,4 +80,4 @@ If you think your existing elected legislator is the best option, you can still 
 
 Liquid democracy **still** means the majority of people can offload the work of legislative engagement. *And* that representation can be based upon stronger free choice than our current system offers.
 
-[Join us.](https://united.vote/join)
+[Join us.](https://liquid.us/join)

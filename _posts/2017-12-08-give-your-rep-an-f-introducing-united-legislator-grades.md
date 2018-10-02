@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Give Your Rep an F: Introducing United Legislator Grades"
+title: "Give Your Rep an F: Introducing Liquid Scorecards"
 author: unitedvote
 excerpt: 'Right now, Americans concerned about something happening in Washington are often instructed to Call Your Representatives. But there are a few problems with this tactic.'
 ---
@@ -23,7 +23,7 @@ And they have little incentive to, especially if they're *not listening* to thei
 
 #### We can bring this transparency
 
-[United](https://united.vote) lets each American vote on every item in Congress.
+[Liquid US](https://liquid.us) lets each American vote on every item in Congress.
 
 We can make it easier to contact our representatives.
 
@@ -33,7 +33,7 @@ Here's an example:
 
 ![](/assets/article_images/2017-12-08-give-your-rep-an-f-introducing-united-legislator-grades/example-voting-record-score-2.png)
 
-In this case, the elected rep voted ***nay*** on [HR1 - Tax Cuts and Jobs Act](https://united.vote/l/us115-hr1), matching 22 of 25 of their verified constituents on United.
+In this case, the elected rep voted ***nay*** on [HR1 - Tax Cuts and Jobs Act](https://liquid.us/l/us115-hr1), matching 22 of 25 of their verified constituents on Liquid US.
 
 This can bring much needed transparency and accountability to our legislative process.
 
@@ -55,11 +55,11 @@ Bills that get more votes from constituents are automatically weighted greater t
 
 #### Selection bias
 
-There's still a big issue: these scores only represent the people already signed up and verified on United.
+There's still a big issue: these scores only represent the people already signed up and verified on Liquid.
 
 We still have a long way to go before everyone's joined. Until then, our earliest adopters won't necessarily be a representative sample of the electorate at large.
 
-If United is dominated by one group, it would be too easy for people to dismiss these scores.
+If Liquid is dominated by one group, it would be too easy for people to dismiss these scores.
 
 But [liquid democracy](/2016/09/21/what-is-liquid-democracy/) is too big an idea to let that deter us.
 
@@ -91,7 +91,7 @@ Those who most listen to their constituents will get an **A+**. Those who most i
 
 See the chart to the right for the specific breakdowns by percentile.
 
-And we can do this for each party independently. Republicans separate from Democrats. This means that any red vs blue bias on United gets cancelled out.
+And we can do this for each party independently. Republicans separate from Democrats. This means that any red vs blue bias on Liquid gets cancelled out.
 
 We'll update these grades in real-time, creating a permanent accountability record.
 
@@ -117,10 +117,10 @@ They ought to do their best to represent their constituents as a whole, the way 
 
 #### Join us.
 
-United lets you vote directly on legislation, just like you're a Member of Congress.
+Liquid US lets you vote directly on legislation, just like you're a Member of Congress.
 
-Since few of us can vote on every bill, United also lets you select personal proxies for when you don't vote directly. Empower the people you trust to help represent your voice.
+Since few of us can vote on every bill, Liquid also lets you select personal proxies for when you don't vote directly. Empower the people you trust to help represent your voice.
 
 Every vote cast and proxy chosen gets us one step closer to a truly representative Congress.
 
-So join us. [**Sign up**](https://united.vote/join) today, if you haven't already.
+So join us. [**Sign up**](https://liquid.us/join) today, if you haven't already.
