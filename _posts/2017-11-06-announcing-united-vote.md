@@ -4,7 +4,6 @@ title: "Introducing United.vote: Help Build a Democracy We Can Trust"
 author: unitedvote
 excerpt: "You deserve more of a voice in Congress. Together, we can build a better way."
 image: "/assets/article_images/2017/11-06-announcing-united-vote/twitter_large.png"
-pinned: true
 ---
 
 <iframe src="https://www.youtube.com/embed/XMrRrzYXav8" frameborder="0" allowfullscreen style="margin: 40px auto"></iframe>
