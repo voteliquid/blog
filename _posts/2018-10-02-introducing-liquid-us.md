@@ -9,7 +9,7 @@ pinned: true
 
 Today we’re excited to announce that United.vote is now Liquid US ([liquid.us](https://liquid.us)), the next iteration of our vision for healthier democracy.
 
-<a href="https://liquid.us"><img src="/assets/article_images/2018/10/liquid_us_logo.png" height="90px"></a>
+<a href="https://liquid.us"><img src="/assets/article_images/2018/10/liquid_us_logo.png" style="width: 514px"></a>
 
 Liquid US empowers subject matter experts to weigh in on upcoming legislative votes from City Council to Congress. The broader community can use Liquid to learn about local-to-national legislation and endorse positions that resonate. Liquid scorecards grade public officials on how well they represent the will of their constituents.
 
