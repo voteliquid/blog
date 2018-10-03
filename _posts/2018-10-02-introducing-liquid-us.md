@@ -19,7 +19,7 @@ On top of this, nearly 2000 people in 45 states have used our Liquid platform to
 
 **We've also made a number of improvements to the platform.** You can now:
 
-- Build support or opposition for existing legislation in your state or city.
+- Build support or opposition for existing legislation in your state or city. [Here's how](https://docs.google.com/document/d/1IBaB-IZZ4Qi7jcwGp2v_zQHjZ9aEbb59Q3W1-d7LUYE/).
 - Introduce and build support for your own policy proposals.
 - [Sign up & verify in 30 seconds](https://liquid.us/verification) with only your phone & address (*cc no longer required*). You can also text "LIQUID" to 474747.
 
