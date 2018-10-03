@@ -23,4 +23,4 @@ On top of this, nearly 2000 people in 45 states have used our Liquid platform to
 - Introduce and build support for your own policy proposals.
 - [Sign up & verify in 30 seconds](https://liquid.us/verification) with only your phone & address (*cc no longer required*). You can also text "LIQUID" to 474747.
 
-**[Sign up at liquid.us](https://liquid.us/join)** to get started.
+**[Join us at liquid.us](https://liquid.us/join)** to get started.
