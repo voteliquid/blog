@@ -65,7 +65,7 @@ Any time you don't vote on a piece of legislation, our liquid democracy platform
 
 You can select anyone in your jurisdiction. The people you already know and trust now become options to represent you.
 
-[![Click for an interactive demo of liquid proxying](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.united.vote)
+[![Click for an interactive demo of liquid proxying](/assets/article_images/2016-09-21-what-is-liquid-democracy/liquid-democracy-simulation-screenshot.png)](https://demo.liquid.us)
 
 #### A Network of Trust
 

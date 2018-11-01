@@ -28,4 +28,4 @@ And debate can last as long as necessary, until real consensus is reached.
 
 <iframe src="https://www.youtube.com/embed/CEN4XNth61o" frameborder="0" allowfullscreen style="margin: -15px auto"></iframe>
 
-Liquid democracy [proxying](http://demo.united.vote) makes this practical at scale. Trusted leaders will be able to more faithfully represent large communities, all in real-time.
+Liquid democracy [proxying](http://demo.liquid.us) makes this practical at scale. Trusted leaders will be able to more faithfully represent large communities, all in real-time.
