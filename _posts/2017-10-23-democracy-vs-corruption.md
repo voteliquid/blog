@@ -64,9 +64,13 @@ Compared to our current situation, **liquid democracy can have a massive impact 
 
 There are many other efforts to reduce political corruption, and we whole-heartedly support them.
 
-But importantly, working towards liquid representation has a huge strategic advantage, because we can [begin to adopt it](/2017/11/06/announcing-united-vote/) immediately, without waiting on the legislature to pass new laws against their own entrenched interests.
+But importantly, working towards liquid representation has a huge strategic advantage, because we can [begin to adopt it](/2017/11/06/announcing-united-vote/) immediately, without any legal changes.
 
-It only takes 51% of voters in a single district — enough to elect a [Liquid Candidate](/2017/07/04/running-liquid-democracy-candidates/) — to immediately upgrade that district's representation.
+We don't need to wait on legislatures to pass new laws against their own entrenched interests, or expect courts to reverse previous decisions.
+
+All it takes is 51% of voters in a single district — enough to elect a [Liquid Candidate](/2017/07/04/running-liquid-democracy-candidates/) — to immediately upgrade that district's representation.
+
+[![](/assets/article_images/2017-07-04-running-liquid-democracy-candidates/app-announces-vote-3.jpg)](/2017/07/04/running-liquid-democracy-candidates/)
 
 This is [only a matter of time](/2018/06/06/liquid-is-inevitable/).
 
