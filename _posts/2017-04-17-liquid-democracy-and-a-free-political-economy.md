@@ -42,7 +42,7 @@ But our modern age appears to rapidly outpace our government's capacity to respo
 
 #### Liquid democracy lifts restrictions
 
-[Liquid democracy](https://intro.liquid.vote) uses modern technology to evolve our political process, offering new options for everyone.
+[Liquid democracy](/2016/09/21/what-is-liquid-democracy/) uses modern technology to evolve our political process, offering new options for everyone.
 
 All citizens can now use the [Liquid platform](https://liquid.us) to directly vote for and against legislation—something previously limited to the 0.0001% of elected legislators. Since voting can occur daily, rather than biennially, this massively expands our public space's liquidity.
 
