@@ -22,7 +22,7 @@ url: "https://blog.liquid.us" # url of the blog
 app_url: "https://liquid.us" # link back to the main app
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@VoteLiquid'
+twitter_handle: '@Liquid_US'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -30,9 +30,9 @@ twitter_handle: '@VoteLiquid'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/VoteLiquid
+    url:	https://twitter.com/Liquid_US
     desc: Follow us on twitter
-    username: "@VoteLiquid"
+    username: "@Liquid_US"
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
