@@ -10,7 +10,7 @@ Four years ago, [an infamous study](https://www.cambridge.org/core/journals/pers
 
 > Multivariate analysis indicates that economic elites and organized groups representing business interests have substantial independent impacts on US government policy, while average citizens and mass-based interest groups have little or no independent influence.
 
-[![](https://blog.united.vote/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](https://blog.united.vote/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
+[![](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)](/assets/article_images/2017-08-27-democracy-vs-corruption/Princeton-Study.png)
 
 Our current president [put the situation more succinctly](https://www.youtube.com/watch?v=e4tHW9_bb08) on the campaign trail.
 
