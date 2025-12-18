@@ -263,6 +263,7 @@ DEPENDENCIES
   bourbon
   github-pages
   jemoji
+  nokogiri
 
 BUNDLED WITH
    1.17.2
