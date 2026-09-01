@@ -36,6 +36,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     ffi (1.17.2)
+    ffi (1.17.2-arm64-darwin)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (231)
@@ -222,6 +223,8 @@ GEM
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -257,13 +260,13 @@ GEM
     zeitwerk (2.6.18)
 
 PLATFORMS
+  arm64-darwin
   ruby
 
 DEPENDENCIES
   bourbon
   github-pages
   jemoji
-  nokogiri
 
 BUNDLED WITH
-   1.17.2
+   2.4.22
