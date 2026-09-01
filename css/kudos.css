@@ -48,6 +48,8 @@ figure.kudo {
   margin-bottom: 40px;
 	margin-left: 0;
   text-align: center;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .kudo.complete a.kudobject div.opening div.circle {
